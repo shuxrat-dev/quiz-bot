@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="uz">
 <head>
+  <link rel="icon" href="5440402789030298833_120.jpg" type="image/jpeg">
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3WGFK0TFMN"></script>
 <script>
@@ -62,11 +63,10 @@
     @keyframes scaleIn { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
     .progress-bar { transition: width 0.5s ease-in-out; }
     .option-label {
-      transition: background-color 0.3s ease, transform 0.1s ease;
+      transition: background-color 0.3s ease;
+      /* Removing transform transition and hover effect */
     }
-    .option-label:hover {
-      transform: translateX(5px);
-    }
+    /* Removing the hover transform rule completely */
     .theme-toggle {
       position: relative;
       width: 44px;
@@ -129,6 +129,112 @@
       background-color: var(--bg-secondary);
       color: var(--text-primary);
       border-color: #4b5563;
+    }
+    
+    /* Accessibility Controls - Fixed version */
+    .accessibility-controls {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--card-bg);
+      padding: 12px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      z-index: 100;
+      width: 200px;
+      transition: width 0.3s ease, height 0.3s ease, padding 0.3s ease, border-radius 0.3s ease; /* Smoother transitions */
+      overflow: hidden;
+    }
+
+    .accessibility-controls.minimized {
+      width: 48px;
+      height: 48px;
+      padding: 0; /* Remove padding when minimized */
+    }
+
+    .minimize-btn {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 24px;
+      height: 24px;
+      padding: 0;
+      border: none;
+      background: none;
+      cursor: pointer;
+      color: var(--text-primary);
+      z-index: 2;
+      transition: transform 0.3s ease; /* Smooth rotation */
+    }
+
+    .controls-content {
+      opacity: 1;
+      visibility: visible;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+      padding: inherit; /* Inherit padding from parent */
+    }
+
+    .accessibility-controls.minimized .controls-content {
+      opacity: 0;
+      visibility: hidden;
+      transition: none; /* Disable transition during minimize */
+      padding: 0; /* Remove padding when minimized */
+    }
+
+    /* High contrast mode improvements */
+    [data-contrast="high"] {
+      --bg-primary: #000000;
+      --bg-secondary: #222;
+      --text-primary: #fff;
+      --text-secondary: #ddd;
+      --accent: #ff0;
+      --card-bg: #333;
+    }
+
+    [data-contrast="high"] .option-label {
+      border: 1px solid #fff;
+    }
+
+    [data-contrast="high"] .accessibility-controls {
+      border: 1px solid #fff;
+    }
+
+    /* Calm mode refinements */
+    [data-calm="true"] {
+      --transition-speed: 0.3s;
+    }
+
+    [data-calm="true"] .option-label,
+    [data-calm="true"] .progress-bar,
+    [data-calm="true"] .fade-in,
+    [data-calm="true"] .scale-in {
+      transition: all var(--transition-speed) linear !important;
+      animation: none !important;
+    }
+
+    [data-calm="true"] confetti-canvas {
+      display: none !important;
+    }
+
+    /* Remove old transition that was causing issues */
+    .option-label {
+      border: 2px solid transparent;
+      transition: background-color 0.2s ease-out, border-color 0.2s ease-out;
+    }
+
+    /* Floating progress indicator - Fixed position */
+    .floating-progress {
+      position: fixed;
+      top: 10px; /* Adjust top position */
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--card-bg);
+      padding: 8px 16px;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      z-index: 100;
+      font-size: 0.9rem;
+      opacity: 0.9;
     }
   </style>
 </head>
@@ -213,6 +319,32 @@
     </div>
   </div>
 
+  <div class="accessibility-controls" id="accessibilityMenu">
+    <button class="minimize-btn" onclick="toggleAccessibilityMenu()" title="Toggle menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="transition: transform 0.3s ease;">
+            <path d="M6 9l6 6 6-6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+    </button>
+    <div class="controls-content">
+        <div class="font-size-controls mb-2">
+            <button onclick="adjustFontSize(-1)" class="px-3 py-1 rounded bg-blue-600 text-white">A-</button>
+            <button onclick="adjustFontSize(1)" class="px-3 py-1 rounded bg-blue-600 text-white">A+</button>
+        </div>
+        <label class="flex items-center mb-2">
+            <input type="checkbox" onchange="toggleHighContrast()" class="mr-2">
+            Yuqori kontrast
+        </label>
+        <label class="flex items-center">
+            <input type="checkbox" onchange="toggleCalmMode()" class="mr-2">
+            Sokin rejim
+        </label>
+    </div>
+</div>
+
+  <div class="floating-progress hidden">
+    <span id="floatingProgress"></span>
+  </div>
+
   <script>
     let questions = [];
     let originalQuestions = [];
@@ -240,6 +372,12 @@
       if (savedTheme === 'light') {
         document.getElementById('themeToggle').classList.add('active');
       }
+
+      const savedContrast = localStorage.getItem('contrast');
+      if (savedContrast) document.body.dataset.contrast = savedContrast;
+      
+      const savedCalm = localStorage.getItem('calm');
+      if (savedCalm) document.body.dataset.calm = savedCalm;
     });
 
     // Modify startTest to handle splitting
@@ -382,7 +520,7 @@
       document.getElementById('question').innerHTML = `
         <p class="text-lg md:text-xl font-medium mb-6">${q.number}. ${q.question}</p>
         ${displayOptions.map((opt, i) => `
-          <label class="option-label block mb-3 p-4 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 cursor-pointer transition-all shadow-sm" style="background-color: var(--card-bg);" data-option="${String.fromCharCode(65 + i)}">
+          <label class="option-label block mb-3 p-4 rounded-lg cursor-pointer transition-all shadow-sm" style="background-color: var(--card-bg);" data-option="${String.fromCharCode(65 + i)}">
             <input type="radio" name="answer" value="${String.fromCharCode(65 + i)}" 
                    onchange="checkAnswer(this)" class="mr-2 accent-blue-600">${opt}
           </label>
@@ -437,10 +575,57 @@
       }, 1500);
     }
 
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      if (document.getElementById('quizSection').style.display === 'block') {
+        if (e.key >= '1' && e.key <= '4') {
+          // Convert 1-4 to A-D
+          const letter = String.fromCharCode(64 + parseInt(e.key));
+          const radio = document.querySelector(`input[value="${letter}"]`);
+          if (radio) radio.checked = true;
+          if (radio) checkAnswer(radio);
+        }
+        // Space to select focused option
+        if (e.code === 'Space' && document.activeElement.tagName === 'LABEL') {
+          e.preventDefault();
+          const radio = document.activeElement.querySelector('input');
+          if (radio) radio.checked = true;
+          if (radio) checkAnswer(radio);
+        }
+      }
+    });
+
+    // Font size control
+    let currentFontSize = 0;
+    function adjustFontSize(delta) {
+      currentFontSize = Math.max(-2, Math.min(3, currentFontSize + delta));
+      document.documentElement.style.fontSize = `${100 + (currentFontSize * 10)}%`;
+    }
+
+    // High contrast mode
+    function toggleHighContrast() {
+      document.body.dataset.contrast = 
+        document.body.dataset.contrast === 'high' ? 'normal' : 'high';
+      localStorage.setItem('contrast', document.body.dataset.contrast);
+    }
+
+    // Calm mode
+    function toggleCalmMode() {
+      const wasCalm = document.body.dataset.calm === 'true';
+      document.body.dataset.calm = wasCalm ? 'false' : 'true';
+      localStorage.setItem('calm', document.body.dataset.calm);
+    }
+
+    // Enhanced progress display
     function updateProgress() {
       const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
       document.getElementById('progressBar').style.width = `${progress}%`;
       document.getElementById('progressCounter').textContent = `${currentQuestionIndex + 1}/${questions.length}`;
+
+      // Update floating progress
+      document.querySelector('.floating-progress').classList.remove('hidden');
+      document.getElementById('floatingProgress').textContent = 
+        `${currentQuestionIndex + 1}/${questions.length} • ${Math.round(progress)}%`;
     }
 
     function startTimer() {
@@ -574,8 +759,18 @@
       document.getElementById('incorrectSection').style.display = 'none';
       document.getElementById('resultsSection').style.display = 'block';
     }
+
+    function toggleAccessibilityMenu() {
+      const menu = document.getElementById('accessibilityMenu');
+      menu.classList.toggle('minimized');
+    
+      const arrow = menu.querySelector('svg');
+      arrow.style.transform = menu.classList.contains('minimized') ? 'rotate(180deg)' : 'rotate(0deg)';
+
+      // Save state to localStorage
+      localStorage.setItem('menuMinimized', menu.classList.contains('minimized'));
+    }
   </script>
 </body>
 </html>
-
 
