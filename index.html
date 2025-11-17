@@ -260,10 +260,19 @@
           <input type="checkbox" id="shuffleAnswers" class="mr-2 accent-blue-600"> Javoblarni aralashtirish
         </label>
         <label class="flex items-center mt-2 cursor-pointer">
-          <input type="checkbox" id="splitTest" class="mr-2 accent-blue-600" onchange="document.getElementById('splitParts').style.display = this.checked ? 'inline-block' : 'none'">
-          Testni bo‘lish
-          <input type="number" id="splitParts" min="2" max="20" value="2" class="ml-2 w-16 p-1 rounded border" style="display:none;" title="Nechta qismga bo‘lish">
+          <input type="checkbox" id="splitTest" class="mr-2 accent-blue-600" onchange="document.getElementById('rangeInputs').style.display = this.checked ? 'flex' : 'none'">
+          Savollar oralig'ini tanlash (masalan 30-60)
         </label>
+        <div id="rangeInputs" class="mt-3 items-center" style="display:none; gap:8px;">
+          <label class="flex items-center" style="gap:8px;">
+            <span style="color:var(--text-secondary);">Boshlash:</span>
+            <input type="number" id="rangeStart" min="1" placeholder="1" class="w-24 p-1 rounded border">
+          </label>
+          <label class="flex items-center" style="gap:8px;">
+            <span style="color:var(--text-secondary);">Tugash:</span>
+            <input type="number" id="rangeEnd" min="1" placeholder="10" class="w-24 p-1 rounded border">
+          </label>
+        </div>
       </div>
       <button onclick="startTest()" class="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">Testni boshlash</button>
     </div>
@@ -352,9 +361,7 @@
     let userAnswers = [];
     let timerInterval;
     let totalSeconds = 0;
-    let splitParts = 1;
-    let splitQuestions = [];
-    let currentPart = 0;
+  // Range selection will be handled via UI inputs (rangeStart, rangeEnd)
 
     // Theme toggle functionality
     function toggleTheme() {
@@ -409,19 +416,22 @@
         questions.forEach(q => q.correctLetter = q.correctAnswer);
       }
 
-      // SPLIT LOGIC
+      // RANGE LOGIC: if user checked range selection, use the provided start/end values
       if (document.getElementById('splitTest').checked) {
-        splitParts = parseInt(document.getElementById('splitParts').value) || 2;
-        splitQuestions = [];
-        const partSize = Math.ceil(questions.length / splitParts);
-        for (let i = 0; i < splitParts; i++) {
-          splitQuestions.push(questions.slice(i * partSize, (i + 1) * partSize));
+        const startVal = parseInt(document.getElementById('rangeStart').value, 10);
+        const endVal = parseInt(document.getElementById('rangeEnd').value, 10);
+        if (isNaN(startVal) || isNaN(endVal)) {
+          alert('Iltimos, boshlanish va tugash savollarini to‘ldiring. Masalan: 30 va 60.');
+          return;
         }
-        showPartSelector();
-        return;
-      } else {
-        splitQuestions = [];
-        currentPart = 0;
+        const s = Math.max(1, startVal);
+        const e = Math.min(questions.length, endVal);
+        if (s > e) {
+          alert('Boshlanish savoli tugash savolidan katta bo‘lishi mumkin emas. Iltimos, tekshiring.');
+          return;
+        }
+        // slice uses zero-based index
+        questions = questions.slice(s - 1, e);
       }
 
       document.getElementById('startSection').style.display = 'none';
@@ -433,29 +443,14 @@
 
     // Show part selector UI
     function showPartSelector() {
-      let html = `<div class="mb-6 p-4 rounded-lg text-center" style="background-color: var(--card-bg);">
-        <h3 class="text-lg font-semibold mb-2">Qismni tanlang</h3>
-        <div class="flex flex-wrap justify-center gap-2 mb-2">`;
-      for (let i = 0; i < splitParts; i++) {
-        html += `<button class="bg-blue-600 text-white px-4 py-2 rounded-lg m-1 hover:bg-blue-700" onclick="startSplitPart(${i})">Qism ${i + 1}</button>`;
-      }
-      html += `</div></div>`;
-      document.getElementById('startSection').style.display = 'none';
-      document.getElementById('quizContainer').insertAdjacentHTML('beforeend', `<div id="partSelector">${html}</div>`);
+      // Deprecated: part selector removed in favor of direct range selection.
+      return;
     }
 
     // Start selected part
     function startSplitPart(partIdx) {
-      questions = splitQuestions[partIdx];
-      originalQuestions = [...questions];
-      currentPart = partIdx;
-      userAnswers = [];
-      currentQuestionIndex = 0;
-      document.getElementById('partSelector').remove();
-      document.getElementById('quizSection').style.display = 'block';
-      startTimer();
-      updateProgress();
-      displayQuestion();
+      // Deprecated: part-by-part flow removed. Use range selection instead.
+      return;
     }
 
     function parseQuizFile(fileText) {
@@ -464,43 +459,32 @@
     }
 
     function parseQuestion(block) {
-      const lines = block.split('\n').map(line => line.trim()).filter(line => line);
-      const firstLine = lines[0];
-      const numberMatch = firstLine.match(/^(\d+)\.\s+(.*)/);
-      if (!numberMatch) return null;
-
-      const number = numberMatch[1];
-      let questionText = numberMatch[2];
+      // Robust question parser: expects block with first line "<num>. <question>"
+      // and subsequent lines like "A) text" or "*B) text" (asterisk marks correct).
+      const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+      if (lines.length === 0) return null;
+      const header = lines[0];
+      const h = header.match(/^(\d+)\.\s*(.*)/);
+      if (!h) return null;
+      const number = h[1];
+      let questionText = h[2];
       const options = [];
       let correctAnswer = null;
 
-      const optionsStart = questionText.search(/\s[A-D)]\)/);
-      if (optionsStart !== -1) {
-        const optionsText = questionText.slice(optionsStart).trim();
-        questionText = questionText.slice(0, optionsStart).trim();
-        const optionRegex = /(\*?[A-D)]\))\s+(.*?)(?=\s[A-D]\)|$)/g;
-        let match;
-        while ((match = optionRegex.exec(optionsText)) !== null) {
-          const optionLabel = match[1];
-          const optionText = match[2].trim();
-          const letter = optionLabel.replace('*', '').replace(')', '');
-          const isCorrect = optionLabel.startsWith('*');
-          options.push({ letter, text: optionText });
+      for (let i = 1; i < lines.length; i++) {
+        const m = lines[i].match(/^(\*?)([A-D])\)\s*(.*)/);
+        if (m) {
+          const isCorrect = m[1] === '*';
+          const letter = m[2];
+          const text = m[3];
+          options.push({ letter, text });
           if (isCorrect) correctAnswer = letter;
-        }
-      } else {
-        for (let i = 1; i < lines.length; i++) {
-          const optionMatch = lines[i].match(/^(\*?[A-D)]\))\s+(.*)/);
-          if (optionMatch) {
-            const optionLabel = optionMatch[1];
-            const optionText = optionMatch[2];
-            const letter = optionLabel.replace('*', '').replace(')', '');
-            const isCorrect = optionLabel.startsWith('*');
-            options.push({ letter, text: optionText });
-            if (isCorrect) correctAnswer = letter;
-          }
+        } else {
+          // If a line doesn't match option, treat it as continuation of question text
+          questionText += ' ' + lines[i];
         }
       }
+
       if (!correctAnswer || options.length < 2) return null;
       return { number, question: questionText, options, correctAnswer };
     }
@@ -669,11 +653,7 @@
       const secs = totalSeconds % 60;
       document.getElementById('totalTime').textContent = `${minutes}:${secs.toString().padStart(2, '0')}`;
 
-      if (splitQuestions.length > 0 && currentPart < splitParts - 1) {
-        // Show selector for next part
-        let nextBtn = `<button class="bg-blue-600 text-white px-4 py-2 rounded-lg m-1 hover:bg-blue-700" onclick="showPartSelector()">Keyingi qismga o'tish</button>`;
-        document.getElementById('resultsSection').insertAdjacentHTML('beforeend', `<div class="text-center">${nextBtn}</div>`);
-      }
+      // Range/part-based flow removed; all logic is handled via range slice at start.
     }
 
     function reviewIncorrect() {
@@ -773,4 +753,3 @@
   </script>
 </body>
 </html>
-
