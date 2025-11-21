@@ -392,21 +392,55 @@
       try {
         const response = await fetch('test/q.txt');
         const fileText = await response.text();
-        questions = parseQuizFile(fileText);
-        originalQuestions = [...questions];
-        if (questions.length === 0) throw new Error('No valid questions');
+        const allQuestions = parseQuizFile(fileText);
+        if (allQuestions.length === 0) throw new Error('No valid questions');
+
+        // If user selected a range, build the subset by question NUMBER (not by array index).
+        // This avoids mismatches when some question blocks fail to parse or numbers are sparse.
+        let subset = allQuestions;
+        if (document.getElementById('splitTest').checked) {
+          const startVal = parseInt(document.getElementById('rangeStart').value, 10);
+          const endVal = parseInt(document.getElementById('rangeEnd').value, 10);
+          if (isNaN(startVal) || isNaN(endVal)) {
+            alert('Iltimos, boshlanish va tugash savollarini to‘ldiring. Masalan: 30 va 60.');
+            return;
+          }
+          if (startVal > endVal) {
+            alert('Boshlanish savoli tugash savolidan katta bo‘lishi mumkin emas. Iltimos, tekshiring.');
+            return;
+          }
+
+          // Determine available question number range in the file (use parsed numbers)
+          const nums = allQuestions.map(q => q.number).filter(n => typeof n === 'number');
+          const minNum = Math.min(...nums);
+          const maxNum = Math.max(...nums);
+
+          // Build subset by filtering questions whose parsed number is within [startVal, endVal]
+          subset = allQuestions.filter(q => q.number >= startVal && q.number <= endVal);
+
+          if (subset.length === 0) {
+            alert(`Belgilangan oralig'ida savollar topilmadi. Fayldagi mavjud savol raqamlari: ${minNum} - ${maxNum}.`);
+            return;
+          }
+        }
+
+        // originalQuestions keeps the base subset in file order (used for restart/retry)
+        originalQuestions = subset.map(q => JSON.parse(JSON.stringify(q)));
+        // Working copy that will be shuffled/modified for the run
+        questions = subset.map(q => JSON.parse(JSON.stringify(q)));
       } catch (error) {
         alert('Test faylini yuklashda xato. test/q.txt faylini tekshiring.');
         console.error(error);
         return;
       }
 
-      // Shuffle logic
+      // Shuffle logic applied only to the subset in `questions`
       if (document.getElementById('shuffleQuestions').checked) {
         questions = shuffleArray(questions);
       }
       if (document.getElementById('shuffleAnswers').checked) {
         questions.forEach(q => {
+          // build shuffled option texts and determine which letter becomes correct
           const originalCorrectText = q.options.find(opt => opt.letter === q.correctAnswer).text;
           q.shuffledOptions = shuffleArray([...q.options.map(opt => opt.text)]);
           q.shuffledCorrectIndex = q.shuffledOptions.indexOf(originalCorrectText);
@@ -416,23 +450,13 @@
         questions.forEach(q => q.correctLetter = q.correctAnswer);
       }
 
-      // RANGE LOGIC: if user checked range selection, use the provided start/end values
-      if (document.getElementById('splitTest').checked) {
-        const startVal = parseInt(document.getElementById('rangeStart').value, 10);
-        const endVal = parseInt(document.getElementById('rangeEnd').value, 10);
-        if (isNaN(startVal) || isNaN(endVal)) {
-          alert('Iltimos, boshlanish va tugash savollarini to‘ldiring. Masalan: 30 va 60.');
-          return;
-        }
-        const s = Math.max(1, startVal);
-        const e = Math.min(questions.length, endVal);
-        if (s > e) {
-          alert('Boshlanish savoli tugash savolidan katta bo‘lishi mumkin emas. Iltimos, tekshiring.');
-          return;
-        }
-        // slice uses zero-based index
-        questions = questions.slice(s - 1, e);
-      }
+      // After shuffling questions array, keep a snapshot of the current starting order
+      // so restartTest can restore this run (we store a deep copy)
+      const runStartSnapshot = questions.map(q => JSON.parse(JSON.stringify(q)));
+      // Save this snapshot so restartTest can use it
+      window.__runStartSnapshot = runStartSnapshot;
+
+      // Range selection already applied earlier by question number; no further slicing here.
 
       document.getElementById('startSection').style.display = 'none';
       document.getElementById('quizSection').style.display = 'block';
@@ -466,7 +490,7 @@
       const header = lines[0];
       const h = header.match(/^(\d+)\.\s*(.*)/);
       if (!h) return null;
-      const number = h[1];
+  const number = parseInt(h[1], 10);
       let questionText = h[2];
       const options = [];
       let correctAnswer = null;
@@ -680,18 +704,39 @@
     }
 
     function retryIncorrect() {
-      const incorrectIndices = questions
-        .map((q, i) => (userAnswers[i] !== q.correctLetter ? i : -1))
-        .filter(i => i !== -1);
-      if (incorrectIndices.length === 0) {
+      // Build a list of question numbers the user answered incorrectly in THIS run
+      const incorrectNumbers = questions
+        .map((q, i) => (userAnswers[i] !== q.correctLetter ? q.number : -1))
+        .filter(n => n !== -1);
+      if (incorrectNumbers.length === 0) {
         alert('Xato javoblar yo‘q!');
         return;
       }
-      questions = incorrectIndices.map(i => originalQuestions[i]);
+
+      // Rebuild questions from originalQuestions (the subset in file order)
+      let newQuestions = originalQuestions.filter(q => incorrectNumbers.includes(q.number)).map(q => JSON.parse(JSON.stringify(q)));
+
+      // Apply shuffles according to current settings
+      if (document.getElementById('shuffleQuestions').checked) {
+        newQuestions = shuffleArray(newQuestions);
+      }
+      if (document.getElementById('shuffleAnswers').checked) {
+        newQuestions.forEach(q => {
+          const originalCorrectText = q.options.find(opt => opt.letter === q.correctAnswer).text;
+          q.shuffledOptions = shuffleArray([...q.options.map(opt => opt.text)]);
+          q.shuffledCorrectIndex = q.shuffledOptions.indexOf(originalCorrectText);
+          q.correctLetter = String.fromCharCode(65 + q.shuffledCorrectIndex);
+        });
+      } else {
+        newQuestions.forEach(q => q.correctLetter = q.correctAnswer);
+      }
+
+      questions = newQuestions;
       currentQuestionIndex = 0;
       userAnswers = [];
       clearInterval(timerInterval);
       document.getElementById('resultsSection').style.display = 'none';
+      document.getElementById('incorrectSection').style.display = 'none';
       document.getElementById('quizSection').style.display = 'block';
       startTimer();
       updateProgress();
@@ -699,7 +744,8 @@
     }
 
     function restartTest() {
-      questions = [...originalQuestions];
+      // Deep clone originalQuestions (the selected subset in file order)
+      questions = originalQuestions.map(q => JSON.parse(JSON.stringify(q)));
       if (document.getElementById('shuffleQuestions').checked) {
         questions = shuffleArray(questions);
       }
