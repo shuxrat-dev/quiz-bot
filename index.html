@@ -248,11 +248,13 @@
     <!-- Start Section -->
     <div id="startSection" class="fade-in">
       <h1 class="text-3xl md:text-4xl font-extrabold text-center mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-600">QuickQuiz</h1>
-      <div class="mb-6 p-4 rounded-lg" style="background-color: var(--card-bg);">
-        <h3 class="text-lg font-semibold mb-2">Test turi</h3>
-        <p style="color: var(--text-secondary);">FALSAFA 2-KURS✍️</p>
+      <div id="quizSelector" class="mb-6 p-4 rounded-lg" style="background-color: var(--card-bg);">
+        <h3 class="text-lg font-semibold mb-2">Test tanlang</h3>
+        <div id="quizList" class="space-y-2">
+          <!-- Quiz options will be populated here -->
+        </div>
       </div>
-      <div class="mb-6 p-4 rounded-lg" style="background-color: var(--card-bg);">
+      <div id="quizOptions" class="mb-6 p-4 rounded-lg" style="background-color: var(--card-bg); display: none;">
         <label class="flex items-center mb-2 cursor-pointer">
           <input type="checkbox" id="shuffleQuestions" class="mr-2 accent-blue-600"> Savollarni aralashtirish
         </label>
@@ -274,7 +276,7 @@
           </label>
         </div>
       </div>
-      <button onclick="startTest()" class="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">Testni boshlash</button>
+      <button id="startButton" onclick="startTest()" class="w-full bg-blue-600 text-white py-3 rounded-lg hover:bg-blue-700 transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50" style="display: none;">Testni boshlash</button>
     </div>
 
     <!-- Quiz Section -->
@@ -294,6 +296,7 @@
     <div id="resultsSection" class="hidden fade-in">
       <h2 class="text-2xl md:text-3xl font-bold text-center mb-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-600">Test yakunlandi!</h2>
       <div id="summary" class="mb-6 p-4 rounded-lg text-center" style="background-color: var(--card-bg);">
+        <p class="text-lg font-semibold mb-2" id="quizTitle"></p>
         <p class="text-lg font-semibold">Natija: <span id="correctCount"></span> / <span id="totalCount"></span> to‘g‘ri</p>
         <p class="text-lg font-semibold">Sarflangan vaqt: <span id="totalTime"></span></p>
       </div>
@@ -361,6 +364,8 @@
     let userAnswers = [];
     let timerInterval;
     let totalSeconds = 0;
+    let quizList = [];
+    let selectedQuiz = null;
   // Range selection will be handled via UI inputs (rangeStart, rangeEnd)
 
     // Theme toggle functionality
@@ -373,7 +378,7 @@
     }
 
     // Load theme preference on page load
-    document.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('DOMContentLoaded', async () => {
       const savedTheme = localStorage.getItem('theme') || 'dark';
       document.body.dataset.theme = savedTheme;
       if (savedTheme === 'light') {
@@ -385,12 +390,55 @@
       
       const savedCalm = localStorage.getItem('calm');
       if (savedCalm) document.body.dataset.calm = savedCalm;
+
+      // Load quiz list
+      await loadQuizList();
     });
+
+    // Load quiz list from JSON file
+    async function loadQuizList() {
+      try {
+        const response = await fetch('test/quiz-list.json');
+        quizList = await response.json();
+        displayQuizList();
+      } catch (error) {
+        console.error('Failed to load quiz list:', error);
+        alert('Test ro\'yxatini yuklashda xato. test/quiz-list.json faylini tekshiring.');
+      }
+    }
+
+    // Display quiz selection list
+    function displayQuizList() {
+      const quizListElement = document.getElementById('quizList');
+      quizListElement.innerHTML = '';
+      
+      quizList.forEach((quiz, index) => {
+        const quizButton = document.createElement('button');
+        quizButton.className = 'w-full text-left p-3 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900 transition-colors cursor-pointer';
+        quizButton.style.backgroundColor = 'var(--card-bg)';
+        quizButton.onclick = () => selectQuiz(index);
+        quizButton.textContent = quiz.name;
+        quizListElement.appendChild(quizButton);
+      });
+    }
+
+    // Select a quiz
+    function selectQuiz(index) {
+      selectedQuiz = quizList[index];
+      document.getElementById('quizSelector').style.display = 'none';
+      document.getElementById('quizOptions').style.display = 'block';
+      document.getElementById('startButton').style.display = 'block';
+    }
 
     // Modify startTest to handle splitting
     async function startTest() {
+      if (!selectedQuiz) {
+        alert('Iltimos, test tanlang.');
+        return;
+      }
+      
       try {
-        const response = await fetch('test/q.txt');
+        const response = await fetch(`test/${selectedQuiz.file}`);
         const fileText = await response.text();
         const allQuestions = parseQuizFile(fileText);
         if (allQuestions.length === 0) throw new Error('No valid questions');
@@ -429,7 +477,7 @@
         // Working copy that will be shuffled/modified for the run
         questions = subset.map(q => JSON.parse(JSON.stringify(q)));
       } catch (error) {
-        alert('Test faylini yuklashda xato. test/q.txt faylini tekshiring.');
+        alert('Test faylini yuklashda xato. test/' + selectedQuiz.file + ' faylini tekshiring.');
         console.error(error);
         return;
       }
@@ -478,38 +526,45 @@
     }
 
     function parseQuizFile(fileText) {
-      const questionBlocks = fileText.trim().split(/\n(?=\d+\.\s)/);
-      return questionBlocks.map(block => parseQuestion(block)).filter(q => q);
+      const lines = fileText.trim().split('\n');
+      let quizName = selectedQuiz.name; // Default to name from JSON
+      
+      // Extract quiz name from first line if it starts with # QUIZ:
+      if (lines[0] && lines[0].startsWith('# QUIZ:')) {
+        const nameMatch = lines[0].match(/^# QUIZ:\s*(.*)/);
+        if (nameMatch) {
+          quizName = nameMatch[1].trim();
+        }
+      }
+      
+      const blocks = fileText.trim().split(/\n\s*\n/);
+      const questionBlocks = blocks.filter(block => block.startsWith('Q'));
+      const questions = questionBlocks.map(block => parseQuestion(block)).filter(q => q);
+      
+      // Store the quiz name for display
+      window.currentQuizName = quizName;
+      
+      return questions;
     }
 
     function parseQuestion(block) {
-      // Robust question parser: expects block with first line "<num>. <question>"
-      // and subsequent lines like "A) text" or "*B) text" (asterisk marks correct).
       const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
-      if (lines.length === 0) return null;
+      if (lines.length < 6) return null;
       const header = lines[0];
-      const h = header.match(/^(\d+)\.\s*(.*)/);
+      const h = header.match(/^Q(\d+):\s*(.*)/);
       if (!h) return null;
-  const number = parseInt(h[1], 10);
-      let questionText = h[2];
+      const number = parseInt(h[1], 10);
+      const questionText = h[2];
       const options = [];
-      let correctAnswer = null;
-
-      for (let i = 1; i < lines.length; i++) {
-        const m = lines[i].match(/^(\*?)([A-D])\)\s*(.*)/);
-        if (m) {
-          const isCorrect = m[1] === '*';
-          const letter = m[2];
-          const text = m[3];
-          options.push({ letter, text });
-          if (isCorrect) correctAnswer = letter;
-        } else {
-          // If a line doesn't match option, treat it as continuation of question text
-          questionText += ' ' + lines[i];
-        }
+      for (let i = 1; i <= 4; i++) {
+        const optMatch = lines[i].match(/^([A-D])\)\s*(.*)/);
+        if (!optMatch) return null;
+        options.push({ letter: optMatch[1], text: optMatch[2] });
       }
-
-      if (!correctAnswer || options.length < 2) return null;
+      const answerLine = lines[5];
+      const ansMatch = answerLine.match(/^ANSWER:\s*([A-D])$/);
+      if (!ansMatch) return null;
+      const correctAnswer = ansMatch[1];
       return { number, question: questionText, options, correctAnswer };
     }
 
@@ -673,6 +728,7 @@
       // Display summary
       document.getElementById('correctCount').textContent = correctCount;
       document.getElementById('totalCount').textContent = questions.length;
+      document.getElementById('quizTitle').textContent = window.currentQuizName || selectedQuiz.name;
       const minutes = Math.floor(totalSeconds / 60);
       const secs = totalSeconds % 60;
       document.getElementById('totalTime').textContent = `${minutes}:${secs.toString().padStart(2, '0')}`;
@@ -774,10 +830,14 @@
       originalQuestions = [];
       currentQuestionIndex = 0;
       userAnswers = [];
+      selectedQuiz = null;
       clearInterval(timerInterval);
       document.getElementById('resultsSection').style.display = 'none';
       document.getElementById('incorrectSection').style.display = 'none';
       document.getElementById('startSection').style.display = 'block';
+      document.getElementById('quizSelector').style.display = 'block';
+      document.getElementById('quizOptions').style.display = 'none';
+      document.getElementById('startButton').style.display = 'none';
       document.getElementById('timer').textContent = '0:00';
     }
 
