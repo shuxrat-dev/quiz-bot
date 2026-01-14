@@ -1,1406 +1,988 @@
-# QUIZ: Dinshunoslik
+# QUIZ: Iqtisodiy siyosat
 
-Q1: Teologiya so‘zi ma‘nosi qaysi bandda to‘g‘ri berilgan?
-A)theos-xudo, logos-ta‘limot
-B)theos-xudo, sophia-donishmandlik
-C)aqiyda(aqada, aqoid)-bir narsani ikkinchiga mahkam bog‘lash
-D)da‘na-kimgadir bo‘ysinmoq, e‘tiqod qilmoq
+Q1: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
+B)Davlatning foydani maksimumlashtirishga qaratilgan faoliyati.
+C)Iste'molchilarning iste'molini maksimumlashtirishga qaratilgan harakatlari.
+D)Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
 ANSWER: A
 
-Q2: Dinning funktsiyalari to‘g‘ri berilgan qatorni toping?
-A)dunyoqarash shakllantirish, kompensatorlik, kommunikativlik, regulyativlik, integratsion-dezintegratsion, madaniyatni targ‘ib qilish, legitimlashtirish-legitimlarni olib tashlash
-B)din fenomenologiyasi, din sotsiyalogiyasi, din psixologiyasi, din falsafasi, din tarixi
-C)mintaqaviy tasniflash(qita‘larda tarqalishiga ko‘ra), jo‘g‘rofiy mintaqasiga ko‘ra(sharq dinlari yoki g‘arb dinlari), qadimgi dinlar(siyosiy mintaqalariga ko‘ra Messopotamiya dinlari, Fors dinlari), dinlarning mamlakatlar hududlariga ko‘ra(Falastin dinlari, Arabiston yarim oroli dinlari)
-D)urug‘-qabila dinlari, millat-davlat dinlari, jahon dinlari
+Q2: Uy xoʻjaligining asosiy maqsadi nimadan iborat?
+A)Oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etish.
+B)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+C)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash.
+D)Raqobatbardoshlikni oshirish va yangi bozorlarga kirish.
 ANSWER: A
 
-Q3: Olimlar muayan e’tiqod din deb atalishi uchun uch asosiy xususiyatga ega bo‘lishi lozimligini ta‘kidlaydilar. Bu asosiy xususiyatlar qaysi bandda to‘g‘ri berilgan?
-A)Xudo(topinish ob‘ekti), kult yoki kultlar majmuasi(ibodat), diniy tashkilotlar
-B)transtsendent dinlar va immanent dinlar (antropomorf, zooantropomorf, zoomorf)
-C)politeistik dinlar, genoteizm dinlari, monotestik dinlar
-D)teologik yondoshuv, (Odam va Havvo) va materialistik yondoshuv
+Q3: Davlatning iqtisodiy siyosatdagi asosiy maqsadi qanday?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+B)Faqatgina firmaning foydasini oshirish.
+C)Xususiy mulkchilikning butunlay bekor qilinishi.
+D)Bozor mexanizmlariga toʻliq aralashmaslik.
 ANSWER: A
 
-Q4: Qiyosiy dinshunoslik metodlarini toping?
-A)mavzular asosida, dinlar bo‘yicha qiyosiy o‘rganish, xolislik(betaraflik)
-B)din a‘zolardan iborat organizm(mifologik,etik,marosim,ijtimoyilik,ijtimoyi institutsional,diniy tajriba), udo Tvorushka(din ichidagi oqimlarning qarashlarini ham hisobga olish),dinlardagi asliyat va bugungi kundagi voqeylik o‘rtasidagi farqni hisobga olish,qiyosiylik o‘zining doirasidan tashqariga chiqmasligi kerak,dinlardagi ilohiylik bilan boshqa milliy dinlarning madaniy qarashlarni qiyoslamasligi lozim,dinlardagi saqlanib kelgan an‘anaviylik bilan zamonaviy voqeylik emas,balki boshqa dindagi aynan shu holat qiyoslanishi kerak
-C)tipologik metod(tarixiy-geografik jihatiga ko‘ra)etnik jihatiga ko‘ra,e‘tiqod qiluvchilar soniga ko‘ra,hozirgi davrda mavjudligi jihatidan(tirik va o‘lik diniy tizimlar)
-D)genetik metod(ilk davrdan to hozirgi vaqtgacha bo‘lgan holatini o‘rganadi), tarkibiy-funksional metod(diniy ramzlar va boshqa diniy tushunchalar strukturasini ochib beradi)
+Q4: Iqtisodiy siyosatning qanday darajalari mavjud?
+A)Mikro, makro va meta (xalqaro) darajalar
+B)Faqat mikro va makro darajalar
+C)Faqat milliy va mintaqaviy darajalar
+D)Hududiy va tarmoq darajalar
 ANSWER: A
 
-Q5: Islom olamida dinlarni o‘rganishga oid asarlar qaysi bandda to‘g‘ri berilgan?
-A) “Ad-Diyonat”(Dinlar) Hasan ibn Muso an-Navbaxtiy (910), “Al-Firaq” (Firqalar) Abu Mansur Abdulqodir al-Bag‘dodiy (1038), “Al-Milal” yo‘nalishidagi (xalqlar) Qozi Abu Bakr Baqilloniy (1012), Ar-Radd (Raddiya) imom G‘azzoliy (1111)
-B) “Tarix” Gerodot (mil.avv. V asr),”tarix otasi”
-C) “Al-Osorul boqiya” (Boqiy asarlar) Abu Rayhon Beruniyning qiyosiy dinshunoslikka oid asari va “Tahqiqun ma lilhind min maqulatin, maqbulatin fil aqli av marzulatin”(Aqlga maqbul yoki nomaqul bo‘lgan Hindistonga oid izlanishlardan)
-D) “Qiyosiy mifologiya”(1856) va “Dinlarning asosi va shakllanishiga oid dars baholari”(1870) Maks Myuller
+Q5: Erkin iqtisodiyotning asosiy xususiyatlaridan biri nima?
+A)Tadbirkorlik va tanlash erkinligi
+B)Davlatning iqtisodiyotga cheklanmagan aralashuvi
+C)Firmalarning monopolistik sharoitda faoliyat yuritishi
+D)Narxlar va resurslar bahosining davlat tomonidan qat'iy belgilanishi
 ANSWER: A
 
-Q6: Dinlarning shakllanishi va eng qadimgi dinlar evoluytsiyasi bu.?
-A)Animizm-jon-ruh(1871y.ing. olimi E. Teylor ilk diniy tasavvur), Totemizm (ot-otem-uning urug‘i)1791 y. Jon Long, Fetishizm-tumor, goll.sayohi B.Botsman va frantsuz olimi Sharl de Bros 1760 yil), Shamanizm-tungus tilian olingan, “saman”-biluvchi kishi, Magiya-sehrgarlik
-B)Buddizm, xristianlik, islom
-C)Tangrichilik,zardushtiylik,moniylik
-D)Yahudiylik, vedizm, braxmanlik, hindiylik, jaynizm, sikxiylik, konfutsiylik, daochilik, sintoizm
+Q6: Pul massasining oʻsishi qat'iy chegaralanadigan monetar siyosat turi qanday nomlanadi?
+A)Qattiq siyosat
+B)Yumshoq siyosat
+C)Fiskal siyosat
+D)Aralash siyosat
 ANSWER: A
 
-Q7: “Din” so‘zi qaysi tildan olingan va istilohiy ma’nosini bilasizmi?
-A)arabcha “da’na” va “diynun” fe‘lidan,”e‘tiqod qilmoq” va “imon”
-B)o‘zbek tilidan, “ishonch” yoki “ibodat”
-C)turkiy xalqlardan, “darm”,”nom”,”den”
-D)ibroniy tilidan, “dath”- “qonun”,”hukm”
+Q7: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+B)Ishlab chiqarish jarayonlarini markazlashtirilgan boshqarish usuli.
+C)Faqat davlat tomonidan pul muomalasini tartibga solish tizimi.
+D)Xalqaro savdo bitimlarini tuzishga qaratilgan siyosat.
 ANSWER: A
 
-Q8: Dinshunoslik fanining anglosakslardagi nomlanishini toping?
-A)ing “History of Religions”
-B)nem. “Religions Wissenschaft”
-C)rus. “religio”
-D)lat. “relegere”
+Q8: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+B)Faqatgina foydani maksimumlashtirish.
+C)Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
+D)Tabiiy resurslarning miqdorini oshirish.
 ANSWER: A
 
-Q9: “Aqida bilmagan shaytona eldur, agar ming yil amal deb qilsa, eldur” misralar muallifini toping?
-A)So‘fi Ollohyor
-B)Abu Hanifa
-C)imom Buxoriy
-D)imom Termiziy
+Q9: Monetar siyosatning asosiy jihatlari qaysilar?
+A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati.
+B)Soliqlar, subsidiyalar va litsenziyalar.
+C)Ishlab chiqarish vositalarini milliylashtirish, yangi korxonalar barpo etish va aksiyalarni sotib olish.
+D)Ish haftasining maksimal davomiyligini belgilash va eng kam ish haqini aniqlash.
 ANSWER: A
 
-Q10: Dinshunoslik “religious studies” so‘zini qo‘llagan olim?
-A)nem.Fridrix Maks Myuller, ”Sharqning muqaddas kitoblari tarjima silsilasi”da, Oksfordda
-B)golland.S.R.Tile va Pierre Daniel Chantepie de la Saussaye
-C)Abu Rayhon Beruniy “Hindiston” asarida
-D)Abu Rayhon Beruniy “al-Osor al-boqiya an al-qurun al-xoliya”,(O‘tmish xalqlardan qolgan yodgorliklar) asarida
+Q10: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
+B)Davlatning faqat tashqi iqtisodiy aloqalarini tartibga solish mexanizmi
+C)Faqat bozor mexanizmlari orqali amalga oshiriladigan chora-tadbirlar tizimi
+D)Jamiyatdagi siyosiy partiyalarning iqtisodiy qarorlari
 ANSWER: A
 
-Q11: Yahudiy dini vakillari tarixi va adabiy-badiiy manbalarda qanday nomlar bilan tilga olinadi?
-A) “Yahudiy”,”Ibroniy”, “Isroil o‘g‘illari”
-B)Ishoq payg‘ambarning o‘g‘li Yoqubning 12 nafar o‘g‘lidan biri “Yahuda” nomi bilan
-C) “Ibroniy” yoki “ibri”-“narigi tomonning odami”,”kelgindi”nomi bilan
-D) “Isroil”-“xudo bilan kurashib uni enggan” degan ma‘noda,Yoqub payg‘ambarga Xudo tomonidan berilgan, ya‘ni”bani isroil” nomi bilan
+Q11: Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
+A)Ijtimoiy ne'matlar yaratish
+B)Xususiy korxonalarning barcha faoliyatini toʻliq nazorat qilish
+C)Faqat strategik tarmoqlarga investitsiya kiritish
+D)Xalqaro tashkilotlarning iqtisodiy qarorlarini qabul qilish
 ANSWER: A
 
-Q12: Yahudiylik dinining muqaddas manbalari nomi to‘g‘ri berilgan qatorni toping?
-A)Tanah 1-bo‘limi:(Tora-Tavrot-Ibtido(Borliq), Chiqish, Loviylar, Sonlar, Ikkinchi qonun); 2- bo‘limi:Naviim(Payg‘ambarlar),3- bo‘limi:Ketuvim(Kitoblar)
-B)Talmud-(ibr.o‘rganish,Tavrot sharhi), Mishna-(o‘rganish) va Gemara (ibr.Xotima)
-C)Zabur
-D)Qadimgi Ahd
+Q12: Monetar siyosatning asosiy jihatlaridan biri nima?
+A)Qayta moliyalashtirish siyosati
+B)Davlat budjetining taqsimotini belgilash
+C)Ishlab chiqarish resurslarini toʻgʻridan-toʻgʻri taqsimlash
+D)Soliq stavkalarini oʻzgartirish
 ANSWER: A
 
-Q13: Yahudiylik ta‘limotida Xudo Yaxve tomonidan Tur tog‘ida Musoga nozil qilingan “O‘n(10) amr”(Tavrotning “Chiqish” va “Ikkinchi qonun” kitobida) to‘g‘ri berilgan javobni toping?
-A)Dunyoni yaratgan, yakka-yu yagona Yaxvedan boshqa iloh yo‘qligiga imon keltirish, Yaxvedan boshqaga ibodat qilmaslik, Xudoning nomini bo‘lar bo‘lmasga tilga olavermaslik, Shanba kunini muqaddas bilib, u kunda dam olish, Ota-onani hurmat qilish, Qotillik qilmaslik, Zino qilmaslik, O‘g‘rilik qilmaslik, O‘z yaqinlari (yahudiylar) haqqiga yolg‘on guvohlik bermaslik, O‘z yaqinlari uyiga, ayoliga, quliga, hayvonlarga, umuman unga tegishli bo‘lgan narsalarga ko‘z olaytirmaslik
-B)Rosh-Ashona-(yil boshi),Yom-Kipur-(ro‘za tutish), Pesax(Pasxa)-(qullikdan ozod bo‘lgani uchun, matsa-xamirturishsiz non iste‘mol qilish), Shavuot-(Tavrot va o‘n amr tushgan birinchi kecha),Sukkot-(chodirlar bayrami),Purim-(shirinlik bayrami),Xanukka-(yangilanish),Kaddish-(dafn marosimida sinagogada o‘qiladigan duo),Yortsayt-(mayitni bir yildan so‘ng xotirlash marosimi,qabrga tosh qo‘yish),Sinogoga-(jamlanish)ibr.beyt-kneset,balog ‘atga etgan(13 yosh) kamida 10 erkak kishi jamoat bo‘lganda o‘tkaziladi)
-C).Dovud yuldduzi, Menora, Xamsa (ibr.Yad-qo‘l, Sefarad yahudiy), Kipi
-D)Saduqiylik-(Sulaymon payg‘ambar davridagi Tsadoka ruhoniy nomidaan olingan),Farziylar-(nopokliklardan uzoq bo‘lish),(Esseylar-dindor zohidlar)
+Q13: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
+A)Milliy iqtisodiyotning mustaqilligini ta'minlash
+B)Xususiy korxonalarning monopoliyasini oshirish
+C)Bozor mexanizmining toʻliq bekor qilinishi
+D)Cheklanmagan davlat aralashuvi
 ANSWER: A
 
-Q14: Vedalar-(muqaddas ilohiy bilimlar) nechta bo‘limdan iborat?
-A) 4 ta bo‘limdan, Rig-Veda(madhiyalar vedasi), Sama-Veda(Qo‘shiqlar vedasi), Yajur-Veda(Qurbonliklar vedasi), Atxarva-Veda(Afsun va jodular vedasi)
-B) 2ta bo‘limdan, Shruti-(Vahiyga tayanuvchi)vedalari, Smitriga-(Dostoniy)vedalari
-C) 5 ta bo‘limdan, Vedalarning muqaddasligi, Guru(pir,ustoz)ning tan olinishi, Muqaddas joylarga ziyoratga borish, Sanskrit tilining muqaddsligi til ekanligi, Sigir muqaddas ekani
-D) 3 ta bo‘limdan, Braxma-yaratuvchi, Vishnu-qo‘riqlovchi, Shiva-yo‘q qiluvchi xudolardan
+Q14: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+A)Ekstensiv iqtisodiy oʻsish
+B)Intensiv iqtisodiy oʻsish
+C)Aralash iqtisodiy oʻsish
+D)Barqaror iqtisodiy oʻsish
 ANSWER: A
 
-Q15: Hinduizm diniagi xudolar panteoni qaysi qatorda to‘g‘ri berilgan?
-A)Trimurti(uchlik)ya‘ni,Braxma(yaratuvchi),Vishnu(qo‘riqlovchi),Shiva (yo‘q qiluvchi) xudolar
-B)Shivaizm(shivaga sig‘inuvchilar) va Vishnuizm(vishnuga sig‘inuvchilar)
-C)Karma(qonun),sansara(ruhning ko‘chib yurishi)
-D)Braxmanlar,kshatriylar,vayshlar,shudralar,chandallar
+Q15: Pul massasining qisqartirilishi va pul chiqarishning qat'iy chegaralanishini oʻz ichiga olgan monetar siyosat turi qanday nomlanadi?
+A)Qattiq siyosat
+B)Yumshoq siyosat
+C)Kredit siyosati
+D)Fiskal siyosat
 ANSWER: A
 
-Q16: 24 nafar tirtxakar(payg‘ambar yoki avliyo) asos solgan din?
-A)Jaynizm(Vardxamana)
-B)Jina-“muzaffar”
-C)Maxavira(ulug‘ qahromon)
-D)”Acharanga-sutra” va “Yogashastra”
+Q16: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi
+B)Iqtisodiyotning qonun-qoidalariga amal qilish chorasi
+C)Davlatning narx-navoni tartibga solish boʻyicha faoliyati
+D)Faqat ichki bozorni rivojlantirishga qaratilgan harakatlar
 ANSWER: A
 
-Q17: Hindistonning Panjob shtatida guru(ustoz)Nanak(1469-1539) asos solgan va unga ergashganlar dini bu.?
-A)Sikxizm(sikxiylik)
-A.Xalsa(kesh,kanxa,kach,kara,kirpan)
-C)Guru Grantx
-D)Oltin Haram(Amritsar shahri) ibodatxonasi
+Q17: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitlarga moslashtirish
+B)Faqat eksportni oshirish va importni kamaytirish
+C)Faqat milliy valyutaning qadrini barqarorlashtirish
+D)Xususiy mulkchilikning butunlay bekor qilinishi
 ANSWER: A
 
-Q18: Mil.avv. VI asrda Kun Tszi asos solgan din?
-A)Konfutsiylik
-B)Daochilik
-C)Tyan(Tien)
-D)Li (qonun)
+Q18: Mobilizatsion iqtisodiy strategiya qachon qoʻllaniladi?
+A)Davlatning mavjudligiga tahdid kuchayganida, favqulodda holatlar sharoitida davlatning ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi kuchayganida
+B)Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotda
+C)Ma'lum guruh kishilarning tor egoistik manfaatlarini amalga oshirishga qaratilganda
+D)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atini ta'minlash maqsadida
 ANSWER: A
 
-Q19: Li Tan(taxallusi Lao-keksa,Tszi-donishmand) asos solgan din?
-A)Daochilik(Yo‘l)
-B)Dao de tsin(xit.”Dao qonunlari) muqaddas kitobi
-C)Taypindao(buyuk tenglik ta‘limoti)
-D)Udoumidao(besh dou guruch ta‘limoti)
+Q19: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+B)Davlatning faqat soliq va budjetga oid qarorlari.
+C)Bozor mexanizmlarining oʻz-oʻzini tartibga solish qobiliyati.
+D)Xususiy tadbirkorlarning faoliyat erkinligi.
 ANSWER: A
 
-Q20: Qaysi milliy dinda ruhoniylar “Kannusi” deb nomlanadi?
-A)Sintoizmda
-B)Kodziki(Qadimiy ishlar haqida qaydlar)
-C)Kami kulti(xudolarga sig‘inish),iloh yoki ruh
-D)Dzindzya(ibodatxona)
+Q20: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+B)Faqat xususiy korxonalarning foydasini oshirish.
+C)Barcha davlat korxonalarini xususiylashtirish.
+D)Xalqaro savdo cheklovlarini toʻliq bekor qilish.
 ANSWER: A
 
-Q21: Avestoning tarkibiy tuzilishi...?
-A)1.Videvdat(devlarga qarshi qonun), 2.Yasna(sajda,topinish,namoz), 3.Visparad(duolar va ibodatlar), 4.Yasht(madhiyalar)
-B)1.Gatlar, 2.Gas
-C)1.Avesto,2.Apastak,3.Ovisto,4.Abisto,5.Ovusto,6.Avasto
-D)1.Zend,2.Denkart, 3.xo‘rdak Avesto(kichik Avesto)
+Q21: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+C)Yangi texnika va texnologiyalarni qoʻllash orqali.
+D)Ishchi kuchi malakasini oshirish orqali.
 ANSWER: A
 
-Q22: Zardushtiylikning diniy iyerarxiyasi?
-A)Ratu,Mobadan Mobad,Sar-mobad,Dastur,Mobad,Xirband,Mobadyor
-B)Daxma,Novus,Nasusa
-C)Podyob,Barashnum,Dron,Xum
-D)Behdin,Sadre,Kushtini
+Q22: Iqtisodiy siyosat nima?
+A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlari yigʻindisidir.
+B)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+C)Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish usuli.
+D)Xususiy korxonalarning foydasini maksimumlashtirishga qaratilgan faoliyat.
 ANSWER: A
 
-Q23: Zardushtiylikning kunlik diniy marosimlari bu...?
-A)Kunlik namoz amali bu goh marosimi, ya‘ni Xavan goh(tongdan peshingacha),Rapitvin goh(peshindan so‘ng)Uzarin goh(kun botishdan oldin),Aivisrutrim goh(kun botgandan so‘ng),Ushaxin goh(yarim kechadan tongacha)
-B)Sog‘did(it yordamida devlarni quvish)
-C)Podyob(o‘likni to‘liq yuvish),Barashnum(gunoh qilgan kishini poklash)
-D.Dron(maxsus tayorlangan non),xum(maxsus tayorlangan ichimlik)
+Q23: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning mustaqilligini ta'minlash.
+B)Faqatgina yirik korxonalarning foydasini oshirish.
+C)Xomashyo resurslarining tugashini tezlashtirish.
+D)Ishsizlik darajasini doimiy ravishda oshirish.
 ANSWER: A
 
-Q24: Zardushtiylik ta‘limoti?
-A)Aivitak suvi qirg‘og‘ida 45-kecha samoga chiqishi, Vohumanah(Behmen) nomli farishta Zardusht ruhini poklashi, Axurmazda huzuriga borishi, Avesto inom etilishi, har bir zardusht hayotini gumata, gugta, gvartsha asosiga qurish
-B)Sadre(oq ko‘ylak, oq libosda),Kushti(maxsus kamar),bosh kiyim(ayollar ro‘molda sochini berkitishi),tik turgan holatda olovga yuzlanib ibodatlar avesto yoki pahlaviy tilida olib borilishi
-C)Kunlik namoz amali bu goh marosimi, ya‘ni Xavan goh(tongdan peshingacha),Rapitvin goh(peshindan so‘ng)Uzarin goh(kun botishdan oldin),Aivisrutrim goh(kun botgandan so‘ng),Ushaxin goh(yarim kechadan tongacha)
-D)Otashkade(ibodatxonada olovning uzluksiz yonib turishi), Soh otash Varaxram(Shoh Bahrom olovi),Otash Aduran,Olov Nozudi,Gavaxgiran,Sadre pushi,Gaxanbar,Otash Dodgoh,Dodgoh
+Q24: Monetar siyosatning qanday turlari mavjud?
+A)Qattiq va yumshoq siyosat.
+B)Ekspansiv va restriktiv siyosat.
+C)To'g'ridan-to'g'ri va bilvosita siyosat.
+D)Fiskal va budjet siyosati.
 ANSWER: A
 
-Q25: Govmard bu...?
-A)Birinchi inson(ho‘kiz odam)
-B)Birinchi shoh(Yima yoki Jamshid)
-C)Axriman
-D)Axurmazda
+Q25: Iqtisodiy siyosatning qanday uch darajasi mavjud?
+A)Mikro, makro va meta (xalqaro)
+B)Mikro, makro va milliy
+C)Hududiy, milliy va global
+D)Mahalliy, davlat va federal
 ANSWER: A
 
-Q26: Zardushtiylikda tabiatning ulug‘lanishi qaysi qatorda tog‘ri berilgan?
-A)Olov,Yer,Suv,Havo
-B)Axurmazda,Mitra,Anaxita,Xumo
-C)Zardusht,Zaratushtra,Zoroastr
-D)Zantu,Vis,Daxyu,Vara,Nmana
+Q26: 1929-1933-yillardagi iqtisodiy inqiroz davrida tanqidga uchragan minimal davlat aralashuvini yoqlagan iqtisodiy nazariyotchi kim edi?
+A)Adam Smit
+B)J.M. Keyns
+C)M. Fridmen
+D)J. Byukenen
 ANSWER: A
 
-Q27: Zardusht jamoalari Hindistonning qaysi shahar hududida yashaydi?
-A)Mumbay(Bombey)
-B)Xorazm
-C)Balx
-D)Tehron
+Q27: Monetar siyosatning uchta asosiy jihati qaysilar?
+A)Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar siyosati va majburiy zaxira siyosati
+B)Fiskal siyosat, savdo siyosati va investitsiya siyosati
+C)Budjet siyosati, narx siyosati va sanoat siyosati
+D)Ijtimoiy siyosat, soliq siyosati va tashqi iqtisodiy siyosat
 ANSWER: A
 
-Q28: ”Zardushtiylar.E‘tiqodlari va urf-odatlari” asari muallifi...?
-A)Meri Boyis
-B)Firdavsiy
-C)A.Dyuperron
-D)Abu Rayhon Beruniy
+Q28: Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
+A)Barqaror iqtisodiy oʻsishni, milliy iqtisodiyotning mustaqilligini, iqtisodiy xavfsizlikni va milliy pul qadr-qiymatining barqarorligini ta'minlash.
+B)Korporativ foydani maksimal darajada oshirish va davlat aralashuvini minimallashtirish.
+C)Qisqa muddatli iqtisodiy yutuqlarni uzoq muddatli barqarorlikdan ustun qo'yish.
+D)Faqat eksport hajmini oshirishga e'tibor qaratish, ichki farovonlikni hisobga olmasdan.
 ANSWER: A
 
-Q29: Eron shohlaridan kim Zardushtiylik dinining targ‘ibotchisi bo‘lgan?
-A)shoh Vishtasp
-B)Shopur I
-C)podshoh Doro
-D)Bratarvaxsh
+Q29: Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
+A)Mavjud texnik asoslarni saqlagan holda ishlab chiqarish resurslari miqdorini oshirish orqali o'sish.
+B)Ishlab chiqarish omillarining sifati va texnologiyani takomillashtirish orqali o'sishga erishish.
+C)Innovatsion yechimlar va yuqori mehnat unumdorligiga e'tibor berish.
+D)Ishlab chiqarilgan tovar va xizmatlarning umumiy hajmini kamaytirish.
 ANSWER: A
 
-Q30: Zardushtiylikda balog‘at yoshi...?
-A)15 yosh
-B)12 yosh
-C)7 yosh
-D)9 yosh
+Q30: Quyidagilardan qaysi biri davlatning klassik iqtisodiy funksiyasiga kirmaydi?
+A)Barcha xususiy korxonalarni bevosita boshqarish.
+B)Pul muomalasini tartibga solish.
+C)Mulk va iste'molchilar huquqlarini himoya qilish.
+D)Aholi daromadlarini qayta taqsimlash.
 ANSWER: A
 
-Q31: Meditatsiya bu...?
-A)fikrlash
-B)axloq
-C)nasihat
-D)haqiqat
+Q31: Iqtisodiy siyosat nima?
+A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
+B)Iqtisodiyot subyektlarining shaxsiy manfaatlarini himoya qilishga qaratilgan chora-tadbirlar yig'indisi.
+C)Faqatgina davlat korxonalarining samaradorligini oshirishga qaratilgan harakatlar majmuasi.
+D)Xalqaro tashkilotlarning mamlakat iqtisodiyotiga ta'sirini kamaytirishga qaratilgan siyosat.
 ANSWER: A
 
-Q32: Buddaviylik dini nechta amaliy qismdan iborat...?
-A)axloq, meditatsiya, donolik
-B)qotillikdan saqlanish, o‘g‘rlikdan saqlanish, gumrohlikdan saqlanish
-C)yolg‘on,qalbaki narsalardan saqlanish, mast qiluvchi narsalardan saqlanish
-D)to‘g‘ri tushunish, to‘g‘ri niyat qilish, to‘g‘ri o‘zini tutish
+Q32: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yangi texnika va texnologiyalarni qoʻllash hamda ishchi kuchi malakasini oshirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+A)Intensiv iqtisodiy oʻsish
+B)Ekstensiv iqtisodiy oʻsish
+C)Mobilizatsion iqtisodiy oʻsish
+D)Liberal-iqtisodiy oʻsish
 ANSWER: A
 
-Q33: Buddaviylik dini ta’limoti nechta haqiqatda ifodasini topgan?
-A)4 ta
-B)8 ta
-C)10 ta
-D)3 ta
+Q33: Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
+A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+B)Faqatgina xususiy korxonalarning foydasini oshirish.
+C)Chet el investitsiyalarini maksimal darajada cheklash.
+D)Bozor mexanizmlarining aralashuvini butunlay yo'q qilish.
 ANSWER: A
 
-Q34: Buddaviylik dini muqaddas kitobi nomi qaysi bandda to‘g‘ri berilgan?
-A)Tripitaka
-B)Lamaizm
-C)Maxayana
-D)Xinayana
+Q34: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
+B)Davlatning tovarlar narxini belgilash usuli
+C)Bozordagi raqobatni cheklash choralari
+D)Faqat xususiy korxonalarni qo'llab-quvvatlash tizimi
 ANSWER: A
 
-Q35: Buddizm dini asosiy maqsadi bu...?
-A)nirvana holatiga yetishish
-B)axloq normalariga rioya qilish
-C)donishmandlikka yetishish
-D.meditatsiyaga erishish
+Q35: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
+B)Faqat foydani maksimumlashtirish
+C)Xalqaro savdo cheklovlarini joriy etish
+D)Iqtisodiy sikllarning to'liq bekor qilinishi
 ANSWER: A
 
-Q36: Dxarma...?
-A)qonun,ta’limot
-B)kichik arava
-C)katta arava
-D)tana
+Q36: Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
+A)Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga to'g'ri keladigan real YIMning oʻzgarishi
+B)Faqat ishlab chiqarish texnikasini takomillashtirish
+C)Milliy valyuta kursining oʻzgarishi
+D)Faqat eksport hajmining oshishi
 ANSWER: A
 
-Q37: Sangxa...?
-A)rohiblar jamoasi
-B)sezgi
-C)harakat
-D)shogirdlar jamoasi
+Q37: Iqtisodiy siyosat nima?
+A)Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlatning iqtisodiyotni markazlashgan holda boshqarish tizimi.
+C)Bozor mexanizmining oʻz-oʻzini tartibga solish funksiyasi.
+D)Xususiy firmalarning foydani maksimumlashtirishga qaratilgan faoliyati.
 ANSWER: A
 
-Q38: Surxondaryo viloyati hududidagi buddaviylik dini yodgorliklari majmuasi qaysi qatorda to‘g‘ri berilgan?
-A)Zurmala,Qoratepa,Fayoztepa,Dalvarzintepa
-B)Tibet,Bamiyan vohasi
-C)Buryatiya,Tuva
-D)Quva,O‘ratepa,Qorovultepa
+Q38: Davlatning klaster siyosatini yuritishdagi asosiy roli nimadan iborat?
+A)Klasterlarning kelgusida rivojlanishi va transfertlarni boshqarish, subsidiyalar, cheklashlar yoki tartibga solish mas'uliyatini oʻz zimmasiga olish.
+B)Faqatgina moliyaviy yordam koʻrsatish.
+C)Faqat mintaqaviy infratuzilmani qoʻllab-quvvatlash.
+D)Faqatgina tadqiqot tashkilotlari bilan hamkorlikni ta'minlash.
 ANSWER: A
 
-Q39: Dalay-Lama so‘zi ma’nosi...?
-A)dengizdek ulug‘ lama,
-B)nurlangan daraxt
-C)ulug‘ lama,
-D.tirik xudo
+Q39: Iqtisodiy oʻsishni oʻlchashda asosiy koʻrsatkich nima hisoblanadi?
+A)Real yalpi ichki mahsulot (YIM) hajmining oʻtgan davrga nisbatan oʻzgarishi.
+B)Aholi jon boshiga toʻgʻri keladigan nominal yalpi ichki mahsulot.
+C)Milliy daromadning mutloq hajmi.
+D)Ishsizlik darajasining oʻzgarishi.
 ANSWER: A
 
-Q40: Quyidagilardan qaysi biri vixara uslubidagi ibodatxona hisoblanadi?
-A)Fayoztepa
-B)Qoratepa
-C)Zo‘rmala
-D)Ayritom
+Q40: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash
+B)Davlat korxonalarining foydasini maksimumlashtirish
+C)Iqtisodiyotni to'liq markazlashtirilgan holda boshqarish
+D)Barcha xususiy mulkchilik shakllarini bekor qilish
 ANSWER: A
 
-Q41: Xristianlik asosan qaerlarda tarqalgan?
-A)Evropa, shimoliy va janubyy amerika, avstraliya va qisman afrika qitasining janubiy qismida
-B)Evropa, avstraliya, sharqiy osiyo mamlakatlarida
-C)Evropa va amerika qitalarida, qisman osiyo qitasining sharqiy qismida
-D)Avstraliya, evropa va qisman sharqiy osiyo mamlakatlarida
+Q41: Monetar siyosatning uchta asosiy jihati qaysilar?
+A)Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar va majburiy zaxira siyosati
+B)Fiskal siyosat, investitsiya siyosati va sanoat siyosati
+C)Soliq siyosati, subsidiyalar siyosati va litsenziyalash siyosati
+D)Narxlarni tartibga solish, tashqi savdoni boshqarish va bandlik siyosati
 ANSWER: A
 
-Q42: Xristianlik qayerda vujudga keldi?
-A)Rim imperiyasining sharqiy qismi falastinda
-B)Rossiyada
-C)Rim imperiyasining janubiy xududlarida
-D)Yevropada
+Q42: 2022-yilda Oʻzbekiston Respublikasi Yalpi ichki mahsulotining (YIM) real oʻsish sur'ati qancha boʻlgan?
+A)5.7%
+B)3.5%
+C)6.1%
+D)4.0%
 ANSWER: A
 
-Q43: Iso nomiga qo’shiluvchi masih so’zining ma'nosi nima?
-A)Silangan, siylangan
-B)Xoloskor, ilohiy
-C)Iloxiy, muqaddas
-D)Muqaddas xudo
+Q43: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+B)Davlat budjetini boshqarish usullari.
+C)Bozor narxlarini belgilash mexanizmi.
+D)Xalqaro savdo shartnomalari tizimi.
 ANSWER: A
 
-Q44: Xristianlik qaysi din negizida yuzaga kelgan?
-A)Yahudiylik
-B)Nasroniylik
-C)Buddaviylik
-D)Islom
+Q44: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+B)Har bir fuqaroning shaxsiy boyligini maksimallashtirish.
+C)Korxonalarning raqobatbardoshligini cheklash.
+D)Faqat davlat sektorini rivojlantirish.
 ANSWER: A
 
-Q45: Xristian jamoasining shakllanishi, uning aqidalarini tartibga solinishi, cherkov munosabatlarining ishlab chiqilishi qaysi davrga to’g’ri keladi?
-A)IV asr boshlarida 324 yili i asr boshlarida
-B)V asr boshlarida 424 yili
-C)III asr o’rtalarida
-D)II asr o’rtalarida
+Q45: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+C)Ilgʻor texnologiyalarni joriy etish orqali.
+D)Mehnat unumdorligini oshirish hisobiga.
 ANSWER: A
 
-Q46: Butun olam xristian sobori qaysi shaxarda o’tkazilgan?
-A)Nikey
-B)Rimda
-C)Istambul
-D)Konstantinopolda
+Q46: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir
+B)Iqtisodiyot subyektlarining faqat foyda olishga qaratilgan faoliyati
+C)Davlatning iqtisodiyotga aralashmaslik tamoyili
+D)Faqat milliy valyutaning barqarorligini ta'minlashga qaratilgan harakatlar
 ANSWER: A
 
-Q47: Katolik va pravoslav cherkovlariga ajralishi qaysi yili rasman tan olindi?
-A)1054 yili
-B)1050 yili
-C)1072 yili
-D)1052 yili
+Q47: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
+A)Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash
+B)Faqat firmalarning foydasini maksimumlashtirish
+C)Iste'mol tovarlarining narxini sun'iy ravishda oshirish
+D)Barcha iqtisodiy jarayonlarni to'liq markazlashtirilgan holda boshqarish
 ANSWER: A
 
-Q48: “Bibliya” so’zining ma'nosi nima?
-A)Kitob, o’ram
-B)Saylanma
-C)Donolik kitobi
-D)Xushxabar
+Q48: Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini ko'paytirish orqali
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
+C)Yangi texnologiyalarni qo'llamasdan, faqat eskilarini modernizatsiya qilish
+D)Mehnat unumdorligini pasaytirish va ishchi kuchini ko'paytirish
 ANSWER: A
 
-Q49: “Bibliya” ning yahudiy diniga ta'lluqli kitoblari nima deb ataladi?
-A)“qadimiy ahd”
-B)“yangi ahd”
-C)“luka injili”
-D)“musoning besh kitobi
+Q49: Iqtisodiy siyosat doirasida firmaning asosiy maqsadi nima?
+A)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
+B)Shaxsiy iste'molni maksimumlashtirish
+C)Milliy iqtisodiy mustaqillikni ta'minlash
+D)Raqobatni himoya qilish
 ANSWER: A
 
-Q50: Xristianlik dinida nechta yirik yo‘nalish (oqim) bor?
-A) 3 ta
-B) 2 ta
-C) 5 ta
-D) 4 ta
+Q50: Ishlab chiqarishning mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qaysi?
+A)Ekstensiv iqtisodiy oʻsish
+B)Intensiv iqtisodiy oʻsish
+C)Muvozanatli iqtisodiy oʻsish
+D)Innovatsion iqtisodiy oʻsish
 ANSWER: A
 
-Q51: Xaniflik harakati bu...?
-A)Yakka xudolik haqidagi ta’limot yoki haqiqat izlovchilar
-B)O‘zini payg’ambar deb bilgan kishilar
-C)Politeistik ta’limot
-D)yahudiylikdagi sekta nomi
+Q51: 2022-yilda Oʻzbekistonning real yalpi ichki mahsulot (YIM) oʻsish sur'ati oʻtgan yilga nisbatan necha foizni tashkil etdi?
+A)105.7%
+B)100.9%
+C)112.3%
+D)115.9%
 ANSWER: A
 
-Q52: Islomgacha Arabiston yarim orolida diniy manzara qanday bo‘lgan?
-A)Ko‘pxudolik,totemizm,fetishizm,animizm
-B)Yahudiylik va xristianlik
-C)Johiliyat davri
-D)Badaviylar dinga e’tiqod qilmagan.
+Q52: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+A)Milliy pul qadr-qiymatining barqarorligini ta'minlash
+B)Xonadonlarning iste'molini maksimumlashtirish
+C)Firmaning foydasini maksimumlashtirish
+D)Bozor mexanizmini toʻliq cheklash
 ANSWER: A
 
-Q53: Islom dini muqaddas manbalarini ko‘rsating?
-A)Quro’n,hadisi,Ijmo’,Qiyos
-B)Shariat talablari
-C)Tafsir ilmi
-D)Fatvolar
+Q53: Nima sababdan davlat bozor iqtisodiyoti sharoitida ba'zi tovarlarni iste'mol qilishning oqibatlarini obyektiv baholay olmaydigan individual iste'molchilarga nisbatan aralashadi?
+A)Sogʻliqqa salbiy ta'sir ko'rsatuvchi tovarlar iste'molini cheklash uchun
+B)Xususiy korxonalarning foydasini oshirish uchun
+C)Barcha bozor narxlarini tartibga solish uchun
+D)Chet el investitsiyalarini jalb qilish uchun
 ANSWER: A
 
-Q54: Tafsir ilmi qanday ilm?
-A) Qurʼon oyatlarini sharhlash, tushuntirib berish ilmi
-B) “Tafsir” so‘zi arabcha so‘zdan olingan bo‘lib, “bayon qilish, ochib berish va ravshan qilish”, degan maʼnolarni anglatadi
-C)“Tafsir bil maʼsur”. Bu qismdagi tafsirda mufassir Qurʼoni karim oyatlarini rivoyat qilgan sahih hadislar va sahobalarning qalillari bilan tafsir qilinadi.
-D) “Tafsir bir – ray”. Bu qismda mufassir o‘z fikri va ijtihodi ila tafsir qilsa, “Tafsiri ishoriy”da esa mufassir oyatning zohiriy maʼnosiga qaramay, uning maxfiy ishoralari taqozasi bilan tafsir qiladi.
+Q54: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali qanday iqtisodiy oʻsishga erishiladi?
+A)Ekstensiv iqtisodiy oʻsish
+B)Intensiv iqtisodiy oʻsish
+C)Innovatsion iqtisodiy oʻsish
+D)Sifatli iqtisodiy oʻsish
 ANSWER: A
 
-Q55: Islomda insonlarning amallari tasnifi qaysi bandda to‘g’ri berilgan?
-A)Farz,Vojib,Sunnat,Mustahab,Muboh,Harom,Makruh,Mustakrah.
-B) Farz - Alloh taolo buyurgan amaldir, Vojib - bajarilishi shart bo‘lgan amal, Sunnat payg‘ambarimiz Muhammad alayhissalomning qilgan amallari.
-C) Mustahab - Payg‘ambarimiz ba’zan bajargan va ba’zan bajarishni lozim ko‘rmagan amaldir. Muboh - qilinsa ham, qilinmasa ham durust bo‘laveradigan amal, Harom - islom dinida qat’iy ta’qiqlangan amaldir.
-D) Makruh - islom dini ta’qiqlagan amal. Makruhni qilmagan kishi savobga qoladi, qilgan kishi esa azoblanishi mumkin, Mustakrah - shunday amalki, uni qilgandan qilmagan yaxshiroqdir.( Qiyomatda azobga qolishi mumkin. Masalan: taomni katta-katta yeyish, hayqirib esnash va boshqalar).
+Q55: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish.
+C)Bozor tizimining samarali amal qilishini ta'minlash.
+D)Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
 ANSWER: A
 
-Q56: Muhammad alayhissalomning tavallud topishlari va vafoti qaysi sanada to‘gri berilgan?
-A)milodiy 21-aprel 571-yil Makka - 8 iyun 632 yil Madina
-B)miloddan avvalgi 5 yil-milodning 30 yili (milodning 1 yili 25 dekabr(7 yanvar)
-C)622 yil 16 iyul-Muharram oyining 1 kuni
-D) Zulhijja oyining 8-10 kunlari - Haj kunlari.
+Q56: Davlat iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish.
+B)Faqat eksportni himoya qilish va mintaqaviy tuzilmalardagi ijobiy siljishlarni qoʻllab-quvvatlash.
+C)Milliy xoʻjaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
+D)Atrof-muhit holatini yaxshilash va iqtisodiy siklni barqarorlashtirish.
 ANSWER: A
 
-Q57: Islom ta’limotining asosini nima tashkil qiladi?
-A)Iymon,Islom,Ehson
-B)Iymon 7 aqidaga asoslanadi
-C)Islomning 5 rukni bor
-D) Ehson (arab. – yaxshilik, samimiylik, muruvvat, biror narsani hadya qilish, xayr-sadaqa)
+Q57: Monetar siyosatning asosiy maqsadi nimadan iborat?
+A)Pul muomalasini tartiblash, tovar va pul massasi oʻrtasidagi muvozanatni ta'minlash va pul oqimlarini boshqarish.
+B)Soliq qonunchiligini amalga oshirish va davlat investitsiyalarini tartibga solish.
+C)Daromad va boylikni qayta taqsimlash.
+D)Ishlab chiqarish samaradorligini oshirish.
 ANSWER: A
 
-Q58: Islomda nechta oqim bor?
-A)2 ta, VII asrda islom 2 ta yirik oqimga bo`lingan: Sunniylik (islom an’analari tarafdori) va Shialik (guruh, partiya, tarafdor, ya’ni Ali k.v.guruhi)
-B)Yakkaxudoga,Payg’ambarlikka,Taqdirga,Oxiratga,Imomatga
-C) Ro‘za hayiti (Ramazon): yuz bergan gunohlar kechiriladi (arabchada Iyd al-fitrat) va Qurbon hayiti: qurbonlik qilinadi, Alloh yo`liga bag`ishlanadi (iyd al-adha). Qurbon hayit katta hayit hisoblanadi.
-D) Mavlud (Muhammad Payg`ambar tug`ilgan kuni) va Juma
+Q58: Davlatning iqtisodiy siyosati qaysi siyosat turlarini oʻz ichiga oladi?
+A)Tashqi iqtisodiy, tarkibiy-investitsiyaviy, institutsional, agrar, sanoat, ijtimoiy, narx, moliyaviy, soliq-budjet, pul-kredit, hududiy (mintaqaviy) va ilmiy-texnika va innovatsiya siyosatlari
+B)Fiskal, Monetar, Ijtimoiy, Savdo siyosati
+C)Bevosita va bilvosita ta'sir qilish siyosatlari
+D)Mikro, makro va meta iqtisodiy siyosat
 ANSWER: A
 
-Q59: Quro’nning tarkibi qaysi bandda to‘g’ri berilgan?
-A) islom dinining muqaddas kitobi, 30 pora (qism), 114 sura, 6236 oyat, 77439 kalima, 325743 harfdan iborat to`plam
-B) (arab, hikoya, xabar) – bu Muhammad (s.a.v.)ning aytgan so`zlari, qilgan ishlari, ko`rsatmalari to`plamidir. Uni Sunnat (Yo`l) ham deyiladi.(Hadis)
-C) Qur’on va Hadisda aniq ko`rsatma berilmagan huquqiy masalalarni hal etishda faqih va mujtahidlarning to`planib, yagona fikrga kelgan holda hukm chiqarishi, ya’ni fatvo berishidir.(Ijmo’)
-D) Qur’on, Hadis (Sunnat) va Ijmo’da biror huquqiy masalaga aniq javob topilmaganida, uni shunga o`xshash masalaga taqqoslash yo`li bilan hukm chiqarishdir.(Qiyos)
+Q59: Monetar siyosatning uchta asosiy jihati qaysilar?
+A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati
+B)Fiskal siyosat, savdo siyosati, sanoat siyosati
+C)Qattiq monetar siyosat, yumshoq monetar siyosat, neytral monetar siyosat
+D)Soliqqa tortish, subsidiyalar, litsenziyalar
 ANSWER: A
 
-Q60: Movarounnahrda islom dinining tarqalishi qaysi davrga to‘g’ri keladi?
-A) 751-yilda Abbosiylar xalifaligi va Xitoy Tan sulolasi oʻrtasida Markaziy Osiyoni nazorat qilish uchun Talas jangi mintaqada ommaviy islomni qabul qilishni boshlab bergan.Turk xoqonliklarining aksariyati 10-asrda islom dinini qabul qilgan.
-B) Amudaryo daryosi shimolida joylashgan hududlar arablar tomonidan „Movaro un-nahr“ („daryoning narigi tomoni“)deb atalgan.
-C)Arab xalifaligining Markaziy Osiyoni fath qilishi VII—VIII asrlarga to‘g’ri keladi
-D) “Madrasa” soʻzi birinchi marta X asrda Movarounnahrda ishlatilgan.
-Rus sharqshunoslik maktabining asoschilaridan biri Bartoldning fikriga koʻra Madrasa tushunchasini Movarounnahr xalqlari buddaviylikdan oʻzlashtirgan. Arablar 633 yili Balx shahriga kelganda bu yerda yuzdan ortiq buddaviy taʼlim maskanlari (navbahor yoki nava vixara) boʻlgan. Buxoro va Termizdagi taʼlim maskanlari islomiylashtirilgan holda shu joylarda madrasalar tashkil etilgan.
+Q60: Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
+A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladi
+B)Ishlab chiqarish omillarining sifatini yaxshilash va yangi texnologiyalarni qoʻllash orqali erishiladi
+C)Fundamental fanni rivojlantirish va innovatsiyalarga sarmoya kiritishga e'tibor qaratiladi
+D)Tranzaksiya xarajatlarini kamaytirish va institutsional mexanizmlarni takomillashtirish
 ANSWER: A
 
-Q61: Kalom ilmining lug‘aviy va ictilohiy ma’nolari…?
-A)Kalom-arab. “so‘z”, “hutq”, “gap”, musulmon kishinig e‘tiqodi, aqidasi va dunyoqarashini belgilab beradigan ta’limot
-B) “al-fiqh al-Akbar”, “Tavhid”, “Aqida”, “Kalom”, “Usul ad-din”
-C)Mutakallimlar
-D)Islomning sof e’tiqodlarini adashgan zalolat ahlining shubha va gumonlaridan himoya qilish.
+Q61: Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va xalq farovonligini oshirish.
+B)Faqat milliy iqtisodiyotning qisqa muddatli oʻsishini ta'minlash.
+C)Asosan xususiy firmalarning foydasini maksimumlashtirish.
+D)Bozor mexanizmining har qanday aralashuvsiz ishlashini kafolatlash.
 ANSWER: A
 
-Q62: Aqida sohasida faoliyat olib borgan olimlarning eng mashhurlari…?
-A)Abu Mansur Moturidiy(853-944) va Abul Hasan Ash’ariy(873-941)
-B)Abu Xafs Nasafiy(1068-1142) va Abdul Yusuf Pazdaviy (1030-1099 )
-C)Alouddin Mansur(vaf.1143) va Ibrohim ibn Isxoq Saffor Buxoriy (vaf.1139)
-D)Abul Fath Alouddin Muhammad ibn Abdilhamid ibn Umar ibn Hasan ibn Husayn Samarqandiy Asmandiy (1095-1157) va Mahmud ibn Sulaymon Kafaviy(vaf.1582)
+Q62: Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
+A)Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi.
+B)Faqat nominal yalpi ichki mahsulotning oʻsishi.
+C)Ishsizlik darajasi va inflyatsiya koʻrsatkichlari.
+D)Eksport va import hajmining dinamikasi.
 ANSWER: A
 
-Q63: “Kitab ta’vilot ahli sunna” yoki “Ta’vilot al-Qur’on” asari muallifi…?
-A)Abu Mansur Moturidiy
-B)Alouddin Mansur
-C)Abu Xafs Nasafiy
-D)Abul Hasan Ash‘ariy
+Q63: Monetar siyosatning qanday turlari mavjud va ular qanday holatlarda qoʻllaniladi?
+A)Qattiq siyosat (tanglik va inflyatsiyani susaytirishda) va yumshoq siyosat (iqtisodiyot oʻsish pallada boʻlganda).
+B)Fiskal siyosat (budjet tushumlarini oshirishda) va pul-kredit siyosati (narxlarni barqarorlashtirishda).
+C)Toʻgʻridan-toʻgʻri ta'sir qilish (davlat koʻrsatmalariga asoslangan) va bilvosita ta'sir qilish (bozor sharoitlarini yaratishga qaratilgan).
+D)Institutsional siyosat (davlat institutlarini rivojlantirishda) va sanoat siyosati (ishlab chiqarishni modernizatsiya qilishda).
 ANSWER: A
 
-Q64: Mutakallimlar aqida masalasida qanday manbaga tayangan?
-A)Naqliy dalil(Qur‘on oyatlari,hadislar,sahobiy va tobeiylar ijmosi), ijtihod va aqliy dalillarga
-B)Faqat Qur‘onga
-C)Faqat Hadisga
-D)Faqat Ijmo‘ga
+Q64: Iqtisodiy siyosatning qanday darajalari mavjud?
+A)Mikro, makro, meta
+B)Mikro, mezo, mega
+C)Mahalliy, mintaqaviy, milliy
+D)Davlat, xususiy, aralash
 ANSWER: A
 
-Q65: Mut’aziliylarning xatosi nimada?
-A)Aqliy dalillarni naqliy dalillardan uctun qo‘yishi
-B)”Uzoqlashganlar”,”ajralib chiqqanlar”,asoschisi Vosil ibn Ato(639-748) va Amr ibn Ubayd (761),o‘z ustozi Hasan al-Basriy(728 y)dan ajralib chiqqan
-C)xalifa Ma‘mun(813-833) mut‘azila ta‘limotini davlat dini deb tan olgan
-D)xalifa Mutavakkil(847-861) mut‘azila ta‘limotini “shakkoklik” dini deb e‘lon qilgan
+Q65: Davlat iqtisodiy siyosatining asosiy tamoyillari qaysilar?
+A)Samaradorlik, adolatli taqsimot, barqarorlik
+B)Erkinlik, raqobat, monopoliyaga qarshi kurash
+C)Xususiy mulkni himoya qilish, narxlarni erkinlashtirish, bozor ochiqligi
+D)Fiskal siyosat, pul-kredit siyosati, investitsiya siyosati
 ANSWER: A
 
-Q66: Islom ruknlari (arkon ad-din al-islomiy) qaysi bandda to‘g‘ri berilgan?
-A)Imon,namoz,zakot,ro‘za,haj
-B)Allohning borligi va birligiga, Farishtalarga, Ilohiy kitoblarga, Payg‘ambarlarga, Oxiratga, Taqdirga, Qiyomatga e‘tiqod
-C)Ilohiyot,Nubuvvat,Kavniyot,Sam‘iyot(Faybiyot)
-D)Iymon,islom,ehson
+Q66: Iqtisodiy siyosat sohasidagi ilk urinishlar qaysi asrda amalga oshirilgan va qaysi mamlakat bunga misol qilib keltirilgan?
+A)XIX asr oxiri, Germaniya
+B)XVIII asr oxiri, Buyuk Britaniya
+C)XIX asr boshi, Fransiya
+D)XX asr boshi, AQSh
 ANSWER: A
 
-Q67: Aqida so‘zining lug‘aviy va istilohiy ma’nosi?
-A)Aqida- so‘zi (ko‘pligi – aqoid) arabcha -aqada fe’lidan olingan bo‘lib, undan bir narsani ikkinchi bir narsa bilan bog‘lash ma’nosi kelib chiqadi. Istilohda esa, mo‘minni ma’lum bir g‘oyalar bilan bog‘lab turuvchi e’tiqodlar yig‘indisiga aytiladi.
-B)Bu ilmning maqsadi diniy aqidalarni qat’iy dalillar ila isbotlash va undagi shubhalarni rad qilishdir
-C)to‘g‘ri aqida bilan ikki dunyo saodatini hosil qilishdir
-D)”Kalom ilmi farzi ayn bo‘lgan usul ad-dinning sharhidir. Bu ilm bilan shug‘ullanish shu qadar zarurki, uni e’tiqodlilardan o‘rganish muboh, hatto farzi kifoya darajasidadir”
+Q67: Iqtisodiy siyosat nima?
+A)Bu iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir
+B)Bu faqat davlat byudjetini boshqarish bilan bog'liq faoliyatdir
+C)Bu faqat narxlarni tartibga solishga qaratilgan chora-tadbirlar tizimidir
+D)Bu faqat xalqaro savdoni rivojlantirishga qaratilgan siyosatdir
 ANSWER: A
 
-Q68: „Al-Fiqh al-akbar” nomini birinchi qo‘llagan va shu bilan aqoid ilmiga oid mashhur risolasini yozgan olim kim?
-A)Abu Hanifa
-B)Abul Hasan al-Asha’riy
-C)Abu Hafs an-Nasafiy
-D)Abu Mansur al-Moturidiy
+Q68: Davlatning iqtisodiy siyosatining asosiy maqsadi nimalardan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish
+B)Faqat ichki bozorlarda raqobatni cheklash
+C)Xususiy mulkchilikni butunlay bekor qilish
+D)Faqat qishloq xoʻjaligi sektorini rivojlantirish
 ANSWER: A
 
-Q69: Haj ziyoratiga boruvchilarni yo‘lto‘sar qaroqchilardan himoya qilish uchun qo‘riqlab boruvchi soqchilarning shart bo’lgani kabi, chuqur bilimga ega bo’lmagan oddiy musulmonlaarning diniy e’tiqodlarini turli bid’at va noto’g’ri g’oyalardan qo’riqlash uchun kalom ilmini o’rganish vojibdir” fikrini kim qaysi asarida yozgan?
-A.Abu Homid Muhammad G’azzoliy „Ihyo ulum ad-din” asarida
-B)Qur’oni Karimda
-C)Muhammad (s.a.v)rivoyati
-D)Shayx Muhammad Sodiq Muhammad Yusuf „Imon” asarida
+Q69: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali erishiladigan iqtisodiy o'sish qanday nomlanadi?
+A)Intensiv iqtisodiy o'sish
+B)Ekstensiv iqtisodiy o'sish
+C)Innovatsion iqtisodiy o'sish
+D)Global iqtisodiy o'sish
 ANSWER: A
 
-Q70: Hadis turlari va tasnifi to’g’ berilgan qatorni toping?
-A)To‘g’ri javob B,C,D
-B)Qudsiy hadislar (ma’nosi Allohdan bo‘lib, aytilishi, ya’ni lafzi Rasulullohdan)
-C)Hadis an-nabaviy(ma’no ham, lafz ham Rasulullohdan)
-D)Sahih,Hasan,Za’if
+Q70: Iqtisodiy siyosat nima?
+A)Bu iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Bu faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
+C)Bu faqat bozor mexanizmlarini tartibga solishga qaratilgan chora-tadbirlar.
+D)Bu faqat xususiy firmalarning foydani maksimallashtirish strategiyasi.
 ANSWER: A
 
-Q71: Hadislarning tarkibiy qismlari qaysi bandda to‘g‘ri berilgan?
-A)matn(mazmuni) va isnodi(roviylar zanjiri)
-B)hofiz(100.000 ta hadisning matni va isnodini yodlagan kishi,muhaddisdan yuqori turuvchi olim)
-C)hujjat(300.000 ta hadisni turli yo‘llari bilan bilgan kishi)
-D)Axbor(shialikda Muhammad (s.a.v.) va Ali (r.a.)ning so‘zlari,amallari
+Q71: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+B)Korporativ foydani maksimallashtirish.
+C)Xususiy mulkni milliylashtirish.
+D)Bozor raqobatini cheklash.
 ANSWER: A
 
-Q72: Ahli sunna val jamoaga tegishli dastlabki fiqh maktablari?
-A) 1.Madina huquq maktabi, 2.Makka huquq maktabi, 3.Basra huquq maktabi,5. Kufa huquq maktabi, 6.Shom huquq maktabi.
-B)1.Kufa va Basra (Iroq) ilk huquq maktabi negizida Abu Hanifa hanafiy mazhabiga asos soldi; 2.Imom Malik Madina huquq maktabi asosida molikiy mazhabining tamal toshini qo‘ydi; 3.Imom Shofe‘iy o‘z maktabini (shofe‘iy mazhabini) Madina maktabining vakili sifatida boshlagan bo‘lsada ham, hanafiy mazhabidan ko‘p foydalanish bilan ahli hadis va ahli ra‘y ta‘limotini birlashtirib, Misrga borganidan so‘ng o‘zining ikkinchi mazhabiga asos soldi; 4.Ahmad ibn Hanbal tomonidan hanbaliy mazhabiga Makka qadimiy huquqiy maktabi negizida asos solindi.
-C) Qur‘oni Karim,Payg‘ambar alayhissalomning sunnatlari,Ijmo‘, Qiyos.
-D)“Masolihi mursala”-shariatda uning e‘tiborga olinganligi yoki bekor qilinganligi ma‘lum bo‘lmagan hukm),”urf”-(kishi uni yaxshi amal deb bilib, shariat qaytarmagan amal), ”shar‘u man qoblana shar‘un lana”, ”istihson”-(bir narsani yaxshi deb hisoblash, ma‘qullash), ”istishob”- dalil, lug‘atda birga bo‘lmoq), ”mazhabi sahobiy”lardir.
+Q72: Iqtisodiy oʻsish sur'atlari real YIM oʻzgarishini hisoblashda qaysi formula orqali topiladi?
+A)(Yt - Yt-1) / Yt-1 * 100%
+B)(Yt + Yt-1) / Yt-1 * 100%
+C)Yt / Yt-1
+D)(Yt * Yt-1) / Yt * 100%
 ANSWER: A
 
-Q73: Hanafiy mazhabi tarqalgan hududlar…?
-A) Shom, Turkiya, Turkiston, Pokiston, Hindiston, Bangladesh va boshqa davlatlarda keng tarqalgan.
-B) Misr, Suriya, Indoneziya, Malayziya, Filippin, Tayland va Afrikaning ba‘zi davlatlarida tarqalgan.
-C)Libiya, Tunis, Jazoir, Mag‘rib, Mavritaniya, Nigeriya va Afrikaning ba‘zi davlatlarida tarqalgan.
-D) Arabiston yarim orolida tarqalgan.
+Q73: Iqtisodiyotning rivojlanishi va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yigʻindisi qanday ataladi?
+A)Iqtisodiy siyosat
+B)Fiskal siyosat
+C)Monetar siyosat
+D)Ijtimoiy siyosat
 ANSWER: A
 
-Q74: “Islomdagi eng xatarli bid‘at” va “dinsizlikka olib boruvchi ko‘prik” iborasi kimga tegishli fikr…?
-A)suriyalik olim Ramazon Butiyga
-B)O‘zbekistonlik mashhur olim,shayx Muhammad solih Muhammadyusufga
-C)muftiy Nuriddin Xoliqnazarovga
-D)muftiy Usmonxon Alimovga
+Q74: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitga moslashtirish
+B)Faqatgina firmaning foydasini maksimumlashtirish
+C)Uy xoʻjaligining iste'molini maksimumlashtirish
+D)Faqatgina pul muomalasini tartibga solish
 ANSWER: A
 
-Q75: “Fiqh”-so‘zi lug‘aviy va istilohiy ma‘nosini toping?
-A)”fahm”(bir narsani nozik joylarigacha tushunish), shar‘iy dalillardan far‘iy hukmlarni chiqarishga fiqh” deiladi.
-B)”Alloh kimga yaxshilikni iroda qilsa,uni dinda faqih qilib quyadi”.
-C)Shar‘iy dalil deganda bu Qur‘on va Muhammad (s.a.v.) sunnatlari.
-D)Shariyatda Ibodat va muomalotni o‘z ichiga oluvchi hukmlar far‘iy hukmlardir.
+Q75: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yanada progressivroq ishlab chiqarish vositalarini va yangi texnikani qoʻllash orqali erishiladigan iqtisodiy o'sish turi qanday nomlanadi?
+A)Intensiv iqtisodiy oʻsish
+B)Ekstensiv iqtisodiy oʻsish
+C)Inqilobiy iqtisodiy oʻsish
+D)Barqaror iqtisodiy oʻsish
 ANSWER: A
 
-Q76: Ahli sunna val jamoaga tegishli fiqhiy mazhablar?
-A)Hanafiylik(asoschisi Abu Hanifa No‘mon ibn Sobit ibn Zutiy- Kufada 699-767=68 yosh), Molikiylik (asoschisi madinalik Molik ibn Anas Abu Abdulloh 713-795=82 yosh), Shofe‘iylik(asoschisi Muhammad ibn Idris Shofe‘iy -767-820=53 yosh),Hanbaliylik (asoschisi Ahmad ibn Hanbal 780-855=75 yosh)
-B))Sunniylik, Shialik, Xavorijlar
-C))Mu‘tazila, moturidiya, ash‘ariya
-D)Zaydiylar (Zayd ibn Ali 5-imom, 700-740 y),Ja‘fariylik(Jaʼfar as-Sodiq )
+Q76: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+B)Iqtisodiyot qonun-qoidalariga amal qilish.
+C)Davlatning iqtisodiy jarayonlarga aralashuvi mexanizmi.
+D)Foydani maksimumlashtirishga qaratilgan faoliyat.
 ANSWER: A
 
-Q77: O‘zbekistonga hanafiylik mazhabini olib kelgan va tarqalishiga sababchi bo‘lgan olim kim?
-A)Abu Xafs Kabir (Ahmad ibn Hafs ibn Zaburqon ibn Abdulloh ibn Buxoriy (Abu Hafs Kabir“ kunyasi bilan tanilgan; 767-yil, Buxoro -832-yil) islom olamining fiqhshunos olimi. Imom Buxoriy bilan zamondosh, „Kabir Buxoriy“ - „Buxoriylarning kattasi“ va „Hojatbaror imom“ degan unvonlar berilgan).
-B)Muhammad ibn Ali ibn Ismoil al-Qaffol ash-Shoshiy-(291-365,qabri Xastimom-Hazrati imom madrasasi yonida joylashgan)
-C)Burhoniddin Marg‘inoniy
-D)Imom al-Buxoriy
+Q77: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash.
+B)Faqat firmalarning foydasini oshirish.
+C)Uy xo'jaligining iste'molini maksimumlashtirish.
+D)Xalqaro savdo hajmini oshirish.
 ANSWER: A
 
-Q78: “Kitob al-Hidoya” asari muallifi…?
-A) Abulhasan Ali ibn Abubakr ibn Abduljalil al-Farg‘oniy al-Rishtoniy al-Marg‘inoniy(milodiy 1123-yil 23-sentabr- milodiy 1197) yilda Samarqandda vafot etgan)
-B) fiqhshunos olim Abu Zayd Ubaydillo ibn Umar ibn Iso Qoziy Dabusiy (978-1039)
-C) fiqhshunos olim Abu Lays Nasr ibn Muhammad ibn Ahmad ibn Ibrohim as-Samarqandiy
-D.Abulfath Muhammad ibn Mahmud ibn Husayn ibn Ahmad Ustrushaniy.
+Q78: 2022-yilda O'zbekistonning Yalpi ichki mahsuloti (YIM) real o'sishi 2021-yilga nisbatan necha foizni tashkil etdi?
+A)5.7%
+B)7.4%
+C)4.7%
+D)6.1%
 ANSWER: A
 
-Q79: “Hidoya” (arabcha so‘z - yoʻllanma; toʻla nomi “Hidoya fi furuʼ al-fiqh” - "Fiqh sohalari boʻyicha yoʻllanma") asari bo ‘limlari nechta?
-A) 4 jild, 57 kitob, 165 bob, 152 fasldan tarkib topgan
-B)112 kitob
-C)4 juz,4 bo‘lim
-D)1juz, 64 fasl.
+Q79: Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+B)Foydani maksimumlashtirish
+C)Iste'molni maksimumlashtirish
+D)Kelajakni ta'minlash uchun jamg'arma hosil etish
 ANSWER: A
 
-Q80: Shariyat amallarining tasnifi to‘g‘ri berilgan qatorni toping?
-A) farz, vojib, sunat, mustahab, harom, muboh, makruh, mustakrah.
-B)farz, vojib, sunat.
-C)mustahab, muboh
-D)harom, makruh, mustakra
+Q80: Iqtisodiyotdagi davlatning roli masalasini ilmiy asosda birinchi marta kim koʻrib chiqqan?
+A)Adam Smit
+B)J.M. Keyns
+C)M. Fridmen
+D)J. Byukenen
 ANSWER: A
 
-Q81: “Al-Fiqh-ul-Akbar” asari muallifi…?
-A). Imomi A’zam Abu Hanifa No‘mon ibn Sobit al-Ko‘fiy
-B)imom Molik Ibn Anas
-C) Abu Abdulloh Muhammad ibn Idris ibn Abbos ash-Shofiʼiy
-D) Ibn Hanbal
+Q81: Ekstensiv iqtisodiy oʻsish qanday yoʻl bilan erishiladi?
+A)Mavjud texnikaviy asos saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
+B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
+C)Yangi texnika va texnologiyalarni qoʻllash orqali
+D)Mehnat unumdorligini oshirish hisobiga
 ANSWER: A
 
-Q82: Tasavvufga berilgan ta‘riflardan qaysi biri to‘g‘ri deb bilasiz?
-A)islomda insonni ruhiy va axloqiy jihatdan komillik sari etaklovchi ta‘limot
-B)Zohidlik(zuhd), tarkidunyochilik,taqvodorlik,parhezkorlik haqidagi dunyoqarash
-C)Hidoyat va ibodat haqidagi ta‘limot
-D)Obidlik va zohidlikni ixtiyor qilgan guruh.
+Q82: Iqtisodiy siyosat nima?
+A)Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
+C)Bozor mexanizmining mustaqil ishlashi.
+D)Firmalarning foydani maksimumlashtirishga qaratilgan harakatlari.
 ANSWER: A
 
-Q83: Tasavvufga berilgan zohiriy va botiniy ta’rif qaysi bandda to‘g’ri berilgan?
-A)to‘g’ri javob B va D
-B)”Suf”-jun kiyim, so‘fiy esa jun mato kiyim kiygan kishi
-C)Kambag’al sahobalar,”ahli suffa” yoki “ashobi suffa”
-D)Qalbni Alloh zikri bilan pokiza qiluvchi so‘fiylar, ya’ni “safo ul-qalb” (qalb sofligi) uchun jonbozlik ko‘rsatgan kishilar
+Q83: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+B)Faqat milliy iqtisodiyotning mustaqilligini ta'minlash.
+C)Faqat xorijiy investitsiyalarni jalb qilish.
+D)Aholining iste'molini maksimumlashtirish.
 ANSWER: A
 
-Q84: Tasavvufning tarixiy taraqqiyot davri to‘g’ri berilgan qatorni toping?
-A)Zohidlik davri(8-11 asr),so‘fiylik maktablari(9-11 asr),so‘fiylik tariqatlari(12-asr)
-B)1.Tavba(qaytish),2.Tavakkul(o‘zini topshirish), 3.Rizo(rozilik), 4.Muhabbat (ilohiy ishq), 5.Huzn(qayg’u), 6.Xaf(qo‘rqish),7.Rijo(xudoning lutfiga bo‘lgan umid)
-C)Zohid-(tiyiluvchi),Obid-(ibodat qiluvchi),Nosik-(taqvodar) ma’nosini beradi
-D)Tasavvuf dastlab VIII asr o‘rtalarida zohidlik harakati sifatida paydo bo‘lgan
+Q84: Iqtisodiy oʻsishni baholashda qaysi koʻrsatkichlardan foydalanilmaydi?
+A)Hukumatning yillik byudjet taqchilligi miqdori.
+B)Yalpi ichki mahsulotning mutloq hajmi va uning o'sish sur'atlari.
+C)Aholi jon boshiga toʻgʻri keladigan real YIM miqdori.
+D)Iqtisodiy resurs xarajatlari birligi hisobiga YaIM miqdori.
 ANSWER: A
 
-Q85: Zohidlik va so‘fiylik maktablari to‘g’ri berilgan bandni toping?
-A)to‘g’ri javob B va D
-B)Madina zohidlik maktabi(sunna va hadis),Basra zohidlik maktabi(xavf, xuzn, muhabbat),Kufa zohidlik maktabi(so‘fiylik),Xurosan zohidlik maktabi(tavakkul)
-C)Uvays Karaniy (Alisher Navoiyda),Abu Hoshim Kufiy(Abdurahmon Jomiyda)
-D)Nishopur so‘fiylik maktabi(futuvvat-oliyjanoblik,malomat-o‘z-o‘zini tanqid qilish),Misr so‘fiylik maktabi(ma’rifat-allohni bilish,muhabbat-ilohiy ishq),Damashq so‘fiylik maktabi(ixtiyoriy ochlik,tungi ibodat),Bag’dod so‘fiylik maktabi(tavhid)
+Q85: Davlatning iqtisodiy siyosati nima?
+A)Muayyan mamlakatning milliy iqtisodiga taalluqli boʻlgan makroiqtisodiy siyosat yoʻl-yoʻriqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
+B)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+C)Firmaning foydani maksimumlashtirish va iqtisodiy jihatdan barqarorligini ta'minlashga qaratilgan harakatlari.
+D)Uy xoʻjaligining oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etishdir.
 ANSWER: A
 
-Q86: Tasavvuf ilmidan dars beruvchi shaxslarga qanday unvon berilgan…?
-A)shayx, murshid, pir, eshon, xoja, mavlo, mavlono, maxdum
-B)Murid,solih,ahli dil,ahli hol, mutasavvuf
-C)Valiy, avliyo, qutb, aqtob, avtod, chilton, abdol, abror, ahror, nujabo, nuqabo, siddiq
-D)Oshiq, faqir, haqir, darvesh, qalandar, zohid, orif, devona, ahli muhabbat, ahli suluk, savdoyi,gado
+Q86: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
+B)Individual korxonalarning maksimal daromad olishini ta'minlash.
+C)Xalqaro savdo hajmini kamaytirish va importga to'liq cheklovlar o'rnatish.
+D)Barcha resurslarni xususiy sektorga to'liq o'tkazish.
 ANSWER: A
 
-Q87: Tasavvufdan saboq oluvchi shaxs…?
-A)Murid, solih, ahli dil, ahli hol, mutasavvuf
-B)shayx, murshid, pir, eshon, xoja, mavlo, mavlono, maxdum
-C)Valiy, avliyo, qutb, aqtob, avtod, chilton, abdol, abror, ahror, nujabo, nuqabo, siddiq
-D)Oshiq, faqir, haqir, darvesh, qalandar, zohid, orif, devona, ahli muhabbat, ahli suluk, savdoyi,gado.
+Q87: Davlatning ijtimoiy samarali iqtisodiy strategiyasi nimani ifodalaydi?
+A)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini, toʻliq samarali ish bilan bandlikka, inflyatsiyani jilovlashga va daromadlarning odilona taqsimlanishiga erishish.
+B)Muayyan guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlarini amalga oshirish.
+C)Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotni qoʻllash.
+D)Davlatning mavjudligiga tahdid kuchayganida, ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi.
 ANSWER: A
 
-Q88: Tasavvuf bo‘yicha oliy maqomlarga erishgan sohibkaromat pirlarga qanday unvon berilgan?
-A)Valiy, avliyo, qutb, aqtob, avtod, chilton, abdol, abror, ahror, nujabo, nuqabo, siddiq
-B)Murid, solih, ahli dil, ahli hol, mutasavvuf
-C)shayx, murshid, pir, eshon, xoja, mavlo, mavlono, maxdum
-D)Oshiq, faqir, haqir, darvesh, qalandar, zohid, orif, devona, ahli muhabbat, ahli suluk, savdoyi,gado
+Q88: Davlat iqtisodiy siyosatining asosiy maqsadi nima?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+B)Xonadonlarning iste'molini maksimumlashtirish
+C)Firmalar foydasini maksimumlashtirish
+D)Bozordagi raqobatni himoya qilish
 ANSWER: A
 
-Q89: Valiy(avliyo) so‘zi…?
-A)Allohning do‘sti
-B)shayxlarga berilgan eng oliy unvon
-C)O‘rinbosar
-D)Qoziqlar
+Q89: Iqtisodiyotni davlat tomonidan tartibga solish obyektlariga nimalar kiradi?
+A)Iqtisodiy sikl va pul muomalasi
+B)Ayrim firmaning ichki boshqaruvi
+C)Xonadonlarning kundalik iste'mol tanlovlari
+D)Muayyan mahsulotning reklama strategiyasi
 ANSWER: A
 
-Q90: Qutb bu…?
-A)Tasavvufda shayxlarga beriladigan eng oliy unvon
-B)Yordam beruvchi
-C)Chihlton(qirq kishidan iborat)
-D)Insonlarning foydasi uchun faoliyat ko‘rsatadigan avliyolar.
+Q90: Erkin iqtisodiyotning asosiy tamoyillaridan biri qaysi?
+A)Davlatning iqtisodiyotga aralashuvi cheklanganligi
+B)Narxlar va foiz stavkalarini davlat tomonidan nazorat qilish
+C)Barcha resurslarni markazlashgan holda taqsimlash
+D)Davlat sektorining iqtisodiyotda hukmron kuch boʻlishi
 ANSWER: A
 
-Q91: Nafs nima.....?
-A)Nafs bu insonga kamolga yetmog‘i uchun berilgan fe’l-atvor
-B)Nafs bu farishtalarga berilgan maqom
-C)Nafs bu jinlar uchun berilgan ibodat vositasi
-D)Nafs bu insonning xulq-atvori namoyon bo‘lishi.
+Q91: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlatning iqtisodiyotni boshqarish bo'yicha harakatlari.
+C)Faqat bozor mexanizmlari orqali amalga oshiriladigan tartibga solish.
+D)Xalqaro savdo shartnomalari tizimi.
 ANSWER: A
 
-Q92: Nafsning martabalari qaysi bandda to‘g‘ri berilgan?
-A)Ammora, lavomma ,mulhima, mutmainna, roziya, marziya, komila(sofiya)
-B)Ochlik, to‘qlik, poklik, johillik, yemak-ichmoq,tubanlik
-C)Tuban , pushaymon , solih, yetuklik, rozilik,xotirjam, ilohi nur
-D)Istak, hoyu-havvos, lazzat, hirs, ofat, fahsh,kibr.
+Q92: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+B)Faqatgina korxonalarning foydasini oshirish.
+C)Faqat tashqi savdo hajmini oshirish.
+D)Pul muomalasini to'liq nazorat qilish.
 ANSWER: A
 
-Q93: Nafsi ammora xos xususiyatlar qaysi qatorda to‘g‘ri berilgan?
-A)B va D javoblar to‘g‘ri
-B)Kibr, kin,baxil,shahvat,hirs,hasad
-C)Pushaymon,vahima,uyqu,oxirat,bema’ni
-D)G‘azab,g‘aflat,jaholat,shirk,kufr,ujb
+Q93: Mobilizatsion iqtisodiy strategiya qanday sharoitlarda qo'llaniladi?
+A)Davlatning mavjudligiga tahdid kuchayganida va favqulodda holatlar sharoitida.
+B)Tovar va kapitalning erkin harakati uchun ochiq iqtisodiyotda.
+C)Ma'lum guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlari amalga oshirilganda.
+D)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini ta'minlash maqsadida.
 ANSWER: A
 
-Q94: Nafsi ammoraning nechta alomati bor?
-A)12 ta
-B)6 ta
-C)10 ta
-D)4 ta
+Q94: Iqtisodiy siyosatning ta'rifi qanday?
+A)Makroiqtisodiy siyosat bo'lib, uning muayyan mamlakatning milliy iqtisodiga oid puxta o'ylangan va ishlab chiqilgan yo'l-yo'riqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
+B)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+C)Firmalar foydasini maksimumlashtirishga qaratilgan chora-tadbirlar tizimi.
+D)Bozor mexanizmining davlat aralashuvisiz o'z-o'zini tartibga solish jarayoni.
 ANSWER: A
 
-Q95: Nafsi lavomma alomatiga qaysi ta’rif nisbatan to‘g‘ri?
-A)Pushaymon qilib o‘zini malomat(tanqid) qilgan nafs
-B)Bema’ni gapni ko‘p gapirish
-C)Yaxshi kiyinish va yaxshi yashash orzusi
-D)Yeb-ichishga hirs qo‘yish
+Q95: Qaysi iqtisodchi davlatning iqtisodiy jarayonlarga har qanday aralashuvi oxir-oqibatda faqat vaziyatni yomonlashtiradi deb hisoblagan?
+A)Adam Smit
+B)J.M. Keyns
+C)M. Fridmen
+D)J. Byukenen
 ANSWER: A
 
-Q96: Nafsi mulhima qanday sifatlarda namoyon bo‘ladi?
-A) B va C javoblar to‘g‘ri
-B)Solih amallarda,chiroyli xulqda,sabr va shukurda,ilmda
-C))Halol va haromga e’tiborli bo‘lganda
-D)Nafs va hoyu-havvosni jilovlashda
+Q96: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni o'zgarib turuvchi sharoitga moslashtirish.
+B)Xususiy korxonalarning foydasini oshirishni ta'minlash.
+C)Faqat iqtisodiy sikllarni barqarorlashtirishga qaratilgan chora-tadbirlar.
+D)Milliy xo'jaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
 ANSWER: A
 
-Q97: Nafsi mutmainna alomatiga berilgan ta’rifning qaysi biri to‘g‘ri?
-A) B va D javoblar to‘g‘ri
-B)Yetuklik maqomi bo‘lib nafsning hoyu-havvoslarini jilovlash
-C)Chiroyli axloqlar bilan ziynatlashuv
-D)Amal,tavakkul,ochlik,riyozat,ibodat,tafakkul
+Q97: Davlatning iqtisodiy siyosati nima?
+A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
+B)Iqtisodiyot subyektlarining faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
+C)Jamiyatning madaniy rivojlanishiga ta'sir etuvchi choralar tizimi.
+D)Bozor munosabatlarining hech qanday aralashuvsiz o'z-o'zini tartibga solish jarayoni.
 ANSWER: A
 
-Q98: Ixlos,ehson,Alloh zikri,foydasiz gaplardan uzoqlashish sifati bu...?
-A)Nafsi roziya martabasida
-B)Nafsi marziya martabasida
-C)Nafsi ammorada
-D)Nafsi lavommada
+Q98: Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini ko'paytirish orqali.
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+C)Aholi jon boshiga real YIMning oshishi hisobiga.
+D)Yangi texnologiyalar va innovatsiyalarni joriy etish orqali.
 ANSWER: A
 
-Q99: Nafsi marziya bu...?
-A)B,C,D javoblar to‘g‘ri
-B)Bandalar yetisha oladigan yuksak martaba
-C)Nafs Alloh taoladan, Alloh taola ham nafsdan rozi
-D)Chiroyli xulqlar ortidan ehsonlar kelishi
+Q99: Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqib qanday asosiy maqsadlarni ko'zlaydi?
+A)Barqaror iqtisodiy o'sishni, milliy iqtisodiyotning mustaqilligini va iqtisodiy xavfsizlikni ta'minlash.
+B)Faqat xususiy korxonalarning foydasini maksimumlashtirish.
+C)Ishsizlik darajasini doimiy ravishda yuqori ushlab turish.
+D)Barcha resurslarni markazlashtirilgan holda boshqarish.
 ANSWER: A
 
-Q100: Nafsi kamola(sofiya) bu...?
-A)Payg‘ambarlik martabasi
-B)Ilohi nur
-C)Farishtalar maqomi
-D)Nafsi solih
+Q100: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlat tomonidan iqtisodiyotni boshqarish usullari.
+C)Bozor mexanizmlari orqali narxlarni tartibga solish.
+D)Xalqaro savdo bitimlarini tuzish.
 ANSWER: A
 
-Q101: Movarounnahrda tasavvuf ta’limotining vujudga kelishida muhim rol o‘ynagan shaxs…?
-A)Abu Ya’qub Yusuf al-Hamodoniy(1040-1140)
-B)Xoja Abduxoliq G’ijduvoniy(1106-1179)
-C)Xoja Axmad Yassaviy(1093-1166)
-D)Najmiddin Kubro al-Xivaqiy(1145-1221)
+Q101: Iqtisodiy siyosatning qanday darajalari mavjud?
+A)Mikro, makro va meta.
+B)Mahalliy, mintaqaviy va global.
+C)Taktik, strategik va operativ.
+D)Qisqa muddatli, oʻrta muddatli va uzoq muddatli.
 ANSWER: A
 
-Q102: Xoja Axmad Yassaviy so‘fiylik ta’limotining mohiyati…?
-A))To‘g’ri javob B va D
-B)Riyozat(qiynlish,nafs istagidab voz kechish),Chilla(fors.qirq),Zikr(yodga olish),Mujohada(kurashmoq,nafsi ammoraga)
-C)”Devoni hikmat”da
-D)Ma’rifaatulloh(Allohni tanish),Jo‘mardlik, rostgo‘ylik, Tavakkul(o ‘zini Allohga topshirish)
+Q102: Ekstensiv iqtisodiy oʻsish qanday erishiladi?
+A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+B)Ishlab chiqarish omillarining sifat jihatidan takomillashtirilishi orqali.
+C)Yangi texnologiyalarni joriy etish orqali.
+D)Mehnat unumdorligini oshirish orqali.
 ANSWER: A
 
-Q103: Najmiddin Kubro al-Xivaqiy so‘fiylik ta’limotining mohiyati…?
-A)1.At-tavba(“men”likdan xalos bo ‘lish),2.az-zuhud fi-d-dunyo(dunyo va mol-mulkdan voz kechish),3.at-tavakkul ala-lloh(Allohga tayanish),4.Qanoat-oz (etarli narsalar bilan qanoatlanish),5.Uzlat(ruhiy yolg’izlik),6.Mulozamat az-zikr (Allohni ixlos bilan yod etish),7.at-Tavajjuh ila-lloh ( borlig’I bilan Allohga yuzlanish),8.Sabr( qiyinchilikni sabr bilan ado etish),9.Muroqaba(o‘z-o‘zini nazorat qilish),10.Rido(Allohning alohida marhamatiga sazovar bo‘lish)
-B)Bu tariqat zikrni ovoz chiqarmasdan “xufiya”ijro etgan,”Usuli ashara”asari
-C).Bahoiya,xilvatiya,firdavsiya,nuriya,rukniya,hamadoniya,nurbaxshiya,barzanjiya shohobchalari
-D)1.oq rang -islomni, 2.sariq rang -imonni, 3.zangori rang - ehsonni, 4.yashil rang -itminon (ishonch)ni, 5.koʻk rang - iqon (toʻliq ishonch)ni, 6.qizil rang - irfonni, 7.qora rang - hayajon (hayrat)ni anglatadi.
+Q103: Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi qanday nomlanadi?
+A)Iqtisodiy siyosat
+B)Fiskal siyosat
+C)Monetar siyosat
+D)Tarkibiy siyosat
 ANSWER: A
 
-Q104: Bahoyddin Naqshband(1318-1389) so‘fiylik ta’limotining mohiyati…?
-A)«Dast ba koru, dil ba yor!» (“Qo‘l ishda, Olloh dilda”)
-B)13 ta asar yozgan, Ular orasida “Hayotnoma”, “Dalili oshiqon”, “Odob al-solikin” kabi asarlar alohida ahamiyatga ega.
-C)1.shariat bilan zohirni poklash, 2.tariqat bilan botinni poklsh, 3.haqiqat bilan qurbi ilohiyga erishmoq, 4.ma’rifat bilan Allohga erishmoq.
-D)Ahroriya,mazhariya mujaddidiya,xolidiya
+Q104: Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
+A)Mulk va iste'molchilar huquqlarini himoya qilish
+B)Barcha narxlarni markazlashgan holda belgilash
+C)Xususiy korxonalarni to'g'ridan-to'g'ri boshqarish
+D)Ishlab chiqarish resurslarini to'liq milliylashtirish
 ANSWER: A
 
-Q105: Buxoro shahridagi yetti pir ziyoratgohi ketma-ketligini belgilang?
-A)1.Xoja Abduxoliq G’ijduvoniy, 2.Xoja Muhammad Orif ar-Revgariy, 3.Xoja Mahmud Anjir Fag’naviy, 4.Xoja Ali Romitaniy, 5.Xoja Muhammad Bobo Samosiy, 6.Xoja Sayid Amir Kulol Buxoriy,7. Bahouddin Naqshband
-B)1.Sahihul Buxoriy» (7563 ta hadis).-Movarounnahr; 2.«Sahihi Muslim» (7479 ta hadis).-Nishopur; 3.«Sunani Abu Dovud» (5274 ta hadis)-Sijiston (Eron); 4.«Jome’i Termiziy» (3956 ta hadis).-Movarounnahr; 5.«Mujtaboi Nasoiy» (5758 ta hadis).-Xuroson (Movarounnahr); 6.«Sunani Ibn Moja» (4341 ta hadis).-Iroq; 7. «Muvattoi Molik» (1843 ta hadis).-Madinai Munavvara; 8.«Sunani Dorimiy» (3465 ta hadis).-Samarqand (Movarounnahr; 9.«Sahihi Ibn Hibbon» (7096 ta hadis).-Samarqand (Movarounnahr). Bu hadislar (kutubi tis’a» (to‘qqiz to‘plam)
-C)5.Xoja Muhammad Bobo Samosiy, 6.Xoja Sayid Amir Kulol Buxoriy,7. Bahouddin Naqshband
-D)1.Xoja Abduxoliq G’ijduvoniy, 2.Xoja Muhammad Orif ar-Revgariy, 3.Xoja Mahmud Anjir Fag’naviy, 4.Xoja Ali Romitaniy
+Q105: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+A)Ekstensiv iqtisodiy oʻsish
+B)Innovatsion iqtisodiy oʻsish
+C)Intensiv iqtisodiy oʻsish
+D)Barqaror iqtisodiy rivojlanish
 ANSWER: A
 
-Q106: Hozirgi vaqtdagi ayrim tariqat vakillarning da’volari nimalarda namoyon bo‘lmoqda?
-A)To‘g’ri javob A,B,S da
-B.O‘zgalarning diniy va dunyoviy marosimlarida ishtirok etmaslik, qoplama tish
-qo‘ygan kishining tahorati mukammal bo‘lmaydi, namozdan keyin ovoz chiqarib duo va tilovat qilishni makruh deb bilish,Muhammad SAV zamonasida bo‘lmagan har qanday ishni bid’at deb bilish va inkor etish;
-C)O‘z pirlarini ideal shaxs deb bilish
-D)Maxsi-kalish kiyish, chopon va salla o‘rab yurish
+Q106: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlatning iqtisodiyotga aralashuvi mexanizmlari yig'indisi.
+C)Faqat bozor mexanizmlarining samarali ishlashi uchun sharoit yaratish.
+D)Davlatning qonun-qoidalariga amal qilish orqali iqtisodiyotni rivojlantirish.
 ANSWER: A
 
-Q107: Diniy sektalarga berilgan ta’rifning to‘g’risini toping?
-A)ma’lum bir dinning rasmiy aqidalariga zid rvishda ajralib chiqqan yoki mavjud dinlar va konfessiyalarga umuman aloqasi bo‘lmagan holda din bayrog’i ostida faoliyat ko‘rsatadigan guruhlar.
-B)muayan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchiklar jamoasi.(konfessiya)
-C)bir mintaqa,hudud aholisi uchun begona bo ‘lgan,muayan tarixiy sharoit yoki ijtimoiy vaziyat sababli o‘sha erga kirib kelgan yoki kirishga harakat qiladigan dinlar(noan’anaviy diniy tshkilot yoki oqim)
-D)Mavjud diniy ta’limotlar,ulardagi muayan qoidalarning davr talabiga moslashishi (dinning modernizatsiyalashuvi).
+Q107: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
+A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
+B)Faqat firmalarning foydasini maksimumlashtirish.
+C)Uy xoʻjaligining iste'molini cheklash.
+D)Faoliyat turlarini davlat nazoratisiz qoldirish.
 ANSWER: A
 
-Q108: Bahoiylik qanday diniy yo’nalish?
-A)XIX asrda Eronda bobiylik yo‘nalishi zamirida vujudga kelgan diniy yo‘nalishdir.Bob arabcha so‘z-“eshik”,asoschisi sherozlik Sayid Ali Muhammad(1819-1850),shogirdi Mirza Husayn Ali Nuriy(1817-1892) u o‘ziga xudoning elchisi ya’ni,”Bahoulloh”(Allohning jilosi) nomini bergan.
-B)Bahoiylikning ta’limoti “Kitobi Aqdas”(Eng muqaddas kitob) va ”Kitobi Ikon”(Mustahkam ishonch kitobi)da berilgan.
-C)Bahoiylik ta’limotiga ko‘ra-barcha dinlar bir ildizdan tarqalgan,payg’ambarlar birodar.Bahoulloh ham payg’ambar.Xudo har ming yilda Er yuziga yangi payg’ambar tushiradi.
-D)Isroilning Akka shahriga qarab ibodat qiladigan diniy oqim.
+Q108: Pul massasining qisqartirilishi va uning emissiyasi qat'iy chegaralanishi qaysi monetar siyosat turiga xos?
+A)Qattiq monetar siyosat.
+B)Yumshoq monetar siyosat.
+C)Aralash monetar siyosat.
+D)Kengaytirilgan monetar siyosat.
 ANSWER: A
 
-Q109: O‘zbekistonda faoliyati kuzatilgan norasmiy diniy jamoalar qatoriga qo‘yidagilarning qaysi birlarini qo‘yish mumkin?
-A)”Ma’rifatchilar”,”Shohidiylar”,”Baxshillochilar”
-B)”Ma’rifat”,”Tilak”,”Namoz-sig’inish”,”Rost-Qur’on”
-C)”Quro’ndan ma’ruf”,Mormonlar
-D)Bahoiylik,Ahmadiya(Qodiyoniya),Iegovo shohidlari.
+Q109: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash
+B)Faqat milliy valyuta qadrini barqarorlashtirish
+C)Faqat eksport salohiyatini oshirish
+D)Faqat atrof-muhit holatini yaxshilash
 ANSWER: A
 
-Q11-Kibermakonda din: Missionerlik va prozelitizmning ijtimoiy-siyosiy xavfi. 2 soat ma’ruza 2 soat seminar?
-ANSWER: 
-
-Q110: Kibermakon tushunchasini dastlab ishlatgan yozuvchi kim?
-A)To‘g’ri javob B va D
-B)Uilyam Gibson 1982 yil «Sojjenie Xrom» («Burning Chrome») nomli hikoyasida yozadi
-C)Aydarbek Tulepov oʻzining “ISHID fitnasi” kitobida
-D) Uilyam Gibsonning 1990 yilda yozib tugatgan “Neuromancer” (o‘zbek tilida tarjimasi “Asabli manzaralar tasvirlovchisi”, rus tilida «Nervo-sochinitel») nomli texno-utopik fantastik trilogiyasida qo‘llagan
-ANSWER: A
-
-Q111: Kibermakon tushunchasiga berlgan qaysi ta’rif to‘g’ri?
-A)To‘g’ri javob B va D
-B)axborot texnologiyalari yordamida yaratilgan virtual muhit
-C)texnik vositalar yordamida yaratilgan, insonga uning his-tuygʻulari orqali uzatiladigan dunyo: koʻrish, eshitish, teginish va boshqalar
-D)kompyuter tarmog‘i orqali bir-biri bilan bog‘langan va bir vaqtning o‘zida turli geografik nuqtada kesishuvchi har qanday mavjud kompyuterning grafik sifatidagi ma’lumotlariga o‘ralashib qolgan kishilar jamoasi tushuniladi
-ANSWER: A
-
-Q112: Kiberxavfsizlik tushunchasining mohiyatini bilasizmi?
-A)kibermakonda shaxs, jamiyat va davlat manfaatlarining tashqi va ichki tahdidlardan himoyalanganlik holati
-B)O‘zbekiston Respublikasining qonuni: Kiberxavfsizlik to‘g‘risida 15.04.2022 yil
-C)Axborotni qabul qilish,saqlash,uni qayta ishlash hamda undan turli jarayonlarni boshqarishda foydalanish bilan shug’ullanadigan fan
-D)Kibernetika terminini ilk marta yunon faylasufi Platon tilga olgan bo‘lsa, AQShlik N.Viner “Kibernetika” kitobini 1947 yil yozgan.
-ANSWER: A
-
-Q113: Kiberzo‘ravonlikni yoki cuberbullingni nima deb bilasiz?
-A)internetdagi bezorilik yoki qasddan haqorat qilish,tuhmat qilish,tahdid qilish zamonaviy aloqa vositalaridan foydalangan holda
-B)SMS xabarlari
-C)Odobsiz so‘zlar
-D)Bezovta qiluvchi qo‘ng’iroq
-ANSWER: A
-
-Q114: Kiberterrorizm nima?
-A)bu tahdid yoki qoʻrqitish orqali, internetdan foydalangan holda, siyosiy yoki mafkuraviy muvaffaqiyatga erishish maqsadida uyushtiriluvchi kiberhujumlardir
-B)Bu ijtimoiy media, xabar almashish platformalari, o'yin platformalari va mobil telefonlarda sodir bo'lishi mumkin
-C)kibermakonda apparat, apparat-dasturiy va dasturiy vositalardan foydalangan holda qasddan amalga oshiriladigan, kiberxavfsizlikka tahdid soladigan harakat
-D)Kiber atama Sharqiy Yevropa jargonida ayyor, ayyor yoki ko'cha aqlli odamni tasvirlash uchun paydo bo'lgan. “Kiber” so‘zi ruscha “cyber” (“kiber” deb talaffuz qilinadi) so‘zidan kelib chiqqan bo‘lib, uning ildizi jinoyat olami va kibermadaniyatga ega. Kiberodamlar o'zlarining topqirligi, moslashuvchanligi va murakkab muhitda osongina harakat qilish qobiliyati bilan mashhur
-ANSWER: A
-
-Q115: O‘zbekiston Respublikasi Oliy sudi tomonidan ekstremizm va terrorizm g‘oyalari bilan yo‘g‘rilgan deb topilgan, respublika hududiga olib kirish, tayyorlash, tarqatish va namoyish etish taqiqlangan materiallar ro‘yxati qaysi bandda to‘g’ri berilgan?
-A)Meta(Facebook)da-138 ta, Telegrammda-390 ta, instagrammda-107 ta, YoTubeda-46 ta, OK.RUda-23 ta, Tik-Tokda-36 ta, internet sahifalaridagi materiallar- 63 ta= jami 803 ta
-B)Ijtimoiy tarmoqlardagi diniy mazmundagi materiallarga “layk” bosish yoki “ulashishdan” ehtiyot bo‘lish lozim
-C)Diniy mazmundagi materiallarni tarqatish maqsadida qonunga xilof ravishda tayyorlash, saqlash, O‘zbekiston hududiga olib kirish yoki tarqatish, materiallarni va ularni tayyorlash hamda tarqatish uchun tegishli vositalarni musodara qilgan holda quyidagicha miqdorda jarma solishga sabab bo‘ladi: fuqarolarga BHMning 20 baravaridan 100 baravarigacha (6 mln 800 ming so‘mdan 34 mln so‘mgacha); mansabdor shaxslarga BHMning 50 baravaridan 150 baravarigacha (17 mln so‘mdan 51 mln so‘mgacha)
-D)ma’muriy jazo qo‘llanilganidan keyin sodir etilgan bo‘lsa, jinoiy javobgarlikka sabab bo‘ladi.
-ANSWER: A
-
-Q116: Qur’oni Karimda axborot iste’mol madaniyati haqidagi oyat qaysi bandda to‘g’ri berilgan?
-A)Ey mo‘minlar!Agar sizlarga biror fosiq kimsa xabar keltirsa,sizlar(hqiqiy ahvolni) bilmagan holingizda biror qavmga aziyat etkazib qo‘yib(keyin) pushaymon bo‘lmasligingiz uchun (u xabarni) aniqlab (tekshirib) ko‘ringiz!”(Xujurot surasi 6-oyat)
-B)“Ey dono odam! Sen eng avvalo narsalarning mohiyatini bil, ularning aldamchi go‘zal shakliga ishonma!” Jaloliddin Rumiy
-C)Ezgulik va taraqqiyotga xizmat qiluvchi ma’lumotlarni axborot dunyosidan saralab olish layoqati
-D)http//www.religions.uz, http//www.muslim.uz, http//www.ziyo.uz, http//www.hidoyat.uz. domenlaridan foydalanish.
-ANSWER: A
-
-Q117: “Al-Qoida”-(asos, poydevor, tayanch) terroristik tashkiloti qachon, qayerda paydo bo‘lgan?
-A)1989-1990 yillarda Afg’onistonda, Usama Bin Lodin tomonidan, sobiq sovetlar ittifoqiga qarshi qurollangan kuchlarni moddiy va harbiy jihatdan yordam ko‘rsatish orqali
-B)Al-Qoidaning dasturiga musulmon oʻlkalarda xorijiy taʼsirlarga chek qoʻyish va yangi islomiy xalifalik yaratish kiradi
-C)“Al-Qoida» 2001 yil 11 sentyabrda Nyu-Yorkdagi egizak minoralarga qilingan hujum tashkilotchisi
-D)Barcha javoblar to‘g’ri.
-ANSWER: A
-
-Q118: Ixvanul muslimin yoki al-ixvon al- muslimin (musulmon birodarlari) diniy siyosiy tashkiloti maqsadi bu…?
-A)1928 yil Misrning Ismoiliya shahria tuzilgan,asoschisi shayx Hasan al Banno,maqsadi-musulmon o‘lkalarda ”islomiy adolat”tamoyillariga asoslangan jamiyat barpo etish
-B)”Mo‘tadil birodarlar”(Hasan al Banno va Sayyid Qutb izdoshlari),”Islomiy demokratlar”,”Islomiy sotsializm” ta’limotining turli ko‘rinishlari tarafdorlari;Harbiylashgan eksterimistik islomiy tashkilotlar(“Katoib Muhammad”,”Junud Alloh”,”At-takfir val hijra”,”Al-tahrir al-islomiy”),”Hizbut tahrir al-islomiy” diniy-siyosiy partiyasi ham shular jumlasiga kiradi
-C)Musulmon birodarlarining ”Al-ixvon al-muslimin” jurnali 1933 yil chiqa boshladi
-D)Misr,Suriya,Iordaniya,Livand faoliyat ko‘rsatadigan tashkilot.
-ANSWER: A
-
-Q119: “ISHID”-Iroq-Shom islom davlati qachon va qayerd paydo bo‘ldi?
-A)2006 yil 15 oktyabrda Iroq v Suriyada bir guruh qurolli jamoalarning yig‘ilishi natijasida yuzaga kelgan. Abu Umar ismli shaxs yetakchi etib saylangan. 2010 yil 19 aprelda Abu Umar Bag‘dodiy o‘ldirilgandan so‘ng guruhga Abu Bakr Bag‘dodiy yetakchi bo‘ladi.
-B)Tashkilot xalifalikni qaytarish va shariatni tatbiq qilishni maqsad qiladi
-C)Harakatning “Dobiq” nomli jurnali bor
-D)1.Iroqdagi notinchlik.2. Suriyadagi keskin vaziyat.3.“Al-Qoida”ni siyosiy maydonda sustlashishi. 4. Katta neft zaxiralarining terrorchi tashkilotlarning tasarrufigao‘tishi. 5. O‘z vaqtida bu tashkilotga nisbatan pisand qilmaslik kayfiyati bo‘lgani bois.6. Mutaassib shaxslarning “Islom davlati”ga qo‘shilishi tugamayotgani.7. Internet - tashkilotning asosiy targ‘ibot vositasi sifatida. 8. Taskilotning faoliyati o‘ta shafqatsizlikka asoslanganligi va uni namoyish qilishi. 9. “Islom davlati” o‘z tashkilotiga qo‘shilmaganlarni omma oldida jismonan yo‘q qilishni lozim topgani.
-ANSWER: A
-
-Q10: Jahon siyosiy hamjamiyati hali-hamon bu terroristik tashkilotga so‘nggi qarorini bildirmayotganida.?
-ANSWER: 
-
-Q120: “Boko haram” qachon va qayerda paydo bo‘ldi va maqsadi?
-A)Asoschisi va yuzaga kelish tarixi. “Boko haram” tashkilotiga 2002-yilda Nigeriyaning Mayduguri shahrida Muhammad Yusuf tomonidan asos solingan. Dastlab u o’zida masjid va madrasani qamrab olgan diniy majmua tashkil qiladi. Mazkur majmua bolalarga diniy ta’lim berishni maqsad qilgan, deb ochilgan bo’lsa-da, bu joy o’z tarafdorlarini tayyorlash uchun xizmat qiladi. 2004-yilda Muhammad Yusuf jamoa a’zolari bilan Yobe shtatidagi Kannama shahriga yaqin tumanga joylashib, o’zining bazasiga asos soladi va unga «Afg’oniston» deb nom beradi. O’sha joydan ichki ishlar xodimlariga hujumlar uyushtirish boshlanadi. 2009-yil 29-iyulda Muhammad Yusuf Nigeriyaning shimoliy qismida «islom davlati»ni tuzish maqsadida isyon ko’taradi. Shundan so’ng, politsiya jamoaning Mayduguridagi bazasiga hujum qilib, uni qo’lga oladi. Muhammad Yusuf ham hibsga olinib, keyinchalik vafot etadi. Uning vafotidan keyin jamoatga Abu Bakr Shekau boshchilik qiladi. Tashkilotning bosh maqsadi. Bugun Nigeriya hududida shariat asosida «islom davlati»ni qurish maqsad qilingan. 2014-yil 24-avgustda “Boko haram” Nigeriya shimolidagi G’uzo shahrida xalifalik tuzilganini e’lon qilgan
-B)islom niqobi ostidagi radikal oqim. Jamoaning rasmiy nomi “Jama’at ahli sunna li-d-da’va va-l-jihod” (“Da’vat va jihod ahli sunna jamoasi”). “Boko haram” esa jamoaning ikkinchi nomi bo’lib, tashkilotning bazasi joylashgan Mayduguri aholisi tomonidan berilgan. “Boko haram” xausa tilidan «g’arb (zamonaviy) ta’limi taqiqlangan» yoki “g’arb ta’limi – harom” ma’nosini anglatadi. “Boko” so’zining ilk ma’nosi “yolg’on” bo’lgan, biroq keyinchalik uning semantikasi o’zgarib, “g’arb ta’limi” degan ma’noga ega bo’lgan. Shuningdek, “Nigeriya tolibon harakati”, “Muhojirun”,”Yusufiyya” nomlari bilan ham atalgan.
-C)Misr Arab Respublikasining sobiq muftiysi Aliy Juma aytadi: “Albatta, “Islom davlati” to‘satdan paydo bo‘lib qolgan emas. Ularning sifatlari islom dinining qadimgi manbalarida ham Hazrati Ali ibn Abu Tolib raziyallohu anhuning so‘zlarida bayon qilingan. Hazrati Ali ibn Abu Tolib karramallohu vajhahuning aytgan so‘zlarini Nu’aym Ibn Hammod o‘zining “al-Mote’ al-fitan (katta fitnalar” nomli kitobining 1 jild 210 sahifasida keltiradi: “Qachon qora bayroqlarni ko‘rsangiz, joylaringizdan qo‘zg‘almanglar..”
-D)Islomda barcha davlat va shar’iy boshqaruv ishlari “sho‘ro” (maslahat kengashi) asosida amalga oshiriladi. Bu borada Alloh taolo: “...Ularning ishlari o‘zaro maslahat (bilan) bo‘lur...”, degan (Sho‘ro,38) va yana “...va ular bilan kengashib ish qiling!...” deydi (Oli Imron, 159). Umar ibn Xattobni, Usmon ibn Affon va Ali ibn Abu Tolib (r.a.)larni xalifalikka saylash maslahat kengashi bilan amalga oshirilgan.
-ANSWER: A
-
-Q121: ”Turkiston islom harakati”(sobiq “O‘zbekiston islom harakati”) diniy eksterimistik va terroristik tashkiloti paydo bo‘lishi tarixi va maqsadi?
-A) Ushbu tashkilot 1996 yilda “O‘zbekiston islom harakati” nomi ostida tashkil etilgan. Haraktni shakillantirishda 1992-1993 yillarda O‘zbekistonda faoliyati ta'qiqlangan “Adolat uyushmasi” (Namangan), “Islom uyg‘onish partiyasi” (1990 yil Astraxanda asos solinib, 1991 yil yanvaridan O‘zbekistonda faoliyat ko‘rsatgan) “Odamiylik va insonparvarlik” (Qo‘qon), “Turkiston islom partiyasi”, “Islom lashkarlari” (Namangan) kabi diniy ekstremistik guruhlarning sobiq faollari ishtirok etgan. Tashkilot g‘oyalari va asoslari. Tashkilotning asosiy maqsadi Markaziy Osiyo hududida “Buyuk islom xalifaligi”ni tuzish, unda musulmonlar yashaydigan Kavkaz va Rossiya Federatsiyasining Volga bo‘yi respublikalarini qamrab olishdan iborat
-B)“Turkiston islom harakati” so‘ngi yillarda talofatlar, strukturaviy o‘zgarishlar, rahbar a'zolar orasidagi yo‘qotishlarga duch keldi. Hozirda g‘oyaviy targ‘ibot kuchaytirilib, bosma va elektron nashrlar tarqatilishiga katta urg‘u berilmoqda.
-C)Harakat strategiyasi. Tashkilot o‘z maqsadiga erishish uchun qo‘paruvchilik va terrorchilik haraktlarni amalga oshirish, harbiy harakatlar uyushtirish, odamlarni garovga olish orqali mintaqadagi ichki siyosiy vaziyatni beqarorlashtirish kabi vositalardan foydalanadi.
-D)Odamlarni “islomlashtirish”, “taqvoga chaqirish”, “kadr” tayyorlash, “jihod”ni amalga oshirishga tayyorlash.
-ANSWER: A
-
-Q123: Hizb at-Tahrir al-islomiy (Hizbut tahrir) diniy-eksterimistik tashkilotning tarixi va maqsadini bilasizmi?
-A)"Hizbut tahrir" (toʻliq nomi "Hizb at-tahrir al-islomiy" -"Islom ozodlik partiyasi") -siyosiylashgan diniy tashkilot (oqim). Falastinda Taqiyuddin Nabhoniy (1909-1979) asos solgan. U "Musulmon birodarlar" guruhining Falastin boʻlinmasida faoliyat yuritib, 1953-yil maslakdoshlari bilan mazkur boʻlinma aʼzolarini yangi diniy-siyosiy partiya -"Hizbut tahrir"ga birlashtirgan. "Hizbut tahrir" taʼlimoti Taqiyuddin Nabhoniy va uning izdoshi Abdul Qadim Zallumning "Islom nizomi", "Islom davlati", "Xalifalik", "Islomiy olamga qaynoq nidolar", "Hizbut tahrirning tushunchalari", "Demokratiya - kufr nizomi" va "Siyosiy ong" kabi kitoblarida bayon etilgan. Ularda dunyoviy davlat tamoyillari qoralangan, demokratiya, konstitutsiya, saylov kabi siyosiy tartibqoidalar inkor qilingan hamda diniy mutaassiblik gʻoyalarini targʻib qilish, siyosiy hokimiyatni qoʻlga kiritish va xalifalikka asoslangan tuzumni oʻrnatish yoʻllari ifoda etilgan
-B)Hizb ut-Tahrir ( arabcha: ( Hizb ut-Tahrir ) -1950-yillar boshida falastinlik ulamo Taqi ad-Din an-Nabhoniy tomonidan xalifalik barpo etish uchun kurashayotgan transmilliy islomiy harakat. 1999 yildan Fargʻona vodiysidagi islom radikalizmining asosiy taynchi bo'lgan.
-C)Partiya piramida shaklida tarkibiy tuzilma ko'rinishida tashkil topgan. «Doriis»lardan tarkib topgan «halqa»dagi 4-5 kishi guruh rahbari -mushrif»dan saboq oladilar. Ta'lim haftada kamida 1 marotaba o'tkazilishi shart. Halqa a'zolari bir-birlarini faqat ismi yoki taxallusi orqali biladilar. Tashkilotga a'zo bo'layotgan nomzod har qanday sharoitda ham hizb faoliyati haqidagi ma'lumotni sir saqlash haqida qasam ichadi. Mintaqaviy rahbar — «mu'tamad», butun dunyo bo'yicha «Hizbut-tahrir al-islomiy» harakati rahbari, ya'ni «amir» tomonidan belgilanadi va viloyat darajasida ishlaydigan «mas'ul» hamda tuman miqyosida faoliyat ko'rsatuvchi «musoid»ga rahbarlik qiladi. Tumanlar ham alohida hududlarga bo'linadi va 4 mushrifdan iborat «naqib» rahbarlik qiluvchi «mahalliy jihoz»ni tashkil etadi. Naqib o'ziga yordamchi «noib» va pul to'plovchi «tabarru'»ni tayinlaydi. Mahalliy jihoz 1 oyda kamida 1 marotaba to'planadi. Partiyaning har bir a'zosi o'z imkoniyatlari va asosiy mehnat faoliyati daromadi hisobidan 5-20% miqdorida soliq to'lashi majburiydir
-D)«Hizbut-tahrir al-islomiy»ning boshqa norasmiy diniy tashkilotlardan farqi hujumni asosan fikrga qaratadilar, ya'ni fikriy kurash olib borib, fikriy inqilobga erishish, islom davlati nizomini targ'ib etishdir
-ANSWER: A
-
-Q124: Respublikamiz hududida tashkil topib, hozirda faoliyati deyarli to’xtatilgan noan`anaviy ham islom ta`limotiga ham konstitutsiyaviy davlatchilik asoslariga zid bo’lgan guruh “Akromiylar” kimlar edi?
-A)Barcha javoblar to ‘g’ri.
-B)Akromiylar 1996-1997 yillarda Andijonda tashkil topib, uning nomi guruh asoschisi - 1963 yilda tug’ilgan Yo’ldoshev Akrom nomi bilan bog’liq. A. Yo’ldoshev Hizbut tahrirning etakchisi an-Nabahoniy g’oyalari asosida 12 darsga mo’ljallangan “Imonga yo’l” risolasini yozgan. Shu sababdan akromiylarni «Imonchilar» deb ham yuritiladi.
-C)Akromiylar siyosiy hokimiyatga erishishning 5 bosqichini rejalashtirganlar – “sirli”, “moddiy”, “uzviy”, “maydon” va “oxirat”. To’rtinchi va beshinchi bosqichlar tamomila islomlashtirish davri tugagach boshlanishi va ochiqdan-ochiq hokimiyat uchun kurash bosqichlari bo’lmog’i lozim edi.
-D)Bu guruh a`zolari asosan hunarmandlardan iborat bo’lib, ular rasmiy ishxonalardan bo’shab, jamoa ma`qullagan mehnat faoliyati bilan shug’ullanganlar. Zarurat tug’ilganda «birodarlari»ga «jamoa banki»dan moddiy yordam berganlar. Undan tashqari jamoa a`zolariga tashkiliy ravishda oziq-ovqat mollari tarqatib turilgan. Quda-andachilik faqat «birodarlar» o’rtasida amalga oshirilgan.
-ANSWER: A
-
-Q125: ”Vahobiylar” kimlar edi va ularning maqsadi?
-A)Vahhobiylik -islom dinining sunniylik yoʻnalishi hanbaliya mazhabidagi oqim. Arabiston yarim orolining markaziy qismi (Najd)da 18-asr oʻrtalarida paydo boʻlgan. Muhammad ibn Abdulvahhob (1703-92) asos solgan (nomi shundan). Ibn Abdulvahhob aqoidda ilohiyotchilar Ibn Taymiya (1263-1328) va Ibn Kasiyr (1300-72)ga ergashdi. Ibn Abdulvahhob diniy targʻibotni taxm. 1730-yilda boshlagan, oʻz otasining vafotidan (1740) soʻng uni faollashtirgan, chunki ota-oʻgʻil oʻrtasida daʼvatning uslubi xususida ixtilof boʻlgan. Turk tilidagi tadqiqotlarda Ibn Abdulvahhob uzoq yillar ingliz josusi bilan hamkorlik qilgani haqida dalillar mavjud. Vahhobiylik tarafdorlari fikricha, faqat Alloh maʼbud va islomning manbai Qurʼon va Sunnadir. Muqaddas joylarni ziyorat qilish, aziz-avliyolardan duolarda shafoat-yordam tilash shirk hisoblanadi. Musiqa, qoʻshiq va umuman maʼnaviy taraqqiyotning boshqa koʻp koʻrinishlari bidʼat (keyin kirib kelgan yangilik) sanaladi. Vahhobiylarning ibodatlari ham tarixan shakllangan hanafiya mazhabi qoidalaridan ajralib turadi. Vahhobiylar dinni „tozalash“ga, Muhammad davridagi asl holiga keltirish iddaosi bilan harakat qiladi.
-B)Vahhobiylik taʼlimoti oʻsha paytdayoq norozilik tugʻdirgan. Ibn Abdulvahhobni hatto oʻzi tugʻilgan joy — Uyaynadan quvib chiqarishgan. Ammo bu taʼlimot Arabiston yarim orolining markaziy qismida oʻsha davrdagi mavjud muhit uchun qoʻl kelgan. Zero bu yerda bir necha mayda sulolalar tomonidan boshqarilgan amirliklar oʻzaro doimo nizolashib kelardilar. Shunday sulolalardan biri — saudiylar taxm. 4 asrdan beri ad-Dariyani oʻzlariga markaz qilib olib, atrofdagi amirliklarni birlashtirishga harakat qilardilar.
-C)Amir Muhammad ibn Saud (1725-65) bu ishda vahhobiylik taʼlimotidan foydalandi. Muhammad ibn Saud va uning oʻgʻli Abdulaziz ibn Muhammad (1765-1803) vahhobiylar bayrogʻi ostida yarim orolning katta qismini kuch bilan egallab, birinchi saudiylar davlatini barpo qildilar. Ammo bu davlat 19-asr boshida misrliklar istilosi natijasida quladi. Ayni vaqtda vahhobiylik Arabiston yarim orolidan tashqarida -Hindiston, Indoneziya, Sharqiy va Shim. Afrikada yoyila boshladi. Ikkinchi Saudiylar davlati qisqa muddat (1843-65) hukm surdi. Va, nihoyat, 20-asr boshida Abdulaziz ibn Abdurahmon (1880- 1953) oxirgi bor Saudiylar davlatini tiklash uchun boshlangan harakatga rahbarlik qildi va hozirgi Saudiya Arabistoniga asos soldi.
-D)1803 yili vahhobiylar Makkani, keyin Madina shahrini bosib olishdi. U erdagi barcha qabrtoshlarni, hatto Bibi Fotima va sahobalar sog‘anasidagi qabr toshlarni buzib tashlashdi. 1810 yilga kelib Muhammad payg‘ambarning masjidini ham talon-taroj qilishdi.Bunday xunrezliklarga chiday olmagan Misr hukmdori Muhammad Ali 1811 yili bu yovuzlikka qarshi chiqib, o‘z qo‘shinlari bilan avval Xijozni, so‘ng 1818 yili Dir’ani vahhobiylardan tozaladi. Shundan so‘ng hokimiyat misrliklar qo‘liga o‘tsa ham, baribir, vahhobiylar vaqti bilan o‘sha davlatni tiklashdi. Uning poytaxti Ar-riyod bo‘ldi.Vahhobiylik g‘oyalari o‘tmishda O‘rta Osiyoda, shu jumladan, O‘zbekistonda yashaydigan musulmonlar o‘rtasida bo‘lmagan. Bizdagi musulmonlar, asosan, hanafiya mazhabiga e’tiqod qiluvchilardir. Hozirgi davrda bizning diniy, milliy qadriyatlarimiz mezonlariga qarama-qarshi bo‘lgan vahhobiylar g‘oyalari katta mablag‘larga ega bo‘lgan ajnabiy kuchlar va ularga ergashgan kishilar tomonidan targ‘ib qilinmoqda.
-ANSWER: A
-
-Q126: ”Nurchilik” diniy-eksterimistik tashkiloti tarixi va asoschisi?
-A) ”Nurchilik” (turkcha-Nurculuk) diniy-fundamental harakat. Xalq tilida “Nurchilar” degan nom bilan ham mashhur.Asoschisi va yuzaga kelish tarixi. “Nurchilik” harakatining asoschisi Turkiyaning Bitlis viloyatidagi Nursa qishlog‘ida tug‘ilgan Said Nursiy (1876-1960) bo‘lib, “Badiuzzamon” (arabcha-zamonaning buyugi, benazir) laqabi bilan tanilgan. Harakat uning asoschisi tomonidan XX asirning 20-yillaridagi Turkiyadagi siyosiy va diniy vaziyatning o‘zgarishi tasirida, xususan Usmoniylar xalifaligi ag‘darilgandan keyin hokimyat tepasiga kelgan Mustafo Kamol Otaturkning dunyoviy davlat tuzishiga muxolif ravishda shakillantirilgan. Said Nursiy Turkiya Respublikasi konstitusiyasiga tahdidi va shariatga asoslangan davlat tuzishni uyushtirishda ayiblanib, 23 yil davomida qamoqda saqlangan.
-B)Tashkilot g‘oyalari. Harakat o‘z faoliyatida Said Nursiy tomonidan yozilgan, uning talqinidagi Quroni karim oyatlari sharhlari va diniy ko‘rsatmalarini o‘z ichiga olgan “Risolai Nur” kulliyotida bayon etilgan g‘oyalarga asoslanadi hamda undan boshqa barcha manbalar inkor etiladi.
-C)“Nurchilar” Turkiyaning amaldagi davlat tuzumi o‘rniga islom shariatiga muvofiq qonun-qoidalarni joriy qilish orqali g‘arazli maqsadlarga yetishni ko‘zlaydi. Keyingi bosqichlarda, go‘yoki turkiyzabon davlatlarni Turkiya soyasida birlashtirib, “islomiy davlat”ni barpo etish g‘oyasi ilgari suriladi. Bunda harakat rahnomasi Fathulla Gyulenning “Butun Yer yuzi Allohning mulki, uni bu meniki, bu seniki, deb bo‘lib olishga hech kimning haqqi yo‘q” degan fikr ostida boshqa xalqlarni Vatan tuyg‘usidan ajratib, ular ustidan hukimronlik o‘rnatish ko‘zlanadi.
-D)Turkiyada yuzaga kelgan. Asl maqsadi- mavjud hokimiyatga qarshi chiquvchi mutaassib kishilarni tarbiyalashdan iborat. Nurchilik harakati saflarining asosiy qismini yoshlar tashkil etadi. Bu oqimning yurtimizga kirib kelishi 1992-yildan boshlab kuzatilgan.
-ANSWER: A
-
-Q127: “Salaf” so‘zi va salafiylar kimlar?
-A)”Salaf” so'zi arab tilida «avvalda o'tganlar, o'tmishda yashaganlar», “Salafiy” – “o'tmishda o'tgan ajdodlar yo'lidan boruvchi» ma'nolarini beradi.Istilohda esa “Salaf” Payg'ambarimiz Muhammad alayhissalom taraflaridan maqtalgan, ilk hijriy uch asr avlodlari hisoblanadi. Shu davrda yashab o'tgan sahobalar, tobe'inlar va taba'a tobe'inlardan iborat olimlaru fozillar, mujtahid ulamolarini “salafi solihlar” deb ataladi. Abu Hanifa va boshqa o'rta asrlarda o'tgan mualliflar asarlarida bu so'z aynan mana shu ma'noda, ya'ni “as-salaf”, “as-salaf as-solih” (o'tgan solih ajdodlar) shakllarida keladi.
-B)Islom adabiyotida “salaflar” so‘zi yoki dastlabki musulmonlar tushunchasi Rasululloh sollallohu alayhi va sallamning hijratlaridan keyin 400-yilgacha bo‘lgan davrda vafot etganlarni, shu jumladan Imom Abu Hanifa, Imom Molik, Imom Shofe'iy va Imom Ahmad rahimahumullohlarni o‘z ichiga oladi. Bu davrdan keyin vafot etgan mo‘minlarni xalaflar yoki “keyingi musulmonlar” deb nomlanadi.
-C)Salafiy” tushunchasini alohida atama va harakat sifatida Muhammad Abdo (Al-Afg‘oniyning shogirdi) tomonidan, Rasululloh sollallohu alayhi vasallamdan 13 asrdan keyin paydo qilingan bo‘lib va mana deyarli 100 yildan beri bu atama mavjuddir. Ularning eng asosiy mavfkuraviy da'vosi bo‘lib, huddi bularga o‘xshash Islomdagi avvalgi firqalar ta'kidlagani singari, Rasululloh sollallohu alayhi va sallamdan va dastlabki uch asrdan keyin yashagan musulmonlar Islomni go‘yo noto‘g‘ri tushunganliklari hisoblanadi.
-D)Soxta “salafiylar”ning fikricha, Rasulullohning muborak qabrlarini ziyorat qilish bid'at va zalolatdir (vaholanki ibn Taymiyagacha bo'lgan davr, ya'ni qarib sakkiz asrdan beri butun Islom olamida joriy bo'lgan eng ulug' ziyoratlardandir). Shuningdek Rasulullohning tug'ilgan kunlari, ya'ni mavlidi sharifni nishonlash ham bid'at va foydasizdir, yana Rasulullohdan qolgan asori atiqalarni saqlash, asrab avaylash esa go'yoki shirkdir. “Salafiylar”ning tasavvurida yuqoridagi kabi aziz va mo''tabar narsalar johiliyat davridagi bud-sanamlarga sig'inishdek tenglashtiriladi.
-“Salafiylar”ning bu kabi qarashlari o'z davrida katta fitna va yangilik bo'lishiga qaramasdan, ularning tarafdorlari juda ko'p edi. Sababi, ibn Taymiyaning kuchli taqvo va ilm sohibi bo'lgan va hanbaliylik mazhabiga mansub oilada voyaga etgani bo'ldi. Shu sabab ham unga ergashganlar ko'p bo'ldi. Natijada uning adashuvini ko'pchilik payqamay qoldi. Uning fatvolari ko'pchilik muxlislari tomonidan qabul qilinardi. Oxiri esa uni “mujaddid”(dinni yangilovchi), “shayxul islom” degan laqablar bilan atay boshladilar. Aslida esa, Ibn Taymiya mujaddid ham, asl salafiy ham bo'lmagan. Uning keyingi paydo qilgan “salafiylik” mazhabi ham hech qanday salafi solihlarning yo'llariga to'g'ri kelmaydi. Balki, musulmonlar jamoasidan ajrab chiqgan adashgan bir kichik mutaassib oqim bo'lgan xolos.
-ANSWER: A
-
-Q128: 2021-yil 2-iyulda Oʻzbekiston Respublikasi Prezidentining Farmoni asosida qabul qilingan 2021-2026-yillarga moʻljallangan ekstremizm va terrorizmga qarshi kurashish boʻyicha Oʻzbekiston Milliy strategiyasining maqsadi?
-A)Barcha javoblar to‘g’ri.B,C,D.
-B))ekstremizm va terrorizm g‘oyalari tarqalishining oldini olish maqsadida vatanparvarlik, an’anaviy qadriyatlar va bag‘rikenglik mafkurasini targ‘ib qilish;
-C)voyaga yetmaganlar va yoshlar orasida ekstremizm va terrorizm g‘oyalari tarqalishining oldini olish; ayollar huquqlarini himoya qilish hamda ularning ekstremizm va terrorizmga qarshi kurashishdagi rolini kuchaytirish;uzoq muddat xorijda bo‘lgan fuqarolarni ekstremizm va terrorizm g‘oyalari ta’siridan himoya qilish;
-D)Internet jahon axborot tarmog‘idan ekstremistik va terrorchilik maqsadlarda foydalanishga qarshi kurashish;fuqarolik jamiyati institutlari va ommaviy axborot vositalarining ekstremizm va terrorizmga qarshi kurashishga keng jalb qilish;ekstremistik va terrorchilik harakatlarini sodir etganlik hamda ularni moliyalashtirganlik uchun huquqiy ta’qib va javobgarlikka tortish choralarini takomillashtirish;ekstremizm va terrorizmga qarshi kurashish sohasidagi normativ-huquqiy bazani takomillashtirish;ushbu sohadagi xalqaro va mintaqaviy hamkorlik.
-ANSWER: A
-
-Q129: Oʻzbekiston Respublikasining “Ekstremizmga qarshi kurashish toʻgʻrisida”gi Qonuni qachon qabul qilingan?
-A)2018 yil 30 iyul sanasida
-B)1991 yil 14 iyun sanasida
-C)1998 yil 1 may sanasida
-D)2021 yil 6 iyul sanasida.
-ANSWER: A
-
-Q130: ”Terrorizm” deganda nimani tushunasiz?
-A)siyosiy, diniy, mafkuraviy va boshqa maqsadlarga erishish uchun shaxsning hayoti, sog‘lig‘iga xavf tug‘diruvchi, mol-mulk va boshqa moddiy obyektlarning yo‘q qilinishi (shikastlantirilishi) xavfini keltirib chiqaruvchi hamda davlatni, xalqaro tashkilotni, jismoniy yoki yuridik shaxsni biron-bir harakatlar sodir etishga yoki sodir etishdan tiyilishga majbur qilishga, xalqaro munosabatlarni murakkablashtirishga, davlatning suverenitetini, hududiy yaxlitligini buzishga, xavfsizligiga putur yetkazishga, qurolli mojarolar chiqarishni ko‘zlab ig‘vogarliklar qilishga, aholini qo‘rqitishga, ijtimoiy-siyosiy vaziyatni beqarorlashtirishga qaratilgan, O‘zbekiston Respublikasining Jinoyat kodeksida javobgarlik nazarda tutilgan zo‘rlik, zo‘rlik ishlatish bilan qo‘rqitish yoki boshqa jinoiy qilmishlar;
-B)2000 yil 12 dekabrda qabul qilingan O‘zbekiston Respublikasining “Terrorizmga qarshi kurash to‘g‘risida”gi qonuninini.
-C)terrorchi-terrorchilik faoliyatini amalga oshirishda ishtirok etayotgan, shuningdek terrorchilik faoliyatida ishtirok etish uchun xorijga chiqib ketishni yoxud O‘zbekiston Respublikasi hududi orqali harakatlanishni amalga oshirgan shaxs;
-D)terrorchilik tashkiloti — ikki yoki undan ortiq shaxsning yoki terrorchilik guruhlarining terrorchilik faoliyatini amalga oshirish uchun barqaror birlashuvi.
-ANSWER: A
-
-Q131: O‘zbekiston musulmonlar idorasi qachon tashkil topgan?
-A)Oʻzbekiston musulmonlariga rahbarlik qiluvchi diniy tashkilot. 1943-yil 20-oktabrda Toshkentda boʻlib oʻtgan Oʻrta Osiyo va Qozogʻiston musulmonlari qurultoyida taʼsis etilgan. Toshkentdagi Baroqxon madrasasida joylashgan.
-B)Eshon Boboxon ibn Abdulmajidxon (1858–1957) – oʻzbek islom diniy arbobi, voiz, ilohiyotchi va huquqshunos, shayx ul-islom. Oʻrta Osiyo va Qozogʻiston musulmonlari diniy boshqarmasi (SADUM) asoschilaridan biri va birinchi raisi (1947–1957). Beshta respublikaning birinchi muftiysi.
-C)Oʻrta Osiyo va Qozogʻiston musulmonlari diniy boshqarmasi (oʻzbekcha: O‘rta Osiyo va Qozog‘iston musulmonlari diniy boshqarmasi, Sovet Ittifoqi tarkibiga kirgan Oʻrta Osiyo Respublikalari Qozogʻiston, Qirgʻiziston, Tojikiston, Turkmaniston va Oʻzbekiston respublikalarining 1943-1991-yillardagi rasmiy diniy tashkiloti. 1992 yildan Movarounnahr musulmonlar idorasi.
-D)O‘zbekisto musulmonlar idorasi 1996 yildan.
-ANSWER: A
-
-Q132: Xalqaro islom sivilizatsiya markazi qaysi shaharda joylashgan?
-A)Toshkentda Xastiimom majmuasida (Hazrati imom majmuasi (shuningdek, Hastimom) Toshkent shahrining Olmazor tumanida joylashgan va XVI-XX asrlarga oid meʼmoriy yodgorlik. Majmua oʻz ichiga Moʻyi Muborak madrasasi, Qaffol Shoshiy maqbarasi, Baroqxon madrasasi, Hazrati imom jome masjidi, Tilla shayx masjidi va Imom al-Buxoriy Islom institutini qamrab olgan. Ansambl Toshkentning birinchi imom-xatibi, olim, Toshkentdagi ilk islom targʻibotchilaridan biri, shoir va hunarmand Hazrati Imom qabri yonida barpo etilgan.
-B)Hazrati Imom majmuasi imom Abu Bakr Muhammad ibn Ali Ismoil ash-Qaffol Shoshiy qabri atrofida bunyod etilgan. Qabr va uning atrofida vujudga kelgan meʼmoriy yodgorlik majmuasi Hazrati imom nomi bilan ataladi.
-C)Imom Buxoriy nomidagi Toshkent islom instituti 1969-yil tashkil etilgan. Oʻzbekiston musulmonlari idorasi tasarrufiga kiradi. Sovet Ittifoqi Vazirlar Kengashi huzuridagi Din ishlari boʻyicha kengashning Toshkentda oliy darajadagi madrasa ochish toʻgʻrisidagi qarori bilan qayta tiklangan. Madrasa uchun Hazrati imom dahasi tanlangan.
-D)Samarqand viloyatida, Payariq tumani, Xoʻja Ismoil shaharchasida.
-ANSWER: A
-
-Q133: O‘zbekiston Respublikasi din ishlari bo‘yicha qo‘mitasi qachon tashkil topgan?
-A)O'zbekiston Respublikasi Prezidentining 1992-yil 7-mart kunidagi “O'zbekiston Respublikasi Din ishlari bo'yicha qo'mitani tashkil etish to'g'risida” gi Farmoniga muvofiq tashkil etilgan.
-B)mahalliy davlat hokimiyati organlari bilan birgalikda vijdon erkinligi va diniy tashkilotlar toʻgʻrisidagi qonun hujjatlariga muvofiq diniy masalalarni hal qilishda yagona siyosatni amalga oshiradi.
-C)davlat organlarining respublika hududida joylashgan diniy tashkilotlar bilan oʻzaro aloqasi va hamkorligini taʼminlaydi
-D)davlat siyosatida qonun hujjatlarida belgilangan tartibda roʻyxatdan oʻtkazilgan diniy tashkilotlar manfaatlarini aks ettiradi.
-ANSWER: A
-
-Q134: Vijdon erkinligi va e’tiqod erkinligi tushunchasi ta’rifi qaysi bandda to‘g’ri berilgan?
-A)B va D javoblar to‘g’ri.
-B)bu fuqarolarning xohlagan dinga e’tiqod qilish yoki hech qaysi dinga e’tiqod qilmaslik bo‘yicha kafolatlangan konstitutsiyaviy huquqidir.
-C)O‘zbekiston Respublikasida ta’lim tizimi dindan ajratilgandir.
-D)shaxsning biror dinni ixtiyor etib, unga e’tiqod qilishi huquqinii anglatadi.. Lekin bu huquq vijdon erkinligi qoidalari ruxsat beradigan dahriy bo‘lish huquqini kafolatlamaydi.
-ANSWER: A
-
-Q135: “Har bir inson fikr, vijdon va din erkinligi huquqiga egadir; bu huquq o'z dini yoki maslagini o‘zgartirish erkini, o'z dini yoki maslagiga yakka tartibda yoki boshqalar bilan birgalikda, ta’limot, toat‐ibodatda hamda diniy rasm‐rusumlar va boshqa shunga o'xshash marosimlarni ado etishda xaloyiq bilan birgalikda yoki xususiy tarzda e’tiqod erkinligini qamrab oladi” bu fikrlar qaysi hujjatda ifoddalangan?
-A)1948 yil 10 dekabrdagi “Inson huquqlari umumjahon deklaratsiyasida”gi 18 moddada.
-B)1995 yil 25 oktyabrdagi “bag’rikenglik tamoiyllari deklaratsiyasi”da 1.1 moddada.
-C)1966 yil 19 dekabrdagi “Fuqarolik va siyosiy huquqlar to‘g‘risidagi xalqaro pakt”da 18 modda.
-D)Ilohiy-samoviy kitoblarda.
-ANSWER: A
-
-Q136: Davlat va din munosabatlarini tartibga solishning tiplari to‘g’ri, ketma-ket berilgan bandni toping?
-A)identifikatsion model,separatsion model,kooperatsion model.
-B)kooperatsion model, separatsion model, identifikatsion model.
-C)separatsion model, identifikatsion model, kooperatsion model.
-D)Barcha javoblar to‘g’ri berilgan.
-ANSWER: A
-
-Q137: O‘zbekistonda davlatning din va diniy tashkilotlar bilan o‘zaro munosabatlarida qanday tamoiyllar amal qiladi?
-A) dindorlarning diniy tuyg‘ularini hurmat qilish; diniy e’tiqodlarni fuqarolarning yoki ular uyushmalarining xususiy ishi deb tan olish; diniy qarashlarga amal qiluvchi fuqarolarning ham, ularga amal qilmaydigan fuqarolarning ham huquqlarini teng kafolatlash hamda ularni ta’qib qilishga yo‘l qo‘ymaslik; ma’naviy tiklanish, umuminsoniy axloqiy qadriyatlarni qaror toptirish ishida turli diniy uyushmalarning imkoniyatlaridan foydalanish uchun ular bilan muloqot qilish yo‘llarini izlash zarurati;dindan buzg‘unchilik maqsadlarida foydalanishga yo‘l qo‘yib bo‘lmasligini e’tirof etish.
-B)Hamma uchun vijdon erkinligi kafolatlanadi. Har bir inson xohlagan dinga e’tiqod qilish yoki hech qaysi dinga e’tiqod qilmaslik huquqiga ega. Diniy qarashlarni majburan singdirishga yo’l qo’yilmaydi.
-C)O‘zbekiston Respublikasi fuqarolari, dinga munosabatidan qat'i nazar, qonun oldida tengdir. Bir dinga yoki diniy e'tiqodga boshqalariga nisbatan biror-bir ustunliklar yoki cheklovlar belgilashga yo‘l qo‘yilmaydi.
-D)Ateizm, Skeptitsizm, Antiklerikalizm, Deizm, Panteizm.
-ANSWER: A
-
-Q138: 2019 yildan buyon O‘zbekiston Suriya, Iroq va Afg‘onistondagi ayollar va bolalarni qaytarish bo‘yicha beshta «Mehr» operatsiyasini o‘tkazdi. Mojaroli hududlardan mamlakatga qacha kishi olib kelindi?
-A)531 nafar kishi
-B)93 nafar kishi
-C)501 nafar kishi
-D)1000 nafardan ortiq kishi
-ANSWER: A
-
-Q139: SHHTning Mintaqaviy aksilterror tuzilmasi (MATT) qaysi shaharda joylashgan va faoliyati qachondan boshlandi?
-A)Toshkent shahrida, 1-yanvar 2004-yildan faoliyat koʻrsata boshladi
-B)Ostana shahrida, 1-yanvar 2004-yildan faoliyat koʻrsata boshladi
-C)Dushanbe shahrida, 1-yanvar 2004-yildan faoliyat koʻrsata boshladi
-D)Ashxobod shahrida, 1-yanvar 2004-yildan faoliyat koʻrsata boshladi.
-ANSWER: A
-
-Q140: Jaholatga qarshi ma’rifat bilan kurashish konsepsiyasining mohiyati qaysi bandda to‘g’ri berilgan?
-A)Fikrga qarshi fikr bilan kurashish, G’oyaga qarshi g’oya bilan kurashish, Jaholatga qarshi ma’rifat bilan kurashish.
-B)“Jaholatga qarshi – ma’rifat” shiori ostida Toshkent shahri Xasti Imom majmuasi hududida Islom sivilizatsiya markazi tashkil etilishi.
-C)“Bir bolaga yetti mahalla ham ota, ham ona” degan maqolning haqiqiy ma’nosini anglaydigan vaqt keldi (SH. Mirziyoev, 1-jild, 486-bet).
-D)“O`z uyingni o`zing asra!” degan da’vatga bugun “O`z bolangni o`zing asra!” degan qo`shimcha kiritilishi.
-ANSWER: A
-
-Q141: O‘zbekistonda “Vijdon erkinligi va diniy tashkilotlar to‘g‘risida”gi qonunning yangi tahriri qachon qabul qilindi?
-A)2021 yil 5 iyul
-B)1998 yil 1 may
-C)1991 yil 14 iyun
-D)1918 yil 20 yanvar.
-ANSWER: A
-
-Q142: Yangi tahrirdagi “Vijdon erkinligi va diniy tashkilotlar to‘g‘risida”gi qonun nechta bob va moddadan iborat?
-A)6 bob va 35 modda
-B)6 bob va 23 modda
-C)6 bob va 30 modda
-D)26 bob 128 modda
-ANSWER: A
-
-Q143: O‘zbekiston Respublikasi Konstitutsiyasining qaysi moddalari vijdon erkinligi va diniy tashkilotlarga taalluqli?
-A)35,71,75 moddalar
-B)4,18,41 moddalar
-C)63,70,76 moddalar
-D)89,98,117 moddalar
-ANSWER: A
-
-Q144: Diniy ta’lim muassasasi nima?
-A)muyyan konfessiyaga mansub bo‘lgan, diniy tashkilotning professional xizmatchilarini va ular uchun zarur bo‘lgan diniy xodimlarni tayyorlash uchun diniy tashkilotlarning O‘zbekiston Respublikasi bo‘yicha Markaziy boshqaruv organi tomonidan tashkil etilgan muassasa
-B)fuqarolarning belgilangan tartibda ro‘yxatdan o‘tkazilgan, birgalikda dinga e’tiqod qilish, ibodat qilish, diniy rasm-rusumlar va marosimlarni bajarish maqsadida tashkil etilgan, daromad (foyda) olishni o‘z faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) o‘z ishtirokchilari (a’zolari) o‘rtasida taqsimlamaydigan ko‘ngilli birlashmasi (mahalliy diniy tashkilot, diniy ta’lim muassasasi va diniy tashkilotlarning O‘zbekiston Respublikasi bo‘yicha markaziy boshqaruv organi)
-C)O‘zbekiston Respublikasining tegishli tumani (shahari) hududida doimiy yashayotgan, o‘n sakkiz yoshga to‘lgan, ellik nafardan kam bo‘lmagan O‘zbekiston Respublikasi fuqarolari tashabbusi bilan tashkil etilgan, faoliyatini Qoraqalpog‘iston Respublikasi, viloyatlar, va Toshkent shahri, tuman yoki shahar hududida amalga oshiruvchi diniy tashkilot (masjidlar, cherkovlar, sinagogalar, ibodatxonalar va boshqalar)
-D)diniy ta’lim muassasalarida o‘quvchilarga ma’lum bir konfessiyaga oid diniy bilimlar berishga qaratilgan jarayon
-ANSWER: A
-
-Q145: Missionerlik ta’rifi to‘g‘ri berilgan qatorni toping?
-A) aniq maqsadga qaratilgan mafkuraviy ta’sir o‘tkazish orqali shaxsni (bir guruh shaxslarni) o‘z diniga kiritish maqsadida unga (ularga) diniy qarashlarni majburan singdirishga va diniy ta’limotni tarqatishga doir faoliyat
-B)missionerlik faoliyatining bir konfessiyaga e’tiqod qiluvchilarni boshqa konfessiyalarga o‘tkazishga qaratilgan shakli
-C)diniy tashkilot sifatida ro‘yxatdan o‘tmasdan faoliyat ko‘rsatish, diniy tashkilot tomonidan faoliyatni o‘zi turgan joydan, shu jumladan ibodat qilinadigan binolardan va diniy tashkilotga tegishli hududlardan tashqarida amalga oshirish, shuningdek diniy ta’lim muassasalaridan tashqarida xususiy tartibda diniy ta’lim faoliyati bilan shug‘ullanish
-D)bir konfessiyaning mahalliy diniy tashkilotlari, shuningdek diniy ta’lim muassasalari faoliyatini muvofiqlashtirish maqsadida O‘zbekiston Respublikasining kamida sakkizta ma’muriy-hududiy birligida (Qoraqalpog‘iston Respublikasida, viloyatda, Toshkent shahrida) ro‘yxatdan o‘tib faoliyat ko‘rsatayotgan mahalliy diniy tashkilotlar tomonidan tashkil etilgan diniy tashkilot.
-ANSWER: A
-
-Q146: Fuqarolarga vijdon erkinligini ta’minlashning ustuvorliklari nimalardan iborat?
-A)teng shart-sharoit yaratish, diniy bag‘rikenglikni ta’minlash, dunyoviy davlat qurishni saqlab qolish, qonunchilikni ta’minlash, tahdid soluvchi diniy g‘oya va qarashlarga qarshi kurashish
-B)o‘zaro aralashmaslik, davlat konfessiyalarning tinch-totuv yashashiga kafil bo‘lishi, diniy tashkilotlar davlat vazifasini bajarmaydi, diniy ruhdagi siyosiy partiya va boshqa jamoat tashkilotlari tuzishga yo‘l qo‘ilmaydi
-C) qonun oldida tenglik, rasmiy hujjatlarda fuqaroning dinga munosabati ko‘rsatilmaydi, diniy e’tiqodi bo‘yicha biror ustunlik yoki cheklov belgilashga yo‘l qo‘yilmaydi
-D)ta’lim tizimi dindan ajratilgan, har kim diniy ta’lim muassasalarida professional diniy ta’lim olish huquqiga ega, diniy professional ta’lim olgan shaxs diniy ta’lim muassasalarida diniy fanlarni o‘qitishi huquqiga ega, diniy ta’lim muassasalariga o‘qishga umumiy o‘rta,o‘rta maxsus ta’lim yokm professional ta’lim olgandan so‘ng qabul qilinadi.
-ANSWER: A
-
-Q147: Diniy rasm-rusumlar va marosimlar qaerlarda o‘tkazilishi belgilangan?
-A)ibodat qilinadigan binoda yoki diniy tashkilot joylashgan joyda, dafn etish joylarida, ziyoratgohlarda, fuqaroning xohishiga ko‘ra uyda, qamoq va jazoni ijro etish, kasalxona va boshqa joylarda ham fuqarolarning iltimosi bilan o‘tkazilishiga yo‘l qo‘yiladi, ommaviy diniy rasm-rusum va marosimlar qonunchilikda belgilangan tartibda o‘tkaziladi
-B)diniy tashkilotlar dinga e’tiqod qiluvchilardan majburiy pul yig‘imlari va to‘lovlar undirishga, shuningdek ularga nisbatan shaxsning sha’ni va qadr-qimmatini kamsituvchi choralarni qo‘llashga haqli emas
-C) O‘zbekiston Respublikasi hududida diniy mazmundagi materiallarni tayyorlash, olib kirish va tarqatish jamiyatda konfessiyalararo totuvlik hamda diniy bag‘rikenglik buzilishiga olib keladigan, diniy zo‘ravonlik va boshboshdoqlikka chorlaydigan g‘oyalar hamda qarashlar tarqalishining oldini olish maqsadida dinshunoslik ekspertizasining ijobiy xulosasi olinganidan keyin amalga oshiriladi
-D)tegishli diniy professional ta’limga ega bo‘lgan shaxs diniy tashkilotning rahbari bo‘lishi mumkin, bundan diniy ta’limotida diniy professional ta’lim tizimi nazarda tutilmagan konfessiyalar mustasno.
-ANSWER: A
-
-Q148: ”Vijdon erkinligi va diniy tashkilotlar to‘g‘risida”gi qonun ijrosini ta’minlash va mohiyatini tushuntirishni qaysi organlar ta’minlaydi?
-A)Din ishlari bo‘yicha qo‘mita va Adliya vazirligi
-V)O‘zbekiston musulmonlar idorasi va uning viloyat vakilliklari
-S)Viloyat va tuman hokimiyati
-D)Fuqarolarni o‘zini o‘zi boshqarish organlari.
-ANSWER: A
-
-Q149: Diniy tashkilotlarning qanday huquqi va majburiyatlari bor?
-A))B va D javoblar to‘g‘ri.
-B)mol-mulk va undan foydalanish, xayriya faoliyatini amalga oshirish, diniy tadbirlar o‘tkazish, tadbirkorlik tuzilmasini tuzish,,diniy mazmundagi materiallarni tayyorlash,olib kirish va olib chiqish,xalqaro aloqalar o‘rnatish, yangi diniy dafn etish joylarini tashkil etish va mavjudlarini ta’mirlash uchun takliflar berish
-C))diniy tashkilotlar davlat organlarining g‘ayriqonuniy qarorlari, ular mansabdor shaxslarining harakatlari (harakatsizligi) ustidan bo‘ysunuv tartibida yuqori turuvchi organga yoki sudga shikoyat qilish huquqiga ega
-D)O‘zbekiston Respublikasi Konstitutsiyasi, qonunlariga va o‘z ustaviga rioya qilish,ibodat qilinadigan va o‘tkaziladigan joylarda qo‘lay shart-sharoit yaratish, diniy tashkilot egaligidagi moddiy meros ob’ektlarini but saqlash,muhofaza qilish va ta’mirlash, konferensiya,seminar o‘tkazganda adliya vazirligini xabardor etish,bir yilda bir marta axborot taqdim etish,rahbar organ tarkibi o‘zgarganda bir oy muddatda adliya organini xabardao qilish
-ANSWER: A
-
-Q150: Diniy tashkilotni ro‘yxatdan o‘tkazish muddati qaysi bandda to‘g‘ri berilgan?
-A)murojaatdan so‘ng bir oyda
-B)murojaatdan so‘ng o‘n besh kunda
-C)uch ish kunida
-D)olti oygacha muddatda.
-ANSWER: A
-
-Q151: Fundametalizm tushunchasi... va diniy fundamentalizm ma’nosi...?
-A)lat.”asos”, ijtimoiy hodisaning dastlabki ko’rinishi, din vujudga kelgan ilk davrga qaytish, barha muammolarni shu yo’l bilan hal qilish mumkin degan ta’limot
-B)1910 yil Protestantlik oqimi tarkibida paydo bo’ldi
-C)Bibliyaning mutloq mukmmalligiga ishonishni mustahkamlash
-D)Barcha dinlardagi diniy-konservativ ruhdagi yo’nalish.
-ANSWER: A
-
-Q152: Radikalizm tushunchasi ma’nosi...?
-A)lat.”radix”-ildiz, siyosiy tuzum va ijtimoiy institutlarni tubdan oʻzgartirishga qaratilgan gʻoya va harakatlarni ifodalovchi siyosiy yoki diniy oqim
-B)Muxoliflarga nisbatan qoʻllaniladigan termin
-C)So’l siyosiy partiyalarga nisbatan ishlatiladigan co’z
-D)Eksterimizmning nazariy manbai.
-ANSWER: A
-
-Q153: Aqidaparastlik tushunchasini izohlang...?
-A)arab.” aqida ”,”ishonch”,”Biron narsani ikkinchisiga bog’lash”,biron bir g’oyani mutlaqlashtirish
-B)Ko’r-ko’rona qo’llash
-C)Ta’sir doirasini kengaytirish
-D)Dinning mohiyatini buzib talqin qilish.
-ANSWER: A
-
-Q154: Eksterimizm...diniy eksterimizm-chi?
-A)lat.”aql bovar qilmas darajada”,”haddan oshish”, jamiyat uchun an’anaviy bo’lgan diniy qadriyatlar va aqidalarni rad etish
-B)Soxta dunyoqarash
-C)Qonunlarga zid g’oyalarni targ’ib qilish
-D)Radikal qarashlar
+Q110: Monetar siyosatning asosiy jihatlari nechta?
+A)Uch
+B)Ikki
+C)To'rt
+D)Besh
 ANSWER: A
 
-Q155: Mutaassiblik(fanatizm)...?
-A)frantsuzcha “ibodat”,”o’zgacha g’oyalarga murosasiz munosabatda bo’lish,boshqa mazhablarni butunlay rad etish,”qattiq ishonish”
-B)Eksterimizmning ildizi
-C)Terrorizmning zamini
-D)O’ziga xos diniy dunyoqarash.
+Q111: Iqtisodiy oʻsishni oʻlchashning ikki asosiy usuli qaysilar?
+A)Yalpi ichki mahsulotning real oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi
+B)Faqat narxlar indeksi va ish haqi oʻsishi
+C)Faqat eksport va import hajmlarining oʻzgarishi
+D)Faqat davlat budjeti defitsiti va inflyatsiya darajasi
 ANSWER: A
 
-Q156: Terrorizm va diniy terrorizm mohiyati?
-A) lat.”qo’rqitish”,”dahshatga solish”, siyosiy, diniy, mafkuraviy va boshqa maqsadlarga erishish uchun shaxsning hayoti, sog‘lig‘iga xavf tug‘diruvchi, mol-mulk va boshqa moddiy obyektlarning yo‘q qilinishi (shikastlantirilishi) xavfini keltirib chiqaruvchi hamda davlatni, xalqaro tashkilotni, jismoniy yoki yuridik shaxsni biron-bir harakatlar sodir etishga yoki sodir etishdan tiyilishga majbur qilishga, xalqaro munosabatlarni murakkablashtirishga, davlatning suverenitetini, hududiy yaxlitligini buzishga, xavfsizligiga putur yetkazishga, qurolli mojarolar chiqarishni ko‘zlab ig‘vogarliklar qilishga, aholini qo‘rqitishga, ijtimoiy-siyosiy vaziyatni beqarorlashtirishga qaratilgan, O‘zbekiston Respublikasining Jinoyat kodeksida javobgarlik nazarda tutilgan zo‘rlik, zo‘rlik ishlatish bilan qo‘rqitish yoki boshqa jinoiy qilmishlar;
-B) oldindan til biriktirib terrorchilik harakatini sodir etgan, bunday harakatga tayyorgarlik ko‘rgan yoki uni sodir etishga suiqasd qilgan shaxslar guruhi;
-C)lat.”qo’rqitish”,”dahshatga solish”, terrorchilik faoliyatini amalga oshirishda ishtirok etayotgan, shuningdek terrorchilik faoliyatida ishtirok etish uchun xorijga chiqib ketishni yoxud O‘zbekiston Respublikasi hududi orqali harakatlanishni amalga oshirgan shaxs;
-D)terrorchilik harakatini uyushtirish, rejalashtirish, tayyorlash va amalga oshirishdan, terrorchilik harakatiga undashdan, terrorchilik tashkilotini tuzishdan, terrorchilarni yollash, tayyorlash va qurollantirishdan, ularni moliyalashtirish va moddiy-texnika jihatidan ta’minlashdan iborat bo‘lgan faoliyat;
+Q112: Iqtisodiy siyosatda davlatning asosiy maqsadi nimalardan iborat?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
+B)Aholi iste'molini maksimumlashtirish va jamg'arma hosil etish
+C)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
+D)Bozor tizimining samarali amal qilishiga imkon tugʻdiruvchi huquqiy asosni ta'minlash
 ANSWER: A
 
-Q157: Al-Qoida lug’aviy ma’nosi?
-A.arab.”asos”, Usoma bin Muhammad bin Avad bin Lodin Saudiya Arabistonilik harbiy islomchi boʻlgan. Al-Qoida tashkilotini tuzganlikda gumon qilinadi. (10-mart, 1957- 2-may, 2011, Abbottabad, Pokiston)
-B.Maktab al-xidamat”(Pokiston) buyurosi a’zolari
-C)1992 yil Xartum(Sudan)dagi tuzilgan tashkilot
-D)Afg’onistonda Sovet Armiyasiga qarshi kurashgan ko’ngillilar.
+Q113: Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqqan holda qanday asosiy maqsadni koʻzlaydi?
+A)Milliy iqtisodiyotning mustaqilligini ta'minlash
+B)Iqtisodiy aylanmaning uzluksizligini ta'minlash
+C)Aholi turmush farovonligini mustaqil oshirish
+D)Milliy pul qadr-qiymatining barqarorligini ta'minlash
 ANSWER: A
 
-Q158: Inson huquqlari to’g’risidagi xalqaro billga qaysi hujjatlar kiradi?
-A)Inson huquqlari Umumjahon Deklaratsiyasi (1948 yil 10 dekabr), Iqtisodiy, ijtimoiy va madaniy huquqlar to’g’risidagi xalqaro Pakt (1966 yil 16 dekabr), Fuqarolik va siyosiy huquqlar to’g’risidagi xalqaro Pakt (1966 yil 16 dekabr) va xususiy shikoyatlar hamda o’lim jazosini bekor qilish to’g’risidagi ikkita bayonnoma
-B)Din yoki etiqod asosida toqatsizlik va kamsitishlarning har qanday shakllarini yo’qotish to’g’risidagi Deklaratsiya (1981 yil 25 dekabr) va YUNESKOning “Ta’lim sohasida kamsitish bilan kurash to’g’risidagi Konventsiya (1960 yil 14 dekabr)
-C)”Bola huquqlari to’g’risidagi Konventsiya” (1989 yil 20 noyabr) va Inson huquqlari va asosiy erkinliklarini himoya qilish bo’yicha Evropa Konventsiyasi”
-D)Evropada xavfsizlik va hamkorlik bo’yicha Yakunlovchi Akt” (Xelsinki,1975 yil 1 avgust) va Evropada xavfsizlik va hamkorlik bo’yicha Kengash ishtirokchilari bo’lgan davlatlarning Vena uchrashuvi Yakunlovchi hujjati” (Vena,1989 yil 15 yanvar).
+Q114: Pul massasini qisqartirish, uning emissiyasi qat'iy chegaralanishi, narxlar o'smasligi va pul birligining xarid qurbi barqarorlashishi bilan tavsiflanuvchi monetar siyosat turi qanday nomlanadi?
+A)Qattiq monetar siyosat
+B)Yumshoq monetar siyosat
+C)Fiskal siyosat
+D)Investitsiya siyosati
 ANSWER: A
 
-Q159: BMTning terrorizmning oldini olishga va unga qarshi kurashga qaratilgan nechta hujjati bor?
-A)13 ta (11 Konventsiya va 2 ta Protokol)
-B)7 ta xalqaro shartnoma
-C)24 ta
-D)15 ta (11 Konventsiya va 4 ta Protokol)
+Q115: Davlat iqtisodiy siyosatining tarkibiy qismlariga quyidagilardan qaysi biri KIRMADI?
+A)Shaxsiy ehtiyojlarni boshqarish siyosati
+B)Moliyaviy, soliq-budjet siyosati
+C)Institutsional siyosat
+D)Agrar siyosat
 ANSWER: A
 
-Q160: BMTning Global antiterror strategiyasi qachon qabul qilingan?
-A.2006 yil
-B)1991 yil
-C)2011 yil
-D)1975 yil
+Q116: Iqtisodiyotda firmaning asosiy maqsadi nima?
+A)Foydani maksimumlashtirish
+B)Iste'molini maksimumlashtirish
+C)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
+D)Kelajakni ta'minlash uchun jamg'arma hosil etish
 ANSWER: A
 
-Q161: BMTning Global antiterror strategiyasining asosiy yo’nalishlari qaysi qatorda to’g’ri berilgan?
-A.) terrorizmni keltirib chiqaruvchi shart-sharoitlarga qarshi kurash(bu sotsial-iqtisodiy omil, kambag'allik, ayniqsa, yoshlar o'rtasida ishsizlik muammosi, past darajadagi ta'lim, diniy, etnik toqatsizlik, yechim topmagan siyosiy mojarolar.
-Strategiya jahon hamjamiyatini terrorizmni keltirib chiqaruvchi shart-sharoitlarni bartaraf qilish uchun bor imkoniyatlarni safarbar qilishga chaqiradi), bevosita terrorizmga qarshi kurash (Terrorizmni moliyalashtirish va qullab-quvvatlanishini oldini olish.Terrorchilik harakatlarini amalga oshirishda aybdor bo'lgan yoki gumonlanayotgan shaxslarni ta'qib qilishdir),BMT a'zo davlatlarining terrorizmga qarshi kurashdagi salohiyatini oshrishga qaratilgandir (mamlakatlar ushbu tahdidga qarshi kurash bobida o'zaro tajriba almashishlariga chaqiradi), inson huquqlari va erkinliklarini himoya qilishdir (strategiyada terrorizmga qarshi kurash maqsadlari va inson huquqlari himoyasi o'zaro bir-biriga mone'lik qilmaydi. Aksincha, ular bir-birini o'zaro to'ldiradi).
-B)Davlat chegaralarini buzish, xorijlik yo’riqchilarning qatnashishi, maxsus lagerlarda tayorgarlik ko’rish, yollanma shaxslar bo’lgan eksterimistik guruhlar sodir etishi
-C)Mintaqaviy mojarolar, agressiv millatchilik, korruptsiya va jinoyatchilik, ekologik va yadroviy qurol muammosi, mahalliychilik va urug’-aymoqchilik
-D)Etnik va millatlararo qarama-qarshiliklar, diniy eksterimizm va fundamentalizm,aqidaparastlik,terrorizm,mutaassiblik
+Q117: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
+C)Yangi texnika va texnologiyalarni qoʻllash orqali
+D)Ishchi kuchi malakasini oshirish orqali
 ANSWER: A
 
-Q162: O’zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev BMTning 2023 yil 20-sentyabr 78-sessiyasidagi nutqida qator masalalarni ilgari surdi. Shu jumladan terrorizmga oid...?
-A)Birlashgan Millatlar Tashkiloti Bosh kotibi tomonidan ilgari surilgan “Ish o‘rinlarini yaratish va ijtimoiy himoya global akseleratori” borasidagi tashabbusi doirasida tajriba almashish uchun 2024 yili BMT shafeligida “Ijtimoiy himoya: barqaror taraqqiyot sari yo‘l” butunjahon konferensiyasi hamda Osiyo xotin-qizlari forumini O‘zbekistonda o‘tkazish taklif etdi.
-B) 5 marta “Mehr” insonparvarlik missiyasi o’tkazib, 530 nafar fuqaro (ayol va bolalar)yurtimizga qaytarildi
-C) Jahon miqyosida dinlararo bag‘rikenglik va hamjihatlik g‘oyalarini keng targ‘ib etish maqsadida O‘zbekistonda YUNESKO shafeligida Dinlararo muloqot va bag‘rikenglik xalqaro markazini tashkil etishni taklif qildi.
-D).Majburiy va bolalar mehnatiga qarshi kurashni butun dunyo miqyosida kuchaytirish zarurligi aytildi.
+Q118: Iqtisodiy siyosat nimani anglatadi?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlat tomonidan qabul qilinadigan qonunlar toʻplami.
+C)Bozor mexanizmlari orqali iqtisodiyotni oʻz-oʻzini tartibga solish.
+D)Xalqaro tashkilotlar tomonidan belgilangan iqtisodiy qoidalar.
 ANSWER: A
 
-Q163: Shanxay Hamkorlik Tashkiloti(ShHT) qachon tuzildi va a’zolari berilgan qatorni to’g’ri toping?
-A)2001 yil 15 iyun, 9 davlat, Qozog’iston, Xitoy, Qirg’iziston, Rossiya, Tojikiston, O’zbekiston, Hindiston, Pokiston, Eron
-B)2001 yil 28 sentyabr, AQSH, Xitoy, Rossiya, Frantsiya, Buyuk Britaniya
-C)1948 yil 10 dekabr, Xitoy, Yaponiya, Koreya, Vetnam, Indoneziya, Malayziya
-D)2001yil 4 dekabr, Xitoy, Rossiya, Qozog’iston, Qirg’ziston, O’zbekiston, Tojikiston.
+Q119: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+B)Faqat foydani maksimumlashtirish.
+C)Iste'molni maksimumlashtirish va jamg'arma hosil etish.
+D)Raqobatchilik muhitini cheklash.
 ANSWER: A
 
-Q164: BMT, ShHT, EXHT va MDH xalqaro tashkilotlari tuzilmasi tarkibidagi aksilterror qo’mitalari (idoralar) qaysi qatorda to’g’ri berilgan?
-A)BMT aksilterroristik qo’mitasi, EXHT kotibiyatining aksilterroristik tizimi, ShHT mintaqaviy aksilterroristik tuzulmasi, MDH aksilterroristik markazi, Interpol
-B)Xavfsizlik Kengashi, Bosh Assambleya, Interpol
-C)Xalqaro sud, Interpol
-D)BMT, ShHT, EXHT, MDH, Interpol tarkibida aksilterroristik idoralar mavjud emas.
+Q120: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+A)Mavjud texnikaviy asosni saqlab qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
+C)Mavjud resurslardan yaxshiroq foydalanish yo'li bilan.
+D)Yangi texnologiyalarni qoʻllash va ishchi kuchi malakasini oshirish orqali.
 ANSWER: A
 
-Q165: O’zbekiston Respublikasi qonuni “Terrorizmga qarshi kurash to’g’risida”gi qachon qabul qilingan?
-A)2000 yil 15 dekabr
-B)2021 yil 5 iyul
-C)1991 yil 14 iyun
-D)1998 yil 1 may
+Q121: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+B)Davlatning faqat pul-kredit siyosati.
+C)Faqat bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
+D)Xususiy korxonalarning foydani maksimumlashtirishga qaratilgan harakatlari.
 ANSWER: A
 
-Q166: Eksterimistik va terroristik guruhlar o’z maqsadlariga erishish uchun qaysi omillardan foydalanadi?
-A)Asosiy ichki va tashqi omillardan
-B)davlatlardagi ma’naviy devalvatsiyadan
-C)Savodsizlikdan
-D)Homiylik qiluvchi kuchlardan
+Q122: Davlatning iqtisodiy siyosati koʻzlaydigan asosiy maqsadlardan biri nimadan iborat?
+A)Milliy iqtisodiyotning mustaqilligini ta'minlash.
+B)Faqat eksport hajmini oshirish.
+C)Xususiy korxonalarning monopolistik mavqeini kuchaytirish.
+D)Ishsizlik darajasini mutlaqo nolga tushirish.
 ANSWER: A
 
-Q167: Terroristik harakatlarning qanday ko’rinishlari bor?
-A)G’oyaviy, etnik, diniy, jinoiy, iqtisodiy, individual, axborot, siyosiy terrorizmlar
-B)Nimfomaniya va Saddizm
-C)Kosmopolitizm va animalizm
-D)Ratsional va irratsional
+Q123: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
+A)Ekstensiv iqtisodiy oʻsish.
+B)Intensiv iqtisodiy oʻsish.
+C)Innovatsion iqtisodiy oʻsish.
+D)Barqaror iqtisodiy oʻsish.
 ANSWER: A
 
-Q168: Jaholatga qarshi kurashning metodologik asosi nima deb bilasiz?
-A)Ma’rifat
-B)Jaholat
-C)Aql
-D)Tafakkur
+Q124: Iqtisodiy o'sishga ta'sir ko'rsatuvchi omillar shartli ravishda qaysi uch guruhga ajratiladi?
+A)Talab, taklif va taqsimlash omillari
+B)Tabiiy, ijtimoiy va madaniy omillar
+C)Ichki, tashqi va mintaqaviy omillar
+D)Moliyaviy, institutsional va texnologik omillar
 ANSWER: A
 
-Q169: 2021-2026 yillarga mo’ljallangan eksterimizm va terrorizmga qarshi kurashish bo’yicha O’zbekiston Respublikasi milliy strategiyasi qachon qabul qilindi?
-A)2021 yil 1iyul
-B)2020 yil 1 iyul
-C)1992 yil 8 dekabr
-D)1991 yil 14 iyun
+Q125: Olimlarning fikricha, iqtisodiy siyosatning asosiy maqsadlariga nimalar kiradi?
+A)Iqtisodiy o'sish, to'liq bandlik, iqtisodiy samaradorlik va narxlar barqarorligi
+B)Faqat milliy iqtisodiyotning iqtisodiy o'sishi va eksport salohiyatini oshirish
+C)Davlat byudjeti profitsitini ta'minlash va importni cheklash
+D)Faollikni rag'batlantirish va atrof-muhitni muhofaza qilish
 ANSWER: A
 
-Q170: Diniy katarsis(poklanish) nima va bu termin dinshunoslikda qanday talqin qilinadi?
-A) Katarsis (yunoncha so‘z “katharsis”- poklanish) - ruhning hissiy va jismoniy nopokliklardan tozalanishi. Aristotel "Poetika" asarida bu terminni ishlatgan. Din uni inson ruhining axloqsizliklardan poklanishi deb talqin qiladi
-B) Katarsis (yunoncha so‘z “katharsis”- poklanish) tananing og'riqli kasallikdan xalos bo'lishi yoki tiklanishi
-C). Katarsis (yunoncha so‘z “katharsis”- poklanish) gipnoz yo‘li bilan inson ruhiga ta’sir o‘tkazish
-D) Katarsis (yunoncha so‘z “katharsis”- poklanish) zavq olish.
+Q126: Iqtisodiy o'sishni o'lchashning asosiy ikki usuli qaysilar?
+A)Real yalpi ichki mahsulotning o'tgan davrga nisbatan o'zgarishi va aholi jon boshiga real yalpi ichki mahsulotning o'zgarishi
+B)Faqat yalpi ichki mahsulotning mutloq hajmini hisoblash
+C)Faqat aholi jon boshiga to'g'ri keladigan milliy daromadni baholash
+D)Faqat ishlab chiqarish omillari miqdorining o'zgarishini tahlil qilish
 ANSWER: A
 
-Q171: Sekulyarizm (lat.secular”, “secularus”) zo‘zi ma’nosi qaysi bandda to‘g’ri berilgan?
-A)Dunyoviylik
-B)Dahriylik
-C)Ateizm
-D)Eksterimizm
+Q127: Iqtisodiy siyosatning ta'rifi nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Bozor raqobatini kamaytirishga qaratilgan chora-tadbirlar tizimi.
+C)Resurslarni taqsimlash bo'yicha ilmiy nazariyalar to'plami.
+D)Narxlarni faqat davlat tomonidan nazorat qilish.
 ANSWER: A
 
-Q172: Resekulyarizatsiya termini ma’nosi to‘g’ri berilgan qatorni toping?
-A)Dahriylik va ateizm hukm surgan davrga barham berish
-B)Davlat va din o‘rtasidagi muloqot
-C)Jamiyatning marginallashuvi
-D)”Xalifalik”davlatini tuzish vasvasasi.
+Q128: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
+B)Yakka tartibdagi firmalarning foydasini maksimallashtirish.
+C)Xalqaro savdoni minimallashtirish.
+D)Barcha ishlab chiqarish resurslarini markazlashtirish.
 ANSWER: A
 
-Q173: 2024 yil O‘zbekistonda faoliyat ko‘rsatayotgan o‘rta islom bilim yurt(madrasa)lari soni to‘g’ri berilgan javobni belgilang?
-A.10
-B)12
-C)14
-D)11
+Q129: Pul-kredit siyosatining ikki asosiy turi qaysilar?
+A)Qattiq va yumshoq siyosat.
+B)Fiskal va budjet siyosati.
+C)Bevosita va bilvosita ta'sir.
+D)Mikro va makro siyosat.
 ANSWER: A
 
-Q174: O‘zbekistonda islom oliy o‘quv yurtlari nechta?
-A) 4 ta, Imom Buxoriy nomidagi Toshkent islom instituti (1969 y), Mir Arab oliy madrasasi
-(2017 y) , Hadis ilmi oliy maktabi (2018 y) Imom Termiziy nomidagi islom instituti (2024 y)
-B)1 ta, O‘zbekiston xalqaro islom akademiyasi(2018 y)
-C)1 ta, Toshkent islom universiteti (1999 y)
-D)1 ta, Al-Azhar (970-972 y),Qohira.
+Q130: Iqtisodiy siyosatning ta'rifi qanday?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
+B)Moliyaviy sektorni tartibga soluvchi barcha qonunlar yigʻindisi.
+C)Xalqaro savdo munosabatlarini boshqarish tizimi.
+D)Barcha ishlab chiqarish resurslarini markazlashtirish jarayoni.
 ANSWER: A
 
-Q175: O‘zbekistonda faoliyat ko‘rsatayotgan xalqaro islom ilmiy-tadqiqot markazlari nechta?
-A) 4 ta, Islom sivilizatsiyasi markazi, Imom Buxoriy xalqaro ilmiy-tadqiqot, Imom Moturidiy xalqaro ilmiy-tadqiqot, Imom Termiziy xalqaro ilmiy-tadqiqot markazlari
-B)5 ta, Hadis va Kalom (Samarqand), Aqida(Qarshi), Tasavvuf(Buxoro), Huquq(Farg’ona) ilmiy maktablari
-C)5 ta, Malaka oshirish markazi(Toshkent),malaka oshirish markazi mintaqaviy filiali(Nukus), malaka oshirish markazi mintaqaviy filiali(Samarqand), malaka oshirish markazi mintaqaviy filiali(Namangan), malaka oshirish markazi mintaqaviy filiali(Termiz)
-D)197 ta noislomiy diniy tashkilot,(shuning 179 tasi xristian, 8 tasi yahudiy,7 tasi bahoiy, 1 tasi krishnachi, 1 tasi Buddaviy tashkiloti, 1 tasi O‘zbekiston bibliya jamiyati).
+Q131: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
+A)Milliy iqtisodiyotning mustaqilligini ta'minlash va chet elga qaram bo'lishiga yo'l qo'ymaslik.
+B)Davlat korxonalarining qisqa muddatli foydasini maksimallashtirish.
+C)Barcha iqtisodiy tarmoqlarda qat'iy markaziy rejalashtirishni amalga oshirish.
+D)Iqtisodiyotdagi barcha xususiy mulk shakllarini yo'q qilish.
 ANSWER: A
 
-Q176: “Tavba” kitobi muallifi kim?
-A) Abu Homid G’azzoliy
-B)imom Buxoriy
-C)imom Termiziy
-D).Alisher Navoiy
+Q132: Qattiq monetar siyosatning asosiy xususiyati nima?
+A)Pul massasi qisqartiriladi va uning emissiyasi narxlarni barqarorlashtirish va inflyatsiyani jilovlash uchun qat'iy chegaralanadi.
+B)Davlat pul massasini qat'iy cheklovlarsiz faol ravishda oshiradi.
+C)Markaziy bank iqtisodiyotga ko'proq pul kiritish uchun davlat obligatsiyalarini sotib oladi.
+D)Kredit olish va investitsiyalarni rag'batlantirish uchun foiz stavkalari pasaytiriladi.
 ANSWER: A
 
-Q177: “Ihyou ulumid-din” (“Din ilmlarini jonlantirish”) asari muallifi…?
-A) imom, “Hujjatul-Islom” Muhammad ibn Muhammad ibn Ahmad Abu Homid At-Tusiy Al-G’azzoliy, Bayrutda nashr qilingan, IV jild.
-B) Abu Nasr Muhammad ibn Muhammad ibn Uzlugʻ Tarxon Forobiy
-C) Mavlono Jaloliddin Rumiy (30-sentyabr 1207, Balx, Afgʻoniston – 17-dekabr 1273, Koʻniya, Turkiya)
-D)Nikolay Aleksandrovich Berdyaev(1874-1948),”Din va hurfikrlilik” asari.
+Q133: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
+B)Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish tizimi.
+C)Bozor mexanizmlari orqali avtomatik ravishda amalga oshiriladigan jarayon.
+D)Jamiyatda pul muomalasini tartibga solishga qaratilgan chora-tadbirlar.
 ANSWER: A
 
-Q178: “Tavba” nechta bosqichni o‘z ichiga oladi (imom G’azzoliyda)…?
-A)3 ta,ilm,hol,fe’l
-B)2 ta,ilm va hol
-C)1 ta ilm
-D)2 ta,hol va fe’l.
+Q134: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
+A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash.
+B)Faqat davlat daromadlarini maksimumlashtirish.
+C)Xususiy korxonalar faoliyatiga to'liq aralashmaslik.
+D)Faqat tashqi savdo balansini ijobiy holatda saqlash.
 ANSWER: A
 
-Q179: Imom Ismoil al-Buxoriyning “Al-Adab al-mufrad”(Adab durdonalari) asari nechta hadisni o‘z ichiga olgan?
-A)1322 ta
-B)600 ta
-C)644 bobni
-D)Kutub sitta(olti kitob)
+Q135: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
+A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
+B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali.
+C)Yangi texnika va texnologiyalarni qoʻllash hisobiga.
+D)Ishchi kuchining malakasini oshirish orqali.
 ANSWER: A
 
-Q180: “Mukoshafatul qulub”( Qalblar kashfiyoti) asari muallifi…?
-A) Gʻazzoliy, Abu Hamid Muhammad ibn Muhammad al-Gʻazzoliy [1058 - Tus (Eron) -1111] - islom ilohiyotchisi, faylasuf.
-B)Shayx Muhammad Sodiq Muhammad Yusuf ibn Muhammad Ali (1952-2015)
-C)Husayn Voiz Koshifiy (taxallusi; asl ismi Kamoliddin;laqabi Voiz; tax. 1442/46, Sabzavor qishlogi – 1505-yil, Hirot)
-D) Abu Iso Muhammad ibn Iso ibn Savra ibn Muso ibn Zahhoq Sullamiy Zariyr Bug‘iy Termiziy,(824-892)
+Q136: Iqtisodiy siyosat nima?
+A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
+B)Davlatning faqat soliq yigʻish faoliyati.
+C)Faqat bozor mexanizmining oʻz-oʻzini tartibga solish jarayoni.
+D)Xalqaro tashkilotlarning iqtisodiyotga aralashuvi.
 ANSWER: A
 
-Q181: “Muxtasar islom tarixi” risolasi muallifi…?
-A.Abdurauf Fitrat(risola)
-B) Shayx Muhammad Sodiq Muhammad Yusuf(1-2 kitob)
-C)Mahmudxo‘ja Behbudiy(darslik)
-D)Abdulla Avloniy(asar)
+Q137: Iqtisodiyotni tanglikdan chiqarish yoki inflyatsiyani keskin susaytirish uchun qanday monetar siyosat qoʻllaniladi?
+A)Qattiq monetar siyosat
+B)Yumshoq monetar siyosat
+C)Arzon pul siyosati
+D)Ekspansion siyosat
 ANSWER: A
 
-Q182: ”Insonlarning karami dinidadur, muruvvati aqlindadur, hasabi axloqindadur” Rasuli akram nabiyyi muhtaram sallolohu alayhi vassalam fikri kimning qaysi asarida keltirlgan?
-A)Abdulla Avloniy,”Turkiy guliston yoxud axloq”asarida
-B)Shayx Muhammad Sodiq Muhammad Yusuf,”Islom tarixi” asarida
-C)Mahmudxo‘ja Behbudiyning “Padarkush” dramasida
-D)Imom Buxoriyning „Al-jomeʼ as-sahih”asarida
+Q138: Davlatning iqtisodiy siyosatidagi asosiy maqsad nima?
+A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
+B)Faqat foydani maksimumlashtirish.
+C)Iste'molni maksimumlashtirish.
+D)Bozor tizimining amal qilishini cheklash.
 ANSWER: A
 
-Q183: Fransuzcha “qayta tug’ilish” degan ma’noni anglatuvchi so‘zni toping?
-A)Voskres
-B)Parlament
-C).Konstitutsiya
-D) Renessans
+Q139: Iqtisodiy siyosat qanday uch darajada boʻladi?
+A)Mikro, makro va meta
+B)Milliy, hududiy va mahalliy
+C)Toʻgʻridan-toʻgʻri, bilvosita va aralash
+D)Fiskal, monetar va ma'muriy
 ANSWER: A
 
-Q184: Imom Termiziyning 1200 yilligini keng nishonlash haqidagi Prezident qarori qachon qabul qilingan edi?
-A) 19.08.2024 yil
-B)19.08.2023 yil
-C)oktyabr 2024 yil
-D)noyabr 2024 yil
+Q140: Monetar siyosatning uchta asosiy jihati nimalardan iborat?
+A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati va majburiy zaxira siyosati
+B)Soliq siyosati, investitsiya siyosati va sanoat siyosati
+C)Pul-kredit siyosati, fiskal siyosat va ijtimoiy siyosat
+D)Daromadlarni taqsimlash, resurslarni taqsimlash va iqtisodiyotni barqarorlashtirish
 ANSWER: A
 
-Q185: “Iqrornoma”asari muallifi…?
-A)Lev Nikolayevich Tolstoy(1880 y.)
-B) Nikolay Aleksandrovich Berdyaev
-C)A.S.Pushkin
-D)muallifi noma’lum
+Q141: Ekstensiv iqtisodiy oʻsish qanday erishiladi?
+A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
+B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
+C)Fan-texnika taraqqiyoti yutuqlaridan foydalanish orqali
+D)Ishchi kuchining malakasini oshirish va tejamkor mehnat predmetlarini qoʻllash orqali
 ANSWER: A
-
-Q186: “Olov olovni o‘chirmagani kabi, yovuzlik bilan yovuzlikni yo‘qotib bo‘lmaydi” va “Xudoni qidirib yashang, shunda Xudosiz hayot bo‘lmaydi” iqtiboslar muallifi…?
-A) Lev Nikolayevich Tolstoy
-B)Nikolay Aleksandrovich Berdyaev
-C)A.S.Pushkin
-D) Mixail Yuryevich Lermontov
-ANSWER: A
-
-Q187: Islom dini qadriyatlarining talqini qo‘yidagi O‘zbekiston diniy ulamolarining qaysi birining asarida batafsil o‘rganilgan?
-A)Shayx Muhammad Sodiq Muhammad Yusuf,”Baxtiyor oila”
-B)Usmonxon Alimov,”Oilada farzand tarbiyasi”
-C)Nuriddin Xoliqnazarov,”Yoshlarga nasihatim”
-D)Tohir Malik,”Oxirat”
-ANSWER: A
-
-Q188: “Taloq” nima?
-A) arab. -qoʻyib yubormoq, ajralmoq -shariatga koʻra nikohning bekor qilinishi(taloq)
-B) arabcha soʻzdan olingan boʻlib tarjimasi: “birlashish”(nikoh)
-C) arab. -maʼlum vaqt, ayollar uchun belgilangan muxlat - shariat boʻyicha eri oʻlgan yoki eridan ajrashgan xotinlar boshqa erga chiqishi uchun oʻtishi shart boʻlgan muhlat(idda)
-D)er o‘zining halol bo‘lgan ayolini, o‘ziga abadiy mahram bo‘lgan ayollarning qarashi joiz bo‘lmagan oila a’zosiga o‘xshatishidir(zihor)
-ANSWER: A
-
-Q189: “Qohira Deklaratsiyasi” qachon qabul qilingan?
-A.1943 yil 22-noyabrda Misrda(Qohirada),AQSh,Buyuk Britaniya, cobiq SSSR
-B)1943 yil 4-6 dekabr Misrda
-C)1948 yil 10 dekabr
-D)1990 yil 20 iyun
-ANSWER: A
-
-Q190: Islom hamkorlik tashkiloti (IHT) dunyodagi nufuzli xalqaro tashkilotlardan biri va eng yirik xalqaro islom tashkilotidir.Bu tashkilot qachon paydo bo‘lgan?
-A)IHT 1969 yil 25 sentyabrda Marokash poytaxti Robotda o'tkazilgan islom davlatlari rahbarlarining birinchi yig'ilishida tashkil etilgan.
-B) 2011-yil 28-iyungacha Islom konferensiyasi tashkiloti deb nomlangan.
-C) Islom olami ta’lim, fan va madaniyat tashkiloti (inglizcha: ICESCO'') 1981-yil 28-25-yanvar kunlari Muqaddas Makka shahrida bo‘lib o‘tgan uchinchi islom anjumanida tashkil etilgan.
-D) Islom Tarraqqiyoti Banki(ITB) 1974 yil tashkil topgan.Jidda shahrida.
-ANSWER: A
-
-Q191: Arab davlatlari ligasining maqsadi?
-A) aʼzo davlatlar oʻrtasidagi munosabatlarni yaqinlashtirish va ular oʻrtasidagi hamkorlikni muvofiqlashtirish, ularning mustaqilligi va suverenitetini himoya qilish va arab davlatlarining ishlari va manfaatlarini umumiy tarzda koʻrib chiqish hisoblanadi.
-B)arab ligasi rasmiy ravishda Arab davlatlari uyushmasi Arab dunyosidagi mintaqaviy tashkilotdir. Arab Ligasi 1945-yil 22-martda Qohirada tuzilgan. Dastlab olti aʼzodan iborat boʻlgan. Hozirda Arab davlatlari uyushmasi 22 ta aʼzoga ega.
-C)Islom olami uyushmasi xalqaro islom tashkiloti, ruxoniylarning 1962 yil may oyida Makkada boʻlib oʻtgan konferensiyasida asos solingan. qarorgohi Makka shahrida.
-D) Musulmonlar birligini taʼminlash va islom aqidalariga asoslangan tuzum oʻrnatish.
-ANSWER: A
-
-Q192: Har yili Arab olami,Afrika va Osiyodan uchta shahar islom madaniyati poytaxti sifatida tanlab olinadi.O‘zbekistonda islom madaniyati poytaxti maqomini olgan shaharlar qaysi bandda to‘g’ri berilgan?
-A)Toshkent(2007),Buxoro(2020),Samarqand(2025)
-B)Qohira(2020),Tunis(2019),Quddus(2014)
-C)Lusayl,Susha(2024),Bhagavan bandargohi va Bissan(Gveniya)
-D)Xiva(1990) Shahrisabz(2002)
-ANSWER: A
-
-Q193: Toshkent islom institutida oliy diniy o‘quv yurtidan keyingi ta’lim- islom fanlari bo‘yicha falsafa doktori (PhD) ilmiy darajasini berishni nazarda tutuvchi tayanch doktorantura hamda islom fanlari bo‘yicha fan doktori (Doctor of Science) ilmiy darajasini berishni nazarda tutuvchi doktorantura tizimi qachon tashkil etildi?
-A) 2017 yil 14 sentabr.
-B) 2017 yil 2 noyabr
-C) .2017 yil 18 oktyabr
-D) 2017 yil 6 noyabr
-ANSWER: A
-
-Q194: ”Haj” so‘zining lug’aviy va istilohdagi ma’nosi?
-A)”ulug’ narsani qasd qilish” va “maxsus makonda,ma’lum vaqtda,maxsus amallar bilan maxsus ibodatni ado etishdir”.
-B)”Ziyorat”,Baytullohning maxsus ziyoratidir.Baytullohni tavob qilib,Safo va Marva oralig’ida etti marta sa’y qilishdir.
-C) Safo va Marva tepaliklari orasida chopish, umra va haj marosimlari shartlaridan biri.
-D) “Muzdalifada ziyoratchilar shaytonni toshbo'ron qilish uchun toshlar yig'ishi”
-ANSWER: A
-
-Q195: Islom dinida diniylik va dunyoviylik qanday tafsiflanadi?
-A)Diniylik inson qalbiga bog’liq hissiyot.Dunyoviylik esa dinni siyosiy jarayonlardan ajratish va diniylikni barcha uchun asos qilib olmaslik tamoyili turadi.
-B)”Dinda(dinga) zo‘rlash yo‘q”(Qur‘on,Baqara surasi 256-oyat).
-C)Diniylik va dunyoviylik dunyo va inson hayotining mohiyatiga turlicha qarash usullaridir.
-D)”Ey Rabbimiz, bizga bu dunyoda ham yaxshilik ato etgin, oxiratda ham yaxshilik(ato etgin) va bizni do‘zax azobidan asragin” (Qur‘on,Baqara surasi 201-oyat).
-ANSWER: A
-
-Q196: “Ajdodlarimiz o‘z vaqtida yuksak ma’naviyati, boy ilmiy merosi, ijodi bilan butun dunyoga ustozlik qilganlar. Ular boshqalarga ergashmagan, boshqalarni o‘z ortidan ergashtirganlar. Shuning uchun din peshvolari ham bugun ergashuvchi emas, ergashtiruvchi bo‘lishlari lozim”.(410-411 betlar).Bu fikrlar kimning asaridan olingan?
-A) Shavkat Mirziyoyev asaridan
-B) Islom Karimov asaridan
-C)Nuriddin Xoliqnazarov asaridan
-D)Muhammad Sodiq Muhammad Yusuf asaridan
-ANSWER: A
-
-Q197: O‘zbekiston Respublikasi Prezidenti Sh.Mirziyoev asarlarida diniy islohotlarning yoritilishining o‘ziga xos xususiyatlari?
-A) Barcha javoblar to‘gri.
-B) Din masalasini- ma’rifat bilan bog‘lab tahlil qildi;
-C) Oila, maktab, mahalla va jamiyatda-sog‘lom turmush tarzini shakllantirishda dinni muhim ma’naviy omil sifatida e’tirof etdi;
-D) diniy va dunyoviy ilmlar uyg‘unligi yangi O‘zbekiston tamoyiliga aylandi;
-ANSWER: 
-
-Q198: O‘zbekiston Respublikasi Prezidenti Shavkat Mirziyoyevning 2024 yil nashr etilgan kitobi nomi?
-A) Hozirgi zamon va yangi O‘zbekiston
-B) Yangi O‘zbekiston strategiyasi
-C) Jamiyat hayotining tanasi iqtisodiyot bo‘lsa, uning joni va ruhi ma’naviyatdir.
-D)2024 yil kitobi chop etilmagan.
-ANSWER: A
-
-Q199: O‘zbekistonda dindorlar va diniy tashkilotlar qaysi qonunga rioya qilishlari lozim?
-A)O‘zbekiston Respublikasi Konstitutsiyasi va “Vijdon erkinligi va diniy tashkilotlar to‘g’risida”gi qonunga;
-B)O‘zbekiston musulmonlar idorasi nizom va fatvolariga
-C)Islom olami uyushmasi nizom va fatvolariga
-D)Inson huquqlari umumjahon Deklaratsiyasiga.
-ANSWER: A
-
-Q200: Hozirga qadar Qur’oni Karimning o‘zbek tiliga ma’nolar tarjimasi necha marta nechta muallif tomonidan amalga oshirildi?
-A) 7 marta 7 nafar muallif tomonidan
-B) 1 marta 1 nafar muallif tomonidan
-C) 7 marta 10 nafar muallif tomonidan
-D) 1 marta 2 nafar muallif tomonidan.
-ANSWER: A
-
