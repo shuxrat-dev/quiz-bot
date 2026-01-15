@@ -1,15 +1,1084 @@
-# QUIZ: Matematika Asoslari
+# QUIZ: Iqtisodiyot
 
-Q1: 2 + 2 nechiga teng?
-A) 3
-B) 4
-C) 5
-D) 6
-ANSWER: B
+Q1: …….. iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasidagi farqni bildiradi.
+A)iste’molchi ortiqchaligi
+B)iste’molchi kamligi
+C)bozor muvoznati
+D)tovar taqchilligi
+ANSWER: A
 
-Q2: 10 - 3 nechiga teng?
-A) 6
-B) 7
-C) 8
-D) 9
-ANSWER: B
+Q2: …….. bu bitta sotuvchi va ko’p haridorlar qatnashgan bozor, yoki o’rnini bosadigan tovar bo’lmagan tovarni sotadigan yagona sotuvchi bulgan bozor vaziyati.
+A)Sof monopoliya
+B)Oligapoliya
+C)Monopsoniya
+D)Monopoliya
+ANSWER: A
+
+Q3: … bu bozor tizimida biror bir tovarni sotishda cheklangan firmalar xukmronlik qilishi.
+A)Oligopoliya
+B)Sof monopoliya
+C)Monopsoniya
+D)Monopoliya
+ANSWER: A
+
+Q4: ……... to’liq raqobatlashmagan bo’-lib, unda qatnashadigan fir-malar soni ko’p bulib, ular-ning har biri uz tovarlari narxini ma’lum chegara da nazorat qiladi.
+A)Monopol rakobat bozor
+B)Erkin bozor
+C)Oligapollashgan bozor
+D)Barcha javob hato
+ANSWER: A
+
+Q5: ... yordamida davlatning iqtiso-diy siyosatini baholash mumkin.
+A)Iste’molchi va ishlab chiqaruvchi ortiqchaligi
+B)Davlat g’aznasi
+C)Bozorlar holati
+D)Iqtisodiy o’sish
+ANSWER: A
+
+Q6: Bozor kaysi xolatda samara-li faoliyat ko’rsatadi.
+A)Erkin holatida
+B)Monopol holatida
+C)Oligapol holatida
+D)Barcha holatlarda
+ANSWER: A
+
+Q7: Quyidagilarda chekli daromad bozor narxidan past bo’lmaydi.
+A)Monopollarda
+B)Mukammal raqobatchilarda
+C)Oligapollarda
+D)barchasida
+ANSWER: A
+
+Q8: Oligapoliya so`zi qaysi tildan olingan
+A)Grekcha
+B)Lotincha
+C)Inglizcha
+D)fransuzcha
+ANSWER: A
+
+Q9: Raqobatlashuvchi firmaga nisbatan monopolist ish xaqini qanday to’laydi ?
+A)ishchi kuchini kup yollagan holda, ish xaqini xam kup tulaydi.
+B)ishchi kuchini kam yollagan holda, ish haqini xam kam tulaydi
+C)ishchi kuchini kup yollagan holda, ish xaqini kam tulaydi;
+D)ishchi kuchini kam yollagan holda, ish haqi stavkasini yukori tulaydi
+ANSWER: A
+
+Q10: Qaysi xollarda firma iste’molchi ortiqchaligini to’liq egallashi mumkin.
+A)monopollashgan bozor sharoitida
+B)narx diskrinimasiyasini qo’llanilganda
+C)yalpi foydani maksimallashtirsa
+D)barcha javob hato
+ANSWER: A
+
+Q11: ……. ishlab chiqaruvchi tomonidan olingan umumiy manfaatni bildiradi.
+A)Ishlab chiqaruvchi ortikchaligi
+B)Ishlab chiqaruvchi kamligi
+C)To’yinmagan bozor
+D)To’yinmagan bozor
+ANSWER: A
+
+Q12: ……. ishlab chiqarish omillaridan foydalangan xolda maxsulot yaratish jarayonini yoki ishlab chiqarish omillarini tayyor maxsulotga aylantirish jarayoni.
+A)Ishlab chiqarish
+B)Foyda olish
+C)Raqobat
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q13: …- ishlab chiqarish xajmi o’zgarmaganda bir birlik X omilini necha birlik Y omil bilan almashtirish mumkinligini ko’rsatadi.
+A)Chekli texnologik almashtirish normasi
+B)Daromad
+C)Narx shakllanishi
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q14: …- bu uzgaruvchan resurslar kombinasiyasini kichik mikdorda ko’shimcha sarfi xisobidan umumiy maxsulotning o’sgan kismiga aytiladi.
+A)Chekli maxsulot
+B)Zaruriy mahsulot
+C)Ortiqcha mahsulot
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q15: …… bir xil xajmda maxsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chizik.
+A)Izokvanta
+B)Daromad
+C)Taklif
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q16: ……. yigindisi bir xil yalpi xarajatga teng bulgan resurslar sarflari kombinasiyalarini ifodalovchi chizik.
+A)Izokosta
+B)Foyda
+C)Xarajatlar
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q17: ……. bu shunday vakt oraligiki, firma bu oralikda faoliyat ko’rsatganda, u ishlab chiqarish omillaridan kamida bittasining xajmini o’zgartira olmaydi.
+A)Qisqa muddatli oraliq
+B)Bazis oraliq
+C)Uzoq muddatli oraliq
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q18: ……. bu oraliqda firma ishlab chiqarishda foydalanayotgan barcha ishlab chiqarish omillari xajmini (ishlab chiqarish quvvatini xam) o’zgartiradi.
+A)Uzok muddatli oraliq
+B)Bazis oraliq
+C)Qiska muddatli oraliq
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q19: …- bu qisqa muddatli oraliqda maxsulot ishlab chiqarish xajmiga bog’liq bo’lmagan xarajatdir
+A)O’zgarmas xarajat
+B)Qo’shimcha xarajat
+C)Ortiqcha xarajat
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q20: …… maxsulot ishlab chiqarish xajmiga bog’liq bo’lgan xarajat, ya’ni masulot xajmi oshganda yoki kamayganda o’zgaradigan xarajat.
+A)O’zgaruvchan xarajat
+B)O’zgarmas xarajat
+C)Qo’shimcha xarajat
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q21: …… qisqa muddatli orliqda ma’lum miqdorda mahsulot ishlab chiqarish uchun sarflangan o’zgarmas va o’zgaruvchan xarajatlarning yigindisi
+A)Umumiy xarajatlar
+B)O’zgaruvchan xarajat
+C)Qo’shimcha xarajat
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q22: …… ishlab chiqarish xajmini kichik miqdorga (odatda bir birlikka) oshirish bilan bog’liq bo’lgan ko’shimcha umumiy xarajatdir
+A)Chekli xarajat
+B)Daromad
+C)Umumiy xarajatlar
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q23: +
+Chekli o’zgaruvchan xarajat
+A)MVC
+B)TC
+C)AFC
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q24: …oldin kilingan xarajatlar bulib, ularni kaytadan tiklash mumkin emas.
+A)Qaytarilmaydigan xarajatlar
+B)Ortiqcha xarajatlar
+C)Zaruriy xarajatlar
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q25: ……. yo’qotishlar su gurta kompaniyasi tomonidan to’lik qoplanishiga ishonch hosil qilgan holda, vujudga kelishi mumkin bo’lgan yo’qotishlar yehtimolini ongli ravishda oshirib ko’rsatishga intiluvchi shaxsning xatti-xarakati.
+A)Ma’naviy tavakkalchilik
+B)Zaruriy tavakkalchilik
+C)Tavakkalchiliklarni qo’shish
+D)Tog’ri javob yo’q
+ANSWER: A
+
+Q26: .......iqtisodiy faoliyatdagi asosiy maqsadlardan bulib, u aholi jon boshiga ijtimoiy mahsulot miqdorining o’sishi, ularnig turmush darajasini o’sganligini ko’rsatadi.
+A)Iqtisodiy o’sish
+B)Muvozanatlashgan baho deb
+C)Iqtisodiy bazis tushunchalar deb
+D)Funksiya
+ANSWER: A
+
+Q27: Xar qanday davlatning iqtisodiy o’sishida nichta omil bor
+A)6
+B)8
+C)5
+D)7
+ANSWER: A
+
+Q28: …-uni o’rganish faoliyatining shakllari, usullari va ularning bog’liqligi tushuniladi
+A)Fanni o’rganish uslubi (metodologiyasi) deganda
+B)Ne’matlar noyobligi
+C)Real ehtiyoj
+D)Alternativ harajatlar
+ANSWER: A
+
+Q29: …-bu sotuvchilar va xaridorlar o’rtasidagi mahsulot sotish va sotib olish bo’yicha erkin munosabatlar tizimidir
+A)bozor
+B)firma
+C)auksion
+D)Talab va taklif
+ANSWER: A
+
+Q30: ……bu biror tovar yoki resurs xajmining ma’lum vaqt oraligida chegaralanganligidir
+A)Ne’matlar noyobligi
+B)Real ehtiyoj
+C)Iqtisodiy ehtiyoj
+D)Iqtisodiy ne’mat
+ANSWER: A
+
+Q31: ………mikroiqtisodiy jarayonlarda qatnashadigan iqtisodiy tushunchalarga aytiladi.
+A)Iqtisodiy bazis tushunchalar deb
+B)Katigorea tushunchalar deb
+C)Daromat tushunchalar deb
+D)Alternativ tushunchalar deb
+ANSWER: A
+
+Q32: ……..shaxsni, korxonani yoki jamiyatni faoliyat ko’rsatishi va rivojlanishini ta’minlab turishga undovchi zaruriyat, iqtisodiy faoliyatga undaydigan ichki kuch tushuniladi.
+A)Iqtisodiy ehtiyoj
+B)Real ehtiyoj
+C)Iqtisodiy ne’mat
+D)Alternativ harajatlar
+ANSWER: A
+
+Q33: … - ushbu ehtiyojni qondirish uchun shaxsning daromadi yetarli bo’lishi taqozo qilinadi.
+A)Real ehtiyoj
+B)Iqtisodiy ehtiyoj
+C)Iqtisodiy ne’mat
+D)Iqtisodiy ne’mat
+ANSWER: A
+
+Q34: ...- bu ishlab chiqaruvchilar va sotuvchilar tomonidan berilgan narxlarda sotilishi mumkin bulgan tovarlar mikdori.
+A)Taklif
+B)Taklif qonuni
+C)Taklif chizig’i
+D)Talab chizig’i
+ANSWER: A
+
+Q35: ... - berilgan narxlarda haridorlar tomonidan sotib olinishi mumkin bulgan tovarlar mikdori.
+A)Talab
+B)Talab chizig’i
+C)Talab qonuni
+D)Shaxs talabi
+ANSWER: A
+
+Q36: ...- to’g’ridan-to’g’ri narx o’zgarishi bilan bogliq xolda taklifning o’zgarishi.
+A)Taklif qonuni
+B)Talab chizig’i
+C)Talab qonuni
+D)Shaxs talabi
+ANSWER: A
+
+Q37: ... - narxdan tashqari boshqa omillar o’zgarmaganda talab mikdori bilan narx o’rtasidagi teskari bog’liqlik.
+A)Talab qonuni
+B)Shaxs talabi
+C)Talab chizig’i
+D)Taklif chizig’i
+ANSWER: A
+
+Q38: ...- bitta iste’molchining tovarga bo’gan talabi.
+A)Shaxs talabi
+B)Talab chizig’i
+C)Taklif chizigi
+D)Talab qonuni
+ANSWER: A
+
+Q39: ...- tovar narxi bilan sotib olinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+A)Talab chizig’i
+B)Shaxs talabi
+C)Talab qonuni
+D)Taklif chizig’i
+ANSWER: A
+
+Q40: ...- tovar narxi bilan taklif kilinadigan ushbu tovar mikdori o’rtasidagi bog’liqlikni ifodalovchi egri chizik.
+A)Taklif chizig’i
+B)Talab chizig’i
+C)Shaxs talabi
+D)Talab qonuni
+ANSWER: A
+
+Q41: ...- talab bilan taklifni tenglashtiruvchi narx.
+A)Muvozanat narx
+B)Xarajatlar
+C)Elastiklik
+D)Umumiy naflik
+ANSWER: A
+
+Q42: ...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
+A)Funksiya
+B)Muvozanat narx
+C)Muvozanatlashgan baho deb
+D)Umumiy naflik
+ANSWER: A
+
+Q43: …- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
+A)Kesishgan talab elastikligi
+B)Naflik funksiyasi
+C)Umumiy naflik
+D)Chekli naflik
+ANSWER: A
+
+Q44: …- iste’mol qilingan ne’matlar dan olingan jami naflik.
+A)Umumiy naflik
+B)Chekli naflik
+C)kapital
+D)Elastiklik
+ANSWER: A
+
+Q45: …- oxirgi yoki navbatdagi birlik ne’matni iste’mol qilishdan olinadigan naflik.
+A)Chekli naflik
+B)Narx
+C)Kapital
+D)Umumiy naflik
+ANSWER: A
+
+Q46: …- tovar sifatiga bog’liq bulgan talab.
+A)Funksional talab
+B)Taklif
+C)Funksional Taklif
+D)Daromat
+ANSWER: A
+
+Q47: …- bir xil darajadagi naflik beruvchi ne’matlar mikdorlari kombinasiyalarini ifodalovchi egri chiziq.
+A)Befarklik chizig’i
+B)daromat chizig’i
+C)narx chizig’i
+D)kapital chizig’i
+ANSWER: A
+
+Q48: …- iste’molchining ma’lum vaqt oralig’ida oladigan barcha daromadlari yig’indisi.
+A)Byudjet
+B)Daromat
+C)Narx
+D)Kapital
+ANSWER: A
+
+Q49: Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat tomonidan hal etilsa, bunday iqtisodiyot
+A)Aralash
+B)Bozor
+C)Natural
+D)Ma’muriy
+ANSWER: A
+
+Q50: Birinchi yil fermer 120 gektarlik yeridan 2400 sentner bug’doy, ikkinchi yili esa u 150 gektar yeridan 2250 sentner bug’doy oldi. Shu ikki yil uchun o’rtacha hosildorlikni aniqlang.
+A)17.2 sentner
+B)18 sentner
+C)15.6 sentner
+D)19.4 sentner
+ANSWER: A
+
+Q51: Firmaning doimiy xarajatlari bu-
+A)Ishlab chiqarish hajmiga bog’liq bo’lmagan xarajatlar.
+B)Har qanday maxsulot ishlab chiqarish hajmida minimal miqdorda sarflanayotgan xarajatlardir
+C)Resurslar sotib olinayotganda ularga ketgan xarajatlardir.
+D)Ishchi xodimlarga to’lanadigan haqdir
+ANSWER: A
+
+Q52: Oligopoliya bu-
+A)Unchalik ko’p bo’lmagan raqobatlashuvchi firmalardir
+B)Bir xil turdagi maxsulotlarni ishlab chiqaruvchi kata hajmdagi raqobatlashuvchi firmalar yig’indisi
+C)Faqat bitta yirik firma
+D)Faqat bitta yirik xaridor
+ANSWER: A
+
+Q53: Monopol hokimiyatda narx monopolist tomonidan
+A)Talab elastikligini bilgani holda belgilanadi
+B)Raqobatchi firmalar ko’rsatmasiga ko’ra belgilanadi
+C)Bozor narxidan kelib chiqib belgilanadi
+D)Raqobatchi firmalar bilan kelishilgan holda belgilanadi
+ANSWER: A
+
+Q54: Quyidagilardan qaysi biri monopoliyaga olib kelmaydi?
+A)Tovar ishlab chiqarish va sotish bo’yicha bir qancha alternativ firmalarning mavjudligi
+B)Mualliflik huquqi
+C)Bitta resurs zaxirasi ustidan mutloq egalik qilish
+D)Lisenziya
+ANSWER: A
+
+Q55: Asosiy kapital sirasiga nimalar kiradi?
+A)Texnika va texnologiyalar
+B)Davlat obligatsiyalari
+C)Tashkilot kassasidagi qoldiq pullar
+D)Tashkilotlar hisobida mavjud bo’lgan pul mablag’lari
+ANSWER: A
+
+Q56: Har qanday iqtisodiy tizimda “nima” “qanday” va “kim uchun” degan fundamental savollar mikro va makro darajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiyot darajada hal etiladi?
+A)Nima va qancha ishlab chiqilishi kerak
+B)To’liq bandlik darajasiga qanday qilib erishiladi
+C)Infilatsiyadan qanday qutulish mumkin
+D)Iqtisodiy o’sishni qanday rag’batlantirish mumkin
+ANSWER: A
+
+Q57: Bozor talabiga quyidagi omillardan qaysi biri ta’sir etmaydi
+A)Istemolchilar soni
+B)Istemolchilar daromadi
+C)O’rnini to’ldiruvchi tovarlar narxi
+D)To’ldiruvchi tovarlar narxi
+ANSWER: A
+
+Q58: Agar bozor narxi muvozonat narxdan past bo’lsa
+A)Sotuvchilar kamayadi
+B)Defitsit paydo bo’ladi
+C)Ortiqcha taklif paydo bo’ladi
+D)Resurslar narxi kamayadi
+ANSWER: A
+
+Q59: Tovarning muvozonat narxi bu
+A)Ortiqcha talab ham, ortiqcha taklif ham bo’lmaydigan narx
+B)Ortiqcha talabni paydo qiladigan narxdan tuqori narx
+C)Ortiqcha taklifni paydo qiladigan narxdan yuqori narx
+D)Hamma javob to’g’ri
+ANSWER: A
+
+Q60: Texnologiyaning takomillashuvi nimaning siljishiga olib keladi
+A)Egri taklif chizig’ining yuqori va o’ngga
+B)Egri taklif chizig’ining chapga va pastga
+C)Egri talab chizig’ining yuqori va o’ngga
+D)Egri talab chizig’ining chapga va pastga
+ANSWER: A
+
+Q61: Qaysi ibora insonlarning biror bir tovarni sotib olish uchun imkoniyat va xoxish borligini anglatadi?
+A)Talab
+B)Ehtiyoj
+C)Zaruriyat
+D)Xoxish
+ANSWER: A
+
+Q62: Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan past bo’lsa, u holda
+A)Taqchillik yuzga keladi
+B)Tovar ortiqchaligi yuzaga keladi
+C)Ishsizlik ko’payadi
+D)Muvozonat holat ta’minlanadi
+ANSWER: A
+
+Q63: Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan yuqori bo’lsa, u holda
+A)Tovar ortiqchaligi yuzaga keladi
+B)Taqchillik yuzga keladi
+C)Ishsizlik ko’payadi
+D)Muvozonat holat ta’minlanadi
+ANSWER: A
+
+Q64: Agar Tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasida  bo’lsa, u holda
+A)Muvozonat holat ta’minlanadi
+B)Taqchillik yuzga keladi
+C)Ishsizlik ko’payadi
+D)Tovar ortiqchaligi yuzaga keladi
+ANSWER: A
+
+Q65: Tovar maxsuloti bahosining pasayishi sabablariga quyidagi omillardan qaysi biri ta’sir ko’rsatadi?
+A)Ishlab chiqarish resurslari narxining pasayishi
+B)Xususiy tadbirkorlik uchun soliqlarning ko’tarilganligi
+C)To’ldiruvchi tovarlar narxining arzonlashuvi
+D)Istemolchi daromadining ko’tarilganligi
+ANSWER: A
+
+Q66: Narx bo’yicha taklif mutloq elastic bo’lgani holda, ishlab chiqaruvchidan sotilgan har birlik maxsulot uchun belgilangan soliq olinsa, u holda
+A)Muvozonat narx ko’tariladi
+B)Muvozonat sotuv hajmi kamayadi
+C)Istemolchi ortiqchaligi kamayadi
+D)Sotuvchilar ortiqchaligi kamayadi
+ANSWER: A
+
+Q67: Talab birlik elastik deyiladi
+A)Agar absolyut elastiklik koofisenti 1 ga teng bo’lsa
+B)Agar absolyut elastiklik koofisenti 1 dan katta bo’lsa
+C)Agar absolyut elastiklik koofisenti 1 dan kichik bo’lsa
+D)Hamma javoblar to’g’ri
+ANSWER: A
+
+Q68: Talab elastik deyiladi
+A)Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
+B)Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
+C)Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
+D)Hamma javoblar to’g’ri
+ANSWER: A
+
+Q69: Talab noelastik deyiladi
+A)Agar absolyut elastiklik koefisenti 1 dan kichik bo’lsa
+B)Agar absolyut elastiklik koefisenti 1 dan katta bo’lsa
+C)Agar absolyut elastiklik koefisenti 1 ga teng bo’lsa
+D)Hamma javoblar to’g’ri
+ANSWER: A
+
+Q70: Noelastik bo’lgan tovarning narxi 7 dollardan 8 dollarga ko’tarilganda, daromad
+A)Ko’tariladi
+B)qisqaradi
+C)O’zgarishsiz qoladi
+D)Mutloq noelastik
+ANSWER: A
+
+Q71: Mikroiqtisodiyotda asosiy shaxs bo’lib kim hisoblanadi?
+A)Ishlab chiqaruvchi.
+B)Iste’molchi.
+C)Davlat
+D)Vositachi
+ANSWER: A
+
+Q72: Agar bahoning o’zgarishi natijasida sotib olingan tovarlar miqdori o’zgarmasa talab to’g’risida nima deyish mumkin?
+A)Elastik emas.
+B)To’liq qondirilgan
+C)Muvozanatda
+D)Elastik
+ANSWER: A
+
+Q73: Tadbirkorlarni tovar sifatini yaxshilash, narxini pasaytirish va raqobatdoshlardan o’zishga majbur qiluvchi kuch:
+A)Foyda olishga qiziqish
+B)Baholarning shakllanishini tuzish
+C)O’rin qoplash bahosi
+D)Harajatlarni aniqlash
+ANSWER: A
+
+Q74: Ishlab chiqarish xarajatlari deganda nimani tushunasiz?
+A)Ishlab chiqarish xarajatlari deganda resurslarni ushbu faoliyat yo’nalishida tutib qolish uchun amalga oshiriladigan barcha ichki va tashqi to’lovlar summasi tushuniladi
+B)Ishlab chiqarish xarajatlari – kapital tovarlarga sarflangan mablag’lardir
+C)Ishlab chiqarish harajatlari deganda firmaning ishlab chiqarish uchun kerakli xom ashyo va materiallarni yetkazib beruvchilaraga amalga oshiriladigan barcha to’lovlar tushuniladi
+D)Mahsulot tannarxiga kiritiladigan xarajatlar tushuniladi
+ANSWER: A
+
+Q75: Doimiy xarajatlar deganda nimani tushunasiz?
+A)Doimiy xarajatlar deganda kattaligi ishlab chiqarish hajmining o’zgarishiga bog’liq bo’lmagan xarajatlar tushuniladi.
+B)Doimiy xarajat deganda maxsulot tannarxiga to’g’ridan-to’g’ri kiritiladigan xarajatlar tushuniladi
+C)Doimiy xarajat deganda kattaligi ishlab chiqarish xarajatlariga proportsional o’zgaradigan xarajatlar tushuniladi
+D)Doimiy xarajatlar ish xaqi va material sarflardir
+ANSWER: A
+
+Q76: Resurslarning o’rinalmashtiruvchi turlari soni ko’paysa, resursga bo’lgan talab elastikligi qanday o’zgaradi?
+A)Resursga bo’lgan talab elastikligi ko’payadi
+B)Resursga bo’lgan talab elastikligi kamayadi.
+C)Resursga bo’lgan talab elastikligi o’zgarmaydi
+D)Resursning elastikligi oshadi
+ANSWER: A
+
+Q77: Quyidagilardan qaysi biri nazariy iqtisodiyot predmeti tahriflariga tegishli emas?
+A)Cheksiz ishlab chiqarish resurslari.
+B)Resurslardan samarali foydalanish
+C)Extiyojlarni maksimal qondirish
+D)Moddiy va ma’naviy ehtiyojlar
+ANSWER: A
+
+Q78: Quyidagi xolatlarning qaysi biri bozor iqtisodiyotiga xos emas?
+A)Markazlashtirilgan rejalashtirish
+B)Raqobat
+C)Xususiy mulkchilik
+D)Tadbirkorlik tanlovining erkinligi
+ANSWER: A
+
+Q79: Talabning baho bo’yicha elastikligi quyidagi holda yuqori bo’ladi:
+A)Birlamchi ehtiyoj tovarlariga
+B)Iste’molchi tovarni eng yuqori naflilik bilan ishlatsa
+C)Ishlab chiqarishning muqobil xarajatlariqancha ko’p bo’lsa
+D)Zeb-ziynat buyumlaridan ko’ra birinchi extiyoj tovarlariga
+ANSWER: A
+
+Q80: Naflilikni maksimallashtirish uchun iste’molchi:
+A)Sotib olinayotgan ohirgi birlik tovarlar chegaraviy nafliliklari tenglashtirishi kerak
+B)Faqat brend tovarlar sotib olishi kerak
+C)Barcha tovar narxlari umumiy nafliliklariga proportsional bo’lishiga amal qilishi kerak
+D)Sifatsiz tovarlarni sotib olmasligi kerak
+ANSWER: A
+
+Q81: Ish haqi stavkalarining oshishi bilan:
+A)Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi qisqaradi
+B)Agar mehnatga bo’lgan talab mutloq noyelastik bo’lsa, bandlik darajasi qisqaradi
+C)Agar mehnatga bo’lgan talab elastik bo’lsa, bandlik darajasi oshadi
+D)Agar mehnatga bo’lgan talab noyelastik bo’lsa, bandlik darajasi oshadi
+ANSWER: A
+
+Q82: Iqtisodiyotda ishlab chiqarish omillari unumdorligining pasayib borish qonuni amal qiladi. Ushbu sharoitda iqtisodiy o’sish qanday qilib tahminlanadi?
+A)Tobora ko’proq va ko’proq hajmda resurslar talab etiladi
+B)Qo’shimcha resurslarning o’sishi umumiy ishlab chiqarish hajmini oshirmaydi, balki kamaytiradi
+C)Resurlar miqdorini oshirish kerak, lekin qo’shimcha birlik resurs narxi oshib boradi
+D)Tobora kamroq miqdorda ishlab chiqarish omillari talab etiladi
+ANSWER: A
+
+Q83: Foydani maksimallashtirish kimning manfaatiga mos keladi?
+A)Xususiy firmalar
+B)Yer egalari
+C)Ishchilar
+D)Iste’molchilar
+ANSWER: A
+
+Q84: Agar tovarga bo’lgan talab va uning taklifi oshsa:
+A)Narxi turg’unligicha qoladi
+B)Tovarning umumiy hajmi oshadi
+C)Narxi oshadi
+D)Jamiyat turmush darajasi oshadi
+ANSWER: A
+
+Q85: Noyelastik talab shuni anglatadiki:
+A)Narxning 1% ga oshishi talab kattaligini 1% dan kamroq darajaga pasaytiradi
+B)Narxning 1% ga oshishi talab kattaligini 1% dan oshiqroq darajaga kamaytiradi
+C)Narxning istalgan o’zgarishi umumiy tushum kattaligini o’zgartirmaydi
+D)Narxning 1% ga o’sishi talab kattalagiga ta’hsir etmaydi
+ANSWER: A
+
+Q86: A tovarni v tovar bilan almashtirish normasi quyidagini anglatadi:
+A)Umumiy naflilikni o’zgarmagan holda iste’molchi qo’shimcha bir birlik v tovarni olish uchun a tovarning qancha birligidan voz kechish kerak
+B)Agar a va v tovarlar iste’molchili bir birlikka oshsa, ular chegaraviy nafliliklari qaysi darajada o’zgaradi
+C)Iste’molchi daromadi oshib, a tovar iste’moli bir birlikka o’zgarmasa, iste’molchi v tovardan qancha sotib oladi
+D)V tovar bahosi 1 dollarga kamayganda iste’molchi a tovardan qancha sotib oladi
+ANSWER: A
+
+Q87: Firma harajatlarining minimal darajasiga erishadi, qachonki:
+A)Ishlab chiqarish omillari chegaraviy mahsuloti ular narxiga teng bo’lsa
+B)Barcha ishlab chiqarish omillari chegaraviy mahsuloti bir xil bo’lsa
+C)Barcha ishlab chiqarish omillari narxi bir xil bo’lsa
+D)Ishlab chiqarish omillari chegaraviy mahsuloti 0 ga teng bo’lsa
+ANSWER: A
+
+Q88: Iqtisodiy nazariya:
+A)Barcha iqtisodiy tizimlarni o’rganishda qo’llaniladi
+B)Faqatgina ho’jalik yuritishning kapitalistik tizimini o’rganish uchun qo’llaniladi
+C)Sotsializmga xos bo’lgan iqtisodiy munosabatlarni o’rganishda qo’llab bo’lmaydi
+D)Faqat iqtisodiy fanlarni o’rganishda qo’llaniladi
+ANSWER: A
+
+Q89: Agar iqtisodiy muammolar qisman bozor, qisman davlat tomonidan hal qilinsa, iqtisodiyot:
+A)Aralash iqtisodiyot deb hisoblanadi
+B)Bozor
+C)Natural
+D)Buyruqbozlikka asoslangan
+ANSWER: A
+
+Q90: Yer, kapital, mehnat, ishlab chiqarish omillarining bazaviy guruhlanishidir. Kapital tarkibiga quyidagilarni kiritsa bo’ladi-mi?
+A)Kapital jumlasiga pul ham, aktsiya ham obligatsiya ham kirmaydi
+B)Faqat aktsiya va obligatsiya
+C)Pul va obligatsiyalar
+D)Pul, aktsiya va obligatsiya
+ANSWER: A
+
+Q91: Izokvanta quyidagini aks ettiradi:
+A)Ishlab chiqarish funktsiyasini
+B)Mahsulot umumiy hajmiy egri chizig’ini
+C)Berilgan resurslar hisobiga ishlab chiqariladigan mahsulotning turli hajmlarini
+D)O’rtacha mahsulot egri chizig’ini
+ANSWER: A
+
+Q92: Raqobatli firma foydani maksimallashtirish uchun qo’shimcha ishlovchilarni faqat quyidagi holda yollaydi:
+A)Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kata bo’lsa
+B)Pul ifodasidagi mehnatning chegaraviy mahsulotiish haqi stavkasidan kichik bo’lsa
+C)Pul ifodasidagi mahsulot kattaligi kamaysa
+D)Umumiy daromad umumiy xarajatdan kichik bo’lsa
+ANSWER: A
+
+Q93: Quyidagilarning qaysi biri ishlab chiqaruvchi iqtisodiy omilni anglatadi
+A)Ishlab chiqarish vositalari
+B)Pul kapitali
+C)Foiz
+D)Foyda
+ANSWER: A
+
+Q94: Tovarni bir bozorda arzonroq sotib olib, boshqa bozorda qimmatroq sotish quyidagini namoyon etmaydi:
+A)Yuqori narx mavjud bozorlarda talabni oshirish vositasini;
+B)Narx darajasi yuqori bo’lgan bozorda taklif hajmini oshirish vositasini;
+C)Konkret bozorlardagi narxlar orasidagi farqlarning sababini;
+D)Foyda olish maqsadida bajarilgan operatsiyani;
+ANSWER: A
+
+Q95: Erkin yoki takomillashgan bozor shartlari nimalardan iborat?
+A)Sotuvchilar, xaridorlar ko’pligi sabali baholarni nazorat qiluvchi organ yo’q
+B)Xaridorlar sotuvchlardan ko’p
+C)Sotuvchi xaridorlardan ko’p
+D)Xaridorlar sotuvchilarga teng.
+ANSWER: A
+
+Q96: Bozor iqtisodiyotida taklifning kamayishi quyidagini keltirib chiqaradi:
+A)Baholarning ko’tarilishini
+B)Soliqlarning ko’tarilishini
+C)Kapital qo’yilmalarning ortishini
+D)Talabning pasayishini
+ANSWER: A
+
+Q97: Ishlab chiqaruvchining ratsional harakati:
+A)Foyda miqdorini maksimallashtirishga intilish
+B)Ish haqini kamaytirishga intilish
+C)Kapital quyilmalarni oshirishga intilish
+D)Harajatlarni oshishiga qiziqish
+ANSWER: A
+
+Q98: Daromad samarasining moxiyati nimadan iborat?
+A)Daromad samarasi baholarning pasayishi natijasida iste’molchida avvalgi daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishini anglatadi
+B)Daromad samarasi deganda baholarning ko’tarilishi natijasida iste’molchilarning o’zgarmas daromadlari hisobiga avvalgidan ko’proq mahsulot sotish olib imkoniyatlarini tushuniladi
+C)Daromad samarasi deganda baholarning o’zgarmay qolishi iste’molchilar o’zgarmas daromad hisobiga ko’proq mahsulot sotib olish imkoniyati tug’ilishi tushuniladi
+D)Ko’proq daromad oldi degani
+ANSWER: A
+
+Q99: Ishlab chiqarish omillarining barcha mavjud bo’lishi mumkin to’plamlari variantlari vai shlab chiqarilgan mahsulot hajmi orasidagi bog’lanish.
+A)Ishlab chiqarish funktsiyasi
+B)Mahsulotning umumiy ishlab chiqarish hajmi egri chizig’i
+C)Ishlab chiqarish imkoniyatlari egri chizig’i
+D)Umumiy xarajatlar egri chizig’I yordamida ifodalanadi
+ANSWER: A
+
+Q100: Chegaraviy mehnat unumdorligi deganda nimani tushunasiz?
+A)Chegaraviy mehnat unumdorilgi deganda boshqa omillar o’zgarmagan holda qo’shimcha bir birlik mexnatdan foydalanish hisobiga ishlab chiqariladigan qo’shimcha maxsulot hajmi tushuniladi.
+B)Chegaraviy mehnat unumdorligi deganda vaqt birligi ichida ishlab chiqarilgan maxsulot tushuniladi
+C)Chegaraviy mehnat unumdorligi deganda birishchiga to’g’ri keladigan yillik maxsulot hajmi tushuniladi.
+D)Qo’shimcha ishichi kuchi yollash degani
+ANSWER: A
+
+Q101: Bozor iqtisodiyoti sharoitida «qanday qilib ishlab chiqarish» muammosi quyidagicha hal etiladi?
+A)Ishlab chiqaruvchilarning foyda olishga, demakki, ishlab chiqarish xarajatlarinni kamaytirishga bo’lgan intilishlari orqali
+B)Yakuniy mahsulot narxlarida o’z aksini topuvchi iste’molchilar talabining hajmi o’zgarishi orqali.
+C)Iqtisodiyotda ishlab chiqarish vositalaridan keng foydalanish orqali.
+D)Ishlab chiqarishning texnologik uslublaridan keng qo’llaniladigan ixtisoslashuv asosida.
+ANSWER: A
+
+Q102: Talab qonuni quyidagini bildiradi:
+A)Tovar narxi tushsa, uni sotib olish hajmi oshadi
+B)Agar iste’molchilar daromadi oshsa, ular odatda ko’proq tovarlar sotib oladi.
+C)Talab egri chizig’I odatda ijobiy og’ishga ega.
+D)Taklifning talabdan ortiqchaligi narxning pasayishini keltirib chiqaradi
+ANSWER: A
+
+Q103: Qisqa muddatli davrda foydani maksimallashtiruvchi firma ishlab chiqarishni to’xtatadi:
+A)Umumiy daromad umumiy o’zgaruvchan xarajatdan kichik bo’lsa
+B)Normal foyda o’rtacha tarmoqdagidan kichik bo’lsa
+C)Umumiy daromad umumiy xarajatdan kichik bo’lsa
+D)Baho minimal o’rtacha xarajatdan kichik bo’lsa
+ANSWER: A
+
+Q104: Ishlab chiqarish omilining pul ifodasidagi chegaraviy mahsulot-bu:
+A)Qo’shimcha birlik ishlab chiqarish omili evaziga ishlab chiqariladigan qo’shimcha mahsulotlardan olinadigan tushumdir
+B)Mahsulot oxirgi birligining sotish narxidir
+C)Mukammal bozor sharoitida aniqlash mumkin emas
+D)Qo’shimcha birlik ishlab chiqarish omili hisobiga mahsulot ishlab chiqarish omilining hajmi o’zgarishi
+ANSWER: A
+
+Q105: Mehnatga haq to’lashning chegaraviy xarajatlari:
+A)Bir qo’shimcha ishchini yollash bilan mehnat umumiy xarajatlarining o’sishi
+B)Ishlab chiqarilayotgan mahsulot, soni bir donaga oshishi bilan doimiy xarajatlarning o’sishi
+C)Monopolist uchun mutloq noyelastik
+D)Ishlab chiqarilayotgan mahsulot soni bir donaga oshishish bilan o’zgaruvchan xarajatning o’sishi
+ANSWER: A
+
+Q106: Holatlarning qaysi biri mahsulotga bo’lgan talabning kamayishi oqibati emas?
+A)Ushbu tarmoqda ishlatiladigan resurlar narxining oshishi
+B)Mahsulot taklifining kamayishi
+C)Tarmoqda ishlab chiqarish hajmining kamayishi
+D)Ushbu mahsulot ishlab chiqaruvchi tarmoqda foydaning kamayishi
+ANSWER: A
+
+Q107: X tovar bo’lgan talab egri chizig’ining siljishini nima bilan tushuntirish mumkin?
+A)Iste’molchilar didi x tovarga qiziqish uyg’otdi va ular tovarning xar qanday narxida undan ko’proq sotib ola boshladilar
+B)X tovar narxi oshdi va iste’molchitlar undan kamroq sotib olishga majbur bo’ldilar
+C)X tovar taklifi bahzi sabablarga ko’ra kamaygan
+D)X tovar narxi tushdi va iste’molchilar undan ko’proq sotib ola boshladilar
+ANSWER: A
+
+Q108: Tovar taklifining kamayishi quyidagini keltirib chiqaradi:
+A)O’zaro o’rin almashtiruvchi tovarlarga bo’lgan talab oshadi
+B)Agar talab baho bo’yicha elastik bo’lsa, sotuvchining umumiy tushumi oshadi
+C)Agar talab daromad bo’yicha elastik bo’lmasa, sotuvchining umumiy tushumi oshadi
+D)O’zaro to’ldiruvchi tovarga talab oshadi
+ANSWER: A
+
+Q109: Quyidagi xulosalarning biri noto’g’ri. Uni toping.
+A)Befarqlik egri chizig’idagi har bir nuqta pul daromadining bir xil darajasini bildiradi
+B)Befarqlik egri chiziqdagi har bir nuqta 2 tovarning turli kombinatsiyalarini anglatadi
+C)Befarqlik egri chizig’idagi har bir nuqta extiyojlarini kondirishning bir xil darajasini bildiradi
+D)Daromad chizig’idagi har bir nuqta pul daromadning bir xil darajasini bildiradi
+ANSWER: A
+
+Q110: Agar iste’molchi byudjet chizig’i bilan chegaralangan sohada yotuvchi tovarlar to’plamini tanlasa, u
+A)O’z daromadini to’liq sarflamaydi
+B)O’z daromad imkoniyatidan ko’proq tovarloarni sotib olishni hohlaydi
+C)Naflilikni maksimallashtiradi
+D)Iste’molchi muvozanat xolatida bo’ladi
+ANSWER: A
+
+Q111: Resursga bo’lgan talab quyidagiga bog’liq:
+A)Yuqoridagi javoblarning barchasi to’g’ri
+B)Resursning o’rin bosuvchisiga bo’lgan narxga
+C)O’rin to’ldiruvchi resurslar narxiga
+D)Ushbu resurs yordamida ishlab chiqariladigan mahsulotga bo’lgan talabga
+ANSWER: A
+
+Q112: Agariqtisodiy umumlashtirishlar (printsiplar va qonunlar) faktlarga asoslansa, tahlilning bu usuli….
+A)Induktiv
+B)Gipotetik
+C)Deduktiv
+D)Tajrifiy
+ANSWER: A
+
+Q113: «Nima, qanday va kim uchun ishlab chiqarish kerak?» muammosi taalluqli bo’ladi
+A)Ijtimoiy-iqtisodiy va siyosiy tashkil etilishdan qathiy nazar barcha jamiyatga
+B)Faqat bozor iqtisodiyotiga
+C)Faqat qoloq iqtisodiyotga
+D)Totalitar tizimga
+ANSWER: A
+
+Q114: Raqobatli bozor mexanizmi shunday usulki, u orqali:
+A)Qarorlar muvofiqlashtiriladi, mutanosiblashtiriladi
+B)Qarorlar mutanosibligi tahminlanadi
+C)Iste’molchilar, ishlab chiqaruvchilar va ishlab chiqarish omillari egalari qarorlari muvofiqlashtiriladi
+D)Qarorlar muvofiqlashtirilmaydi, mutanosiblashtirilmaydi
+ANSWER: A
+
+Q115: Aralash iqtisodiyotda davlatning roli:
+A)Cheklangan
+B)Hech qanday holda namoyon bo’lmaydi
+C)Ancha salmoqli
+D)Ho’jalikning ko’p sohalarida namoyon bo’ladi
+ANSWER: A
+
+Q116: Taklif qonuni shuni bildiradiki, agar narxlar pasaysa:
+A)Taklif hajmi kamayadi
+B)Taklif kamayadi
+C)Taklif oshadi
+D)Taklif hajmi oshadi
+ANSWER: A
+
+Q117: Agar tovarning istalgan miqdori bir xil narxda sotilsa, ushbu tovarlarga bo’lgan talab:
+A)Mutloq noelastik
+B)Elastik
+C)Birlik elastiklikda
+D)Noelastik
+ANSWER: A
+
+Q118: Iste’molchi xatti-xarakati nazariyasi shuni taqozo etadiki, iste’molchi quyidagi kattalikni maksimallashtirishga xarakat qiladi:
+A)Umumiy naflilikni
+B)Umumiy va chegaraviy naflilik orasidagi farqni
+C)O’rtacha naflilikni
+D)Chegaraviy naflilikni
+ANSWER: A
+
+Q119: Iqtisodiy harajatlar o’z ichiga quyidagilarni oladi:
+A)Barcha ochiq va yashirin xarajatlar va normal foyda
+B)Ochiq xarajatlarni olib, yashirinlarini olmaydi
+C)Yashirin xarajatlarini olib, ochiq xarajatlarini olmaydi
+D)O’z ichiga ochiq xarajatlarni ham yashirin xarajatlarni ham olmaydi
+ANSWER: A
+
+Q120: Talab va taklifdan narxning quyidagi bozorlardagi muvofiqlashtiruvchi o’rnini tushuntirish uchun foydalanish mumkin:
+A)Istalgan bozordagi
+B)Resurslar bozoridagi
+C)Moliyaviy bozoridagi
+D)Tovar bozoridagi
+ANSWER: A
+
+Q121: Erkin tadbirkorlik tizimida baholarni nima bilan belgilanadi?
+A)Talab va taklifni o’zaro ta’siri bilan
+B)Davlat tomonidan
+C)Talabning muvozanat bahosiga ta’siri bilan.
+D)Xarajat bilan
+ANSWER: A
+
+Q122: Bozorda baholarning pasayishini keltirib chiqaradigan asosiy sabab:
+A)Talab o’zgarmagan holda taklifning oshishi
+B)Taklif o’zgarmagan holda talabning oshishi
+C)Talab va taklifning oshishi
+D)Mahsulot sifatining oshishi
+ANSWER: A
+
+Q123: Iste’molchining ratsional harakati:
+====
+#Foydallikni maksimallashtirishga intilish
+A)Naflilikni minimallashtirish intilish
+B)Xarajatlarni kamaytirishga intilish
+C)Foydani kamaytirish istagi
+ANSWER: A
+
+Q124: Taklif qonuni shuni bildiradiki, agar narxlar oshsa:
+A)Taklif hajmi oshadi
+B)Taklif kamayadi
+C)Taklif oshadi
+D)Taklif hajmi kamayadi
+ANSWER: A
+
+Q125: Barcha iqtisodiy tizimlar duch keladigan fundamental muammo:
+A)Tanqislik
+B)Ishlab chiqarish
+C)Iste’mol
+D)Investittsiyalar
+ANSWER: A
+
+Q126: Agar bozor narxi muvozanati narxidan past bo’lsa:
+A)Tovar tanqisligi vujudga keladi
+B)Tovar ortiqchaligi vujudga keladi.
+C)Xaridor bozori shakllanadi
+D)Resurslar narxi tushadi
+ANSWER: A
+
+Q127: Talabning baho bo’yicha elastikligi quyidagiga teng:
+A)Talab hajmining o’zgarishini-ng (%da) narxning o’zgarishi- (%da)ga bo’linmasiga
+B)Umumiy tushum o’zgarishining (%da) talab hajmini oshishi (%da) bo’linmasiga
+C)Umumiy tushum kamayishining (%da) baho oshishi (%da) bo’linmasiga
+D)Talab hajmining oshishiga bo’lgan narxning kamayishiga.
+ANSWER: A
+
+Q128: Chegaraviy naflilikning kamayishi qonuni quyidagini anglatadi:
+A)Xar bir qo’shimcha sotib olingan tovarning foydaliligi tovarlar sonining oshirish bilan kamayib boradi
+B)Zeb-ziynat buyumlari chegaraviy foydaliligining ular bahosiga nisbati birinchi extiyoj tavarlarnikidan kichikdir
+C)Chegariviy   naflilikning mahsulot bahosiga nisbati barcha tovarlar uchun bir xildir
+D)Sotib olingan tovarlarning foydaliligi iste’molchi daromad olgan sari kamayib boradi
+ANSWER: A
+
+Q129: Firmaning doimiy xarajatlari deganda:
+A)Mahsulot ishlab chiqarilmagan taqdirda ham firmada mavjud bo’ladigan xarajatlar
+B)Ishlab chiqarishning eng qulay sharoitdagi ishlab chiqarilgan mahsulotning istalgan hajmiga sarflangan minimal xarajatlar
+C)Resurslarning ular olingan vatqdagi narxlardagi xarajatlari tushuniladi
+D)Yashirin xarajatlar
+ANSWER: A
+
+Q130: Raqobatdagi firma har bir resursning chegaraviy mahsuloti uning narxiga teng bo’lgan mahsulot hajmiga erishsa, u:
+A)Minimum harajatlar hisobiga maksimum foyda oladi
+B)Maksimal foyda oladi, mahsulot ishlab chiqarish harajdatlari minimal bo’lishi ham bo’lmasligi ham mumkin
+C)Maksimum foyda olishi shart emas, yoki minimum harajatga erishadi
+D)Maksimum foyda oladi va zararni qoplaydi
+ANSWER: A
+
+Q131: Quyidagi muammolarning qaysi biri mikrodarajada xal etiladi?
+A)Nima va qancha ishlab chiqarish kerak?
+B)To’la bandlikka qanday erishish mumkin?
+C)Inflyatsiyadan qanday qutilish mumkin?
+D)Iqtisodiy o’sishni qanday rag’balantirish mumkin?
+ANSWER: A
+
+Q132: Agar talab kamaysa, talab egri chizig’i quyidagicha siljiydi:
+A)Pastga va chapga
+B)Soat strelkasi xarakati bo’ylab
+C)Yuqoriga va o’ngga
+D)Soat strelkasiga teskari yo’nalishda
+ANSWER: A
+
+Q133: … iste’molchi tomonidan tovarga to’lashi mumkin bulgan maksimal narx bilan tovarning haqiqiy narxi o’rtasi-dagi farkni bildiradi.
+A)Iste’molchi ortikchaligi
+B)Iste’molchi kamligi
+C)Bozor muvozanati
+D)Tovar taqchilligi
+ANSWER: A
+
+Q134: … ishlab chiqaruvchi tomoni-dan olingan umumiy manfaat-ni bildiradi.
+A)Ishlab chiqaruvchi ortikchaligi
+B)Ishlab chiqaruvchi kamligi
+C)To’yinmagan bozor
+D)To’yinmagan bozor
+ANSWER: A
+
+Q135: Davlatning bozor narxiga ta’sir qilish siyosatidan biri bu ...
+A)Ishlab chiqarishni cheklash
+B)Ishlab chiqarishni ko’paytirish
+C)Dotatsion narxlarni qo’llash
+D)Narxlarni tushirish
+ANSWER: A
+
+Q136: Tarmoqda faoliyat ko’rsatayotgan firmalarning kamligi …  bozor xususiyati.
+A)Oligopolik
+B)Monopsonik
+C)Erkli
+D)Monopol
+ANSWER: A
+
+Q137: Tarmoqka kiruvchi firmalar uchun kuchli to’siklarning mavjudligi qaysi bozor xususiyati.
+A)Oligopolik
+B)Raqobatlashgan
+C)Monopol
+D)Erkli
+ANSWER: A
+
+Q138: Oligopolik firmalar ko’proq narxlarni barqaror bo’lishini, yoki narx qattiq o’rnatilgan bo’lsa, uni o’zgartirmaslikka harakat qilishlari bu...
+A)Qattiq narx siyosati
+B)Narxlar jangi
+C)Bozor talabi
+D)Bozor holati
+ANSWER: A
+
+Q139: ... yordamida davlatning iqtisodiy siyosatini baholash mumkin.
+A)Iste’molchi va ishlab chiqaruvchi ortikchaligi
+B)Davlat g’aznasi
+C)Bozorlar holati
+D)Iqtisodiy o’sish
+ANSWER: A
+
+Q140: Qanday bozorda iste`molchilar-ning ehtiyojlari maksimal darajada qondiriladi.
+A)Raqobatlashgan bozorda
+B)Monopol bozorda
+C)Oligapol bozorda
+D)Barchasida
+ANSWER: A
+
+Q141: … bu raqobatlashgan bozorda kerakli resurs uchun firma to’lashi mumkin bo’lgan narx bilan ushbu resursning minimal narxi o’rtasidagi farq.
+A)Iqtisodiy renta
+B)Diffirensial renta
+C)Abstrakt renta
+D)Barcha javob hato
+ANSWER: A
+
+Q142: Bozor qaysi holatda samarali faoliyat ko’rsatadi.
+A)Erkin holatida
+B)Monopol holatida
+C)Oligapol holatida
+D)Barcha holatlarda
+ANSWER: A
+
+Q143: ...- bitta iste’molchining tovarga bo’gan talabi.
+A)Individual talabi
+B)Talab chizigi
+C)Taklif chizigi
+D)Talab konuni
+ANSWER: A
+
+Q144: ...- tovar narxi bilan sotib olinadigan ushbu tovar miwdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+A)Talab chizig’i
+B)Individual talabi
+C)Talab qonuni
+D)Taklif chizig’i
+ANSWER: A
+
+Q145: ...- tovar narxi bilan taklif qilinadigan ushbu tovar miqdori o’rtasidagi bog’liqlikni ifodalovchi egri chiziq.
+A)Taklif chizigi
+B)Talab chizigi
+C)Shaxs talabi
+D)Talab konuni
+ANSWER: A
+
+Q146: ...- talab bilan taklifni tenglashtiruvchi narx.
+A)Muvozanat narx
+B)Xarajatlar
+C)Elastiklik
+D)Umumiy naflik
+ANSWER: A
+
+Q147: ...- bu matematik tushuncha bulib, bog’liq o’zgaruvchi bilan erkin o’zgaruvchilar  o’rtasidagi miqdoriy bog’liqlikni ifodalaydi.
+A)Funksiya
+B)Muvozanat narx
+C)Muvozanatlashgan baho deb
+D)Umumiy naflik
+ANSWER: A
+
+Q148: ....- talab hajmi taklif hajmiga mos kelgandagi baho tushuniladi.
+A)Muvozanatlashgan baho deb
+B)Umumiy naflik
+C)Elastiklik
+D)Befarqlik chizig’i
+ANSWER: A
+
+Q149: …- talab va taklifga ta’sir qiluvchi omillarning bir foizga o’zgarishi natijasida talab va taklif xajmining necha foizga o’zgarishini aniqlaydigan koeffisiyenga aytiladi.
+A)Elastiklik
+B)Muvozanatlashgan baho deb
+C)Befarklik chizigi
+D)Funksiya
+ANSWER: A
+
+Q150: … - iste’mol qilishda bir-birini o’rnini bosuvchi tovarlar yoki bir xil extiyojni kondiruvchi tovarlar.
+A)O’rindosh tovarlar
+B)To’ldiruvchi tovarlar
+C)Byudjet
+D)Kopital
+ANSWER: A
+
+Q151: … - birgalikda, komplekt tarzida iste’mol kilinadigan tovarlar.
+A)Tuldiruvchi tovarlar
+B)O’rindosh tovarlar
+C)Kapital
+D)Byudjet
+ANSWER: A
+
+Q152: …- Bitta tovarga bulgan talabga boshka bir tovarning narxi ta’sir ko’rsatadi.
+A)Kesishgan talab elastikligi
+B)Naflik funksiyasi
+C)Umumiy naflik
+D)Chekli naflik
+ANSWER: A
+
+Q153: …- bir xil hajmda mahsulot ishlab chiqarishni ta’minlovchi omillar sarflari kombinasiyalarini ifodalovchi egri chiziq.
+A)Izokvanta
+B)Daromad
+C)Taklif
+D)To’g’ri javob yo’q
+ANSWER: A
+
+Q154: Ishlab chiqarish funksiyasi nimani ifodalaydi?
+====
+#Resurslar miqdori bilan ishlab chiqarilgan mahsulot hajmi o‘rtasidagi munosabatni
+====
+Ishlab chiqaruvchining foydasini
+A)Ishlab chiqarish xarajatlarini
+====
+Mahsulot qiymatini
+ANSWER: A
