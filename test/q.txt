@@ -1,988 +1,1637 @@
-# QUIZ: Iqtisodiy siyosat
+# QUIZ: statistika
 
-Q1: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
-B)Davlatning foydani maksimumlashtirishga qaratilgan faoliyati.
-C)Iste'molchilarning iste'molini maksimumlashtirishga qaratilgan harakatlari.
-D)Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
+Q1: "Statistika" atamasi nimani anglatadi?
+A)holat, narsalarning holati.
+B)uy boshqaruvi
+C)sifat ko'rinishlarining xilma-xilligi
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q2: Uy xoʻjaligining asosiy maqsadi nimadan iborat?
-A)Oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etish.
-B)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
-C)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash.
-D)Raqobatbardoshlikni oshirish va yangi bozorlarga kirish.
+Q2: Statistik ko'rsatkich:
+A)miqdoriy baholash.
+B)daraja
+C)nisbiy ball
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q3: Davlatning iqtisodiy siyosatdagi asosiy maqsadi qanday?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
-B)Faqatgina firmaning foydasini oshirish.
-C)Xususiy mulkchilikning butunlay bekor qilinishi.
-D)Bozor mexanizmlariga toʻliq aralashmaslik.
+Q3: Statistik agregat quyidagicha:
+A)ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
+B)Nazariy fan
+C)o'rganilayotgan hodisaning birliklari
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q4: Iqtisodiy siyosatning qanday darajalari mavjud?
-A)Mikro, makro va meta (xalqaro) darajalar
-B)Faqat mikro va makro darajalar
-C)Faqat milliy va mintaqaviy darajalar
-D)Hududiy va tarmoq darajalar
+Q4: Statistik ma'lumotlar quyidagilardan iborat:
+A)statistik ma'lumotlar.
+B)kuzatuv
+C)statistik tadqiqot
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q5: Erkin iqtisodiyotning asosiy xususiyatlaridan biri nima?
-A)Tadbirkorlik va tanlash erkinligi
-B)Davlatning iqtisodiyotga cheklanmagan aralashuvi
-C)Firmalarning monopolistik sharoitda faoliyat yuritishi
-D)Narxlar va resurslar bahosining davlat tomonidan qat'iy belgilanishi
+Q5: Statistik kuzatish quyidagi talablarga javob berishi kerak:
+A)ishonchlilik, samaradorlik va ommaviy jozibadorlik
+B)maxfiylik.
+C)Yolg'on
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q6: Pul massasining oʻsishi qat'iy chegaralanadigan monetar siyosat turi qanday nomlanadi?
-A)Qattiq siyosat
-B)Yumshoq siyosat
-C)Fiskal siyosat
-D)Aralash siyosat
+Q6: kuzatish sodir bo'ladi:
+A)uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
+B)bir marta
+C)idoraviy
+D)hammasi noto'g'ri
+++++
+Asosiy massiv usuli quyidagilardan iborat:
+E)o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
+F)xarakteristikasi tanlangan aholining bir qismi uchun berilgan
+undefined)ixtiyoriy to'ldirish tamoyiliga asoslangan
+undefined)hammasi noto'g'ri
+ANSWER: E
+
+Q7: Kuzatuvdan maqsad nima?
+A)statistik tadqiqotlar natijasi.
+B)ob'ekt ta'rifi
+C)maqsadlarni shakllantirish
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q8: statistik shakl:
+A)statistik ma'lumotlar
+B)matematik tadqiqotlar
+C)muayyan shakllarning shakllari
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q9: xatolar yuzaga keladi:
+A)kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
+B)hisoblash tufayli
+C)buzilishi tufayli
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q10: Vakillik xatolari quyidagilardan iborat :
+A)vakillikdagi xatolar
+B)hisobotlardagi buzilishlar
+C)tasodifiy xatolar
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q11: Tizimli xatolar mavjud:
+A)qasddan, qasddan .
+B)tasodifiy
+C)maxsus
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q12: Mantiqiy nazorat quyidagilardan iborat:
+A)javoblarni mantiqiy nuqtai nazardan tekshirish.
+B)arifmetik hisoblash
+C)doimiy ma'lumotlarni namuna olish
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q13: Monografik tadqiqot nima?
+A)agregat birliklarni batafsil, chuqur o'rganish
+B)aholining bir qismi uchun
+C)ro'yxatga olish o'lchov bilan amalga oshiriladi
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q14: Anketa nima?
+A)kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
+B)respondentlarning o'zlari tomonidan to'ldiriladi
+C)kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q15: Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
+A)yaqin aloqa va o'zaro bog'liqlik
+B)Yo'q
+C)kamdan-kam hollarda
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q16: statistik ma'lumotlar:
+A)ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
+B)uslubiy asos
+C)ma'lumotlar yig'ish
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q17: Ilgari statistik ma'lumotlarning nomi nima edi?
+A)siyosiy arifmetika
+B)Statistika
+C)Kompyuter fanlari
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q18: Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
+A)asrlik tarixga ega
+B)ha, zamonaviy
+C)u har doim u erda edi
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q19: Bir hil bo'linish sodir bo'lgan guruhlash
+agregatlarni guruhlarga ajratish deyiladi:
+A)tipologik guruhlash
+B)tarkibiy guruhlash
+C)analitik guruh
+D)birlashtirilgan
+ANSWER: A
+
+Q20: Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
+A)oddiy va murakkab uchun.
+B)markazlashmagan
+C)mexanizatsiyalashgan
+D)avtomatlashtirilgan
+++++
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+E)ham sifat, ham miqdoriy xarakteristikalar;
+F)sifat belgisi
+undefined)miqdoriy xususiyat
+undefined)Atributiv
+ANSWER: E
+
+Q21: Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+A)oddiy.
+B)Roʻyxatga kiritilgan
+C)Kombinativ
+D)Xronologik
+++++
+O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
+i davr uchun taqqoslash uchun quyidagilar zarur:
+E)joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
+F)i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
+undefined)i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
+undefined)i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
+ANSWER: E
+
+Q22: Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
+A)ishlab chiqarish hajmining o'sishi.
+B)ishlab chiqarish hajmining pasayishi
+C)javob berish mumkin emas
+D)Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
+ANSWER: A
+
+Q23: Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
+o'zingiz:
+A)tarozi yo'qligida.
+B)agar og'irliklar teng bo'lsa
+C)og'irliklarning yo'qligi yoki tengligi
+D)javob berish mumkin emasmi?
+ANSWER: A
+
+Q24: Garmonik o'rtacha qanday hollarda qo'llaniladi:
+A)nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
+B)hisoblagich noma'lum bo'lganda
+C)maxraj noma'lum bo'lganda
+D)javob berish mumkin emas
+ANSWER: A
+
+Q25: Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
+ba'zi doimiy qiymat:
+A)O'zgartirish
+B)O'zgarmaydi
+C)Kamayadi
+D)oshadimi?
+ANSWER: A
+
+Q26: Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
+A)arifmetik o'rtacha og'irlik
+B)vaznli geometrik o'rtacha
+C)Moda
+D)Median
+ANSWER: A
+
+Q27: Statistikada median xarakteristikaning qiymati hisoblanadi
+A)to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
+B)aholining 25 foizini ajratib turadi
+C)eng keng tarqalgan
+D)eng yuqori qadriyatlar bilan
+ANSWER: A
+
+Q28: Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
+A)ma'lum bir davr uchun o'rtacha stavkalar
+B)kvadratik funksiyalar ko'rinishidagi o'rtachalar
+C)teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
+D)individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
+ANSWER: A
+
+Q29: Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
+A)individual qiymatlar teskari funktsiya sifatida ifodalanadi
+B)individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
+C)individual qiymatlar turli chastotalarga ega
+D)individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
+ANSWER: A
+
+Q30: Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
+A)o'rganilayotgan jarayonning muhitda tarqalish darajasi
+B)bir xil mutlaq ko'rsatkichlarning nisbati
+C)o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
+D)joriy va asosiy ko'rsatkichlar nisbati
+ANSWER: A
+
+Q31: Variant - bu ...
+A)vaqt davomida ommaviy hodisalarning o'zgarishi
+B)statistik aholi tarkibining o'zgarishi
+C)xarakterli qiymatlarning o'zgarishi
+D)aholi tarkibining o'zgarishi
+ANSWER: A
+
+Q32: O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
+A)xususiyatning o'zgaruvchanlik diapazoni
+B)xususiyatning o'zgaruvchanlik darajasi
+C)xususiyatlar o'rtasidagi yaqin aloqa
+D)belgining o'zgaruvchanlik chegaralari ?
+ANSWER: A
+
+Q33: Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
+A)O'zgarmaydi
+B)16 barobar ortadi
+C)256 barobar ortadi
+D)4 barobar ortadi
+ANSWER: A
+
+Q34: Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
+Guruhlardagi variantlar:
+A)birlik
+B)nol
+C)Noldan birgacha o'zgaradi
+D)umumiy farq?
+ANSWER: A
+
+Q35: Ijtimoiy statistika nima qiladi?
+A)Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
+B)Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
+C)Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
+D)Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
+ANSWER: A
+
+Q36: Ijtimoiy statistikaning tadqiqot ob'ektlari ...
+A)individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
+B)iqtisodiy hodisalarning miqdoriy xarakteristikalari
+C)maxsus ma'lumot ma'lumotlari
+D)odamlarning xatti-harakati
+ANSWER: A
+
+Q37: Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
+A)aholi statistikasi, aholi statistikasi va
+demografik statistika
+B)moliyaviy statistika, ta'lim darajasi statistikasi
+C)uy-joy sharoitlari statistikasi
+D)tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
+ANSWER: A
+
+Q38: Bo'sh vaqt statistikasi
+A)statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
+B)ta'minot tomondan dam olish xizmatlarining xususiyatlari
+C)odamlarni o'rganadigan statistika bo'limi
+D)ijtimoiy guruhlarning raqamli ma'lumotlari
+ANSWER: A
+
+Q39: Turmush darajasi bo'yicha statistika nimani o'rganadi?
+A)inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
+B)insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
+C)insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
+D)turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
+ANSWER: A
+
+Q40: Aholining turmush darajasi qanday?
+A)Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
+B)Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
+C)Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
+D)Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
+ANSWER: A
+
+Q41: Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
+A)Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
+B)Takroriylik, izchillik va o'zgarishlar tartibi.
+C)Maxsus predmet va o'rganish ob'ektlariga ega.
+D)Ma'lumotlar savollarga javoblar shaklida yig'iladi.
+ANSWER: A
+
+Q42: Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
+A)inson rivojlanishi uchun asosiy imkoniyatlar.
+B)integral ko'rsatkichlar
+C)turmush darajasi ko'rsatkichlari
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q43: Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
+A)aholi daromadlari va xarajatlari nisbati
+B)jon boshiga o'rtacha daromadning yashash minimumiga nisbati
+C)ixtiyoriy daromadning shartli bo'sh qismi miqdori
+D)aholining qashshoqlik darajasi
+ANSWER: A
+
+Q44: YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
+A)Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
+B)Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
+C)Milton Fridman, amerikalik iqtisodchi, 1947 yil
+D)Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
+ANSWER: A
+
+Q45: Iqtisodiyot va statistikada YaIM nima?
+A)Yalpi ichki mahsulot
+B)Yalpi tashqi mahsulot
+C)Mahalliy valyuta tovari
+D)Tashqi valyuta ishlab chiqarish
+ANSWER: A
+
+Q46: Statistik kuzatish ob'ekti hisoblanadi
+A)statistik aholi
+B)kuzatish birligi
+C)aholi birligi
+D)hisobot birligi
+++++
+Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
+E)hisobot birligi
+F)kuzatish birligi
+undefined)aholi birligi
+undefined)to'g'ri javob yo'q
+ANSWER: E
+
+Q47: Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
+A)kuzatish dasturi
+B)statistik shakl
+C)kuzatuv vositalari
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q48: Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
+A)kuzatish xatosi
+B)ro'yxatga olish xatosi
+C)vakillik xatosi
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q49: Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
+A)Tipologik
+B)Analitik
+C)Strukturaviy
+D)Ko'p o'lchovli
+ANSWER: A
+
+Q50: Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
+A)Tipologik
+B)Strukturaviy
+C)Analitik
+D)murakkab
+ANSWER: A
+
+Q51: Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
+A)oila a'zolari soni
+B)ishchilarning ish haqi
+C)mamlakat aholisi
+D)bank foydasi.
+ANSWER: A
+
+Q52: Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
+A)odamning jinsi;
+B)korxona foydasi;
+C)ish darajasi;
+D)poyabzal o'lchami.
+ANSWER: A
+
+Q53: Guruhlashning asosi quyidagilar bo'lishi mumkin:
+A)ham miqdoriy belgi, ham sifat belgisi.
+B)miqdoriy xususiyat;
+C)sifat belgisi;
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q54: Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
+A)ikkinchi darajali guruhlash;
+B)kombinatsiyalangan guruhlash;
+C)ko'p o'lchovli guruhlash.
+====
+to'g'ri javob yo'q
+ANSWER: A
+
+Q55: Statistik jadvalning predmeti:
+A)o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
+B)o'rganish ob'ekti;
+C)aholining umumiy sonli xarakteristikalari.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q56: Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+A)oddiy;
+B)murakkab;
+C)ro'yxat;
+D)monogam.
 ANSWER: A
 
-Q7: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
-B)Ishlab chiqarish jarayonlarini markazlashtirilgan boshqarish usuli.
-C)Faqat davlat tomonidan pul muomalasini tartibga solish tizimi.
-D)Xalqaro savdo bitimlarini tuzishga qaratilgan siyosat.
+Q57: Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
+A)oddiy;
+B)guruh;
+C)kombinatsion.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q8: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
-B)Faqatgina foydani maksimumlashtirish.
-C)Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
-D)Tabiiy resurslarning miqdorini oshirish.
+Q58: “Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
+A)interval.
+B)moment;
+C)to'g'ri javob yo'q
+D)Taqqoslash
 ANSWER: A
 
-Q9: Monetar siyosatning asosiy jihatlari qaysilar?
-A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati.
-B)Soliqlar, subsidiyalar va litsenziyalar.
-C)Ishlab chiqarish vositalarini milliylashtirish, yangi korxonalar barpo etish va aksiyalarni sotib olish.
-D)Ish haftasining maksimal davomiyligini belgilash va eng kam ish haqini aniqlash.
+Q59: Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
+A)taqqoslashlar.
+B)karnaylar;
+C)tuzilmalar;
+D)muvofiqlashtirish;
 ANSWER: A
 
-Q10: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
-B)Davlatning faqat tashqi iqtisodiy aloqalarini tartibga solish mexanizmi
-C)Faqat bozor mexanizmlari orqali amalga oshiriladigan chora-tadbirlar tizimi
-D)Jamiyatdagi siyosiy partiyalarning iqtisodiy qarorlari
+Q60: "Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
+A)Intensivliklari
+B)karnaylar;
+C)tuzilmalar;
+D)muvofiqlashtirish;
 ANSWER: A
 
-Q11: Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
-A)Ijtimoiy ne'matlar yaratish
-B)Xususiy korxonalarning barcha faoliyatini toʻliq nazorat qilish
-C)Faqat strategik tarmoqlarga investitsiya kiritish
-D)Xalqaro tashkilotlarning iqtisodiy qarorlarini qabul qilish
+Q61: "Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
+A)koordinatsiya;
+B)karnaylar;
+C)tuzilmalar;
+D)intensivlik;
 ANSWER: A
 
-Q12: Monetar siyosatning asosiy jihatlaridan biri nima?
-A)Qayta moliyalashtirish siyosati
-B)Davlat budjetining taqsimotini belgilash
-C)Ishlab chiqarish resurslarini toʻgʻridan-toʻgʻri taqsimlash
-D)Soliq stavkalarini oʻzgartirish
+Q62: Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
+A)arifmetik o'rtacha
+B)garmonik o'rtacha
+C)geometrik o'rtacha
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q13: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
-A)Milliy iqtisodiyotning mustaqilligini ta'minlash
-B)Xususiy korxonalarning monopoliyasini oshirish
-C)Bozor mexanizmining toʻliq bekor qilinishi
-D)Cheklanmagan davlat aralashuvi
+Q63: Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
+A)O'zgarmaydi;
+B)2 barobar oshirish;
+C)4 marta o'zgaradi.
+D)2 barobar kamayadi
 ANSWER: A
 
-Q14: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
-A)Ekstensiv iqtisodiy oʻsish
-B)Intensiv iqtisodiy oʻsish
-C)Aralash iqtisodiy oʻsish
-D)Barqaror iqtisodiy oʻsish
+Q64: Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
+A)taqiqlangan;
+B)Balki;
+C)qo'shimcha shartlar qo'yilsa mumkin;
+D)muayyan populyatsiyalar uchun mumkin
 ANSWER: A
 
-Q15: Pul massasining qisqartirilishi va pul chiqarishning qat'iy chegaralanishini oʻz ichiga olgan monetar siyosat turi qanday nomlanadi?
-A)Qattiq siyosat
-B)Yumshoq siyosat
-C)Kredit siyosati
-D)Fiskal siyosat
+Q65: Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
+A)2 marta kamayadi
+B)O'zgarmaydi;
+C)2 barobar ortadi;
+D)ortadi.
 ANSWER: A
 
-Q16: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi
-B)Iqtisodiyotning qonun-qoidalariga amal qilish chorasi
-C)Davlatning narx-navoni tartibga solish boʻyicha faoliyati
-D)Faqat ichki bozorni rivojlantirishga qaratilgan harakatlar
+Q66: Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
+Xarakteristikaning o'zgarishi quyidagilarga teng:
+A)25;
+B)20;
+C)125;
+D)45.
 ANSWER: A
 
-Q17: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitlarga moslashtirish
-B)Faqat eksportni oshirish va importni kamaytirish
-C)Faqat milliy valyutaning qadrini barqarorlashtirish
-D)Xususiy mulkchilikning butunlay bekor qilinishi
+Q67: Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
+A)5 birlikka kamayadi;
+B)variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
+C)O'zgarmaydi;
+D)5 birlikka oshadi.
 ANSWER: A
 
-Q18: Mobilizatsion iqtisodiy strategiya qachon qoʻllaniladi?
-A)Davlatning mavjudligiga tahdid kuchayganida, favqulodda holatlar sharoitida davlatning ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi kuchayganida
-B)Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotda
-C)Ma'lum guruh kishilarning tor egoistik manfaatlarini amalga oshirishga qaratilganda
-D)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atini ta'minlash maqsadida
+Q68: Determinatsiya koeffitsienti bu nisbat:
+A)jami #guruhlararo tafovut
+B)qoldiqdagi guruhlar orasidagi farq
+C)umumiy dispersiyadagi nazariy qiymatlarning farqi
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q19: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
-B)Davlatning faqat soliq va budjetga oid qarorlari.
-C)Bozor mexanizmlarining oʻz-oʻzini tartibga solish qobiliyati.
-D)Xususiy tadbirkorlarning faoliyat erkinligi.
+Q69: Bir qator dinamika xarakterlanadi:
+A)populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
+====
+kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
+B)populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q20: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
-B)Faqat xususiy korxonalarning foydasini oshirish.
-C)Barcha davlat korxonalarini xususiylashtirish.
-D)Xalqaro savdo cheklovlarini toʻliq bekor qilish.
+Q70: Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
+A)zanjirlangan.
+====
+Asosiy;
+B)to'g'ri javob yo'q
+C)dinamikasi
 ANSWER: A
 
-Q21: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
-C)Yangi texnika va texnologiyalarni qoʻllash orqali.
-D)Ishchi kuchi malakasini oshirish orqali.
+Q71: O'sish sur'ati salbiy bo'lishi mumkinmi?
+A)bo'lishi mumkin emas;
+B)ehtimol, agar indikator pasaysa.
+C)to'g'ri javob yo'q
+D)Balki
 ANSWER: A
 
-Q22: Iqtisodiy siyosat nima?
-A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlari yigʻindisidir.
-B)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-C)Faqatgina bozor mexanizmlari orqali iqtisodiyotni tartibga solish usuli.
-D)Xususiy korxonalarning foydasini maksimumlashtirishga qaratilgan faoliyat.
+Q72: Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+A)arifmetik oddiy;
+B)arifmetik vaznli;
+C)harmonik oddiy;
+D)garmonik vaznli.
 ANSWER: A
 
-Q23: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning mustaqilligini ta'minlash.
-B)Faqatgina yirik korxonalarning foydasini oshirish.
-C)Xomashyo resurslarining tugashini tezlashtirish.
-D)Ishsizlik darajasini doimiy ravishda oshirish.
+Q73: Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+A)arifmetik vaznli;
+B)arifmetik oddiy;
+C)harmonik oddiy;
+D)garmonik vaznli.
 ANSWER: A
 
-Q24: Monetar siyosatning qanday turlari mavjud?
-A)Qattiq va yumshoq siyosat.
-B)Ekspansiv va restriktiv siyosat.
-C)To'g'ridan-to'g'ri va bilvosita siyosat.
-D)Fiskal va budjet siyosati.
+Q74: Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
+A)arifmetik o'rtacha;
+B)garmonik o'rtacha;
+C)o'rtacha xronologik.
 ANSWER: A
 
-Q25: Iqtisodiy siyosatning qanday uch darajasi mavjud?
-A)Mikro, makro va meta (xalqaro)
-B)Mikro, makro va milliy
-C)Hududiy, milliy va global
-D)Mahalliy, davlat va federal
+Q75: O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
+A)arifmetik o'rtacha;
+B)garmonik o'rtacha;
+C)geometrik o'rtacha.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q26: 1929-1933-yillardagi iqtisodiy inqiroz davrida tanqidga uchragan minimal davlat aralashuvini yoqlagan iqtisodiy nazariyotchi kim edi?
-A)Adam Smit
-B)J.M. Keyns
-C)M. Fridmen
-D)J. Byukenen
+Q76: Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
+A)analitik moslashtirish;
+B)indeks usuli;
+C)harakatlanuvchi o'rtacha usuli;
+D)korrelyatsiya tahlili.
 ANSWER: A
 
-Q27: Monetar siyosatning uchta asosiy jihati qaysilar?
-A)Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar siyosati va majburiy zaxira siyosati
-B)Fiskal siyosat, savdo siyosati va investitsiya siyosati
-C)Budjet siyosati, narx siyosati va sanoat siyosati
-D)Ijtimoiy siyosat, soliq siyosati va tashqi iqtisodiy siyosat
+Q77: Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
+A)taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
+B)qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q28: Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
-A)Barqaror iqtisodiy oʻsishni, milliy iqtisodiyotning mustaqilligini, iqtisodiy xavfsizlikni va milliy pul qadr-qiymatining barqarorligini ta'minlash.
-B)Korporativ foydani maksimal darajada oshirish va davlat aralashuvini minimallashtirish.
-C)Qisqa muddatli iqtisodiy yutuqlarni uzoq muddatli barqarorlikdan ustun qo'yish.
-D)Faqat eksport hajmini oshirishga e'tibor qaratish, ichki farovonlikni hisobga olmasdan.
+Q78: Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
+A)tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
+B)o'rganilayotgan aholining eng katta birliklarini o'rganish
+C)aholining barcha birliklarini uzluksiz kuzatish
+D)aholi birliklarining bir qismini qisman kuzatish
 ANSWER: A
 
-Q29: Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
-A)Mavjud texnik asoslarni saqlagan holda ishlab chiqarish resurslari miqdorini oshirish orqali o'sish.
-B)Ishlab chiqarish omillarining sifati va texnologiyani takomillashtirish orqali o'sishga erishish.
-C)Innovatsion yechimlar va yuqori mehnat unumdorligiga e'tibor berish.
-D)Ishlab chiqarilgan tovar va xizmatlarning umumiy hajmini kamaytirish.
+Q79: Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
+A)aholi birliklarini tasodifiy tanlash;
+B)aholining eng muhim birliklarini tekshirish;
+C)aholining alohida birliklarini tekshirish;
+aholining barcha birliklarini o'rganish.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q30: Quyidagilardan qaysi biri davlatning klassik iqtisodiy funksiyasiga kirmaydi?
-A)Barcha xususiy korxonalarni bevosita boshqarish.
-B)Pul muomalasini tartibga solish.
-C)Mulk va iste'molchilar huquqlarini himoya qilish.
-D)Aholi daromadlarini qayta taqsimlash.
+Q80: O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
+A)tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
+B)bayonotning ishonchlilik ehtimoli;
+C)modal interval qiymatlari
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q31: Iqtisodiy siyosat nima?
-A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
-B)Iqtisodiyot subyektlarining shaxsiy manfaatlarini himoya qilishga qaratilgan chora-tadbirlar yig'indisi.
-C)Faqatgina davlat korxonalarining samaradorligini oshirishga qaratilgan harakatlar majmuasi.
-D)Xalqaro tashkilotlarning mamlakat iqtisodiyotiga ta'sirini kamaytirishga qaratilgan siyosat.
+Q81: Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
+A)qayta tanlash;
+B)takrorlanmaydigan tanlov.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q32: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yangi texnika va texnologiyalarni qoʻllash hamda ishchi kuchi malakasini oshirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
-A)Intensiv iqtisodiy oʻsish
-B)Ekstensiv iqtisodiy oʻsish
-C)Mobilizatsion iqtisodiy oʻsish
-D)Liberal-iqtisodiy oʻsish
+Q82: Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
+A)guruhlararo tafovut;
+B)umumiy dispersiya;
+C)guruh farqlarining o'rtacha qiymati.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q33: Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
-A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
-B)Faqatgina xususiy korxonalarning foydasini oshirish.
-C)Chet el investitsiyalarini maksimal darajada cheklash.
-D)Bozor mexanizmlarining aralashuvini butunlay yo'q qilish.
+Q83: Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
+A)mamlakatning butun aholisi;
+B)Inson;
+====
+uy xo'jaligi;
+C)doimiy aholi;
 ANSWER: A
 
-Q34: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui
-B)Davlatning tovarlar narxini belgilash usuli
-C)Bozordagi raqobatni cheklash choralari
-D)Faqat xususiy korxonalarni qo'llab-quvvatlash tizimi
+Q84: Aholining o'sish sur'ati birdan kam:
+A)aholi soni kamaymoqda;
+B)aholi soni ortib bormoqda;
+C)aholi bir xil darajada qolmoqda.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q35: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
-B)Faqat foydani maksimumlashtirish
-C)Xalqaro savdo cheklovlarini joriy etish
-D)Iqtisodiy sikllarning to'liq bekor qilinishi
+Q85: Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
+A)ishsiz;
+B)16 yoshgacha bo'lgan o'smirlar;
+C)ruhoniylar;
+D)kunduzgi universitet talabalari.
+E)to'g'ri javob yo'q
 ANSWER: A
 
-Q36: Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
-A)Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga to'g'ri keladigan real YIMning oʻzgarishi
-B)Faqat ishlab chiqarish texnikasini takomillashtirish
-C)Milliy valyuta kursining oʻzgarishi
-D)Faqat eksport hajmining oshishi
+Q86: "Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
+A)tabiiy aholi harakati;
+B)aholining mexanik harakati.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q37: Iqtisodiy siyosat nima?
-A)Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlatning iqtisodiyotni markazlashgan holda boshqarish tizimi.
-C)Bozor mexanizmining oʻz-oʻzini tartibga solish funksiyasi.
-D)Xususiy firmalarning foydani maksimumlashtirishga qaratilgan faoliyati.
+Q87: Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
+A)arifmetik o'rtacha oddiy;
+B)o'rtacha arifmetik og'irlik;
+C)o'rtacha xronologik;
+D)garmonik o'rtacha;
 ANSWER: A
 
-Q38: Davlatning klaster siyosatini yuritishdagi asosiy roli nimadan iborat?
-A)Klasterlarning kelgusida rivojlanishi va transfertlarni boshqarish, subsidiyalar, cheklashlar yoki tartibga solish mas'uliyatini oʻz zimmasiga olish.
-B)Faqatgina moliyaviy yordam koʻrsatish.
-C)Faqat mintaqaviy infratuzilmani qoʻllab-quvvatlash.
-D)Faqatgina tadqiqot tashkilotlari bilan hamkorlikni ta'minlash.
+Q88: Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
+A)o'rta xronologik;
+B)arifmetik o'rtacha;
+C)garmonik o'rtacha;
+====
+geometrik o'rtacha.
 ANSWER: A
 
-Q39: Iqtisodiy oʻsishni oʻlchashda asosiy koʻrsatkich nima hisoblanadi?
-A)Real yalpi ichki mahsulot (YIM) hajmining oʻtgan davrga nisbatan oʻzgarishi.
-B)Aholi jon boshiga toʻgʻri keladigan nominal yalpi ichki mahsulot.
-C)Milliy daromadning mutloq hajmi.
-D)Ishsizlik darajasining oʻzgarishi.
+Q89: “Iqtisodiy faol aholi” bu:
+A)ishli va ishsizlar.
+B)mehnat resurslari;
+====
+mehnatga layoqatli aholi;
+C)Band
 ANSWER: A
 
-Q40: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash
-B)Davlat korxonalarining foydasini maksimumlashtirish
-C)Iqtisodiyotni to'liq markazlashtirilgan holda boshqarish
-D)Barcha xususiy mulkchilik shakllarini bekor qilish
+Q90: Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
+A)o'rtacha aholi soniga;
+B)band aholiga.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q41: Monetar siyosatning uchta asosiy jihati qaysilar?
-A)Qayta moliyalashtirish siyosati, ochiq bozorda operatsiyalar va majburiy zaxira siyosati
-B)Fiskal siyosat, investitsiya siyosati va sanoat siyosati
-C)Soliq siyosati, subsidiyalar siyosati va litsenziyalash siyosati
-D)Narxlarni tartibga solish, tashqi savdoni boshqarish va bandlik siyosati
+Q91: Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
+A)iqtisodiy faol aholi soniga;
+B)umumiy aholi soniga;
+C)xodimlar soniga
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q42: 2022-yilda Oʻzbekiston Respublikasi Yalpi ichki mahsulotining (YIM) real oʻsish sur'ati qancha boʻlgan?
-A)5.7%
-B)3.5%
-C)6.1%
-D)4.0%
+Q92: Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
+A)2 marta;
+B)8 marta;
+C)0,5 marta.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q43: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
-B)Davlat budjetini boshqarish usullari.
-C)Bozor narxlarini belgilash mexanizmi.
-D)Xalqaro savdo shartnomalari tizimi.
+Q93: Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
+A)kapital zichligi ;
+B)yangilanish omili;
+C)likvidlik koeffitsienti;
+D)kapital aylanmasi ;
+E)Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
+F)bir inqilobning davomiyligi;
+undefined)material iste'moli;
+undefined)likvidlik koeffitsienti;
+undefined)kapital zichligi ;
+ANSWER: F
+
+Q94: Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
+A)to'liq almashtirish narxi;
+B)qoldiq almashtirish qiymati;
+C)to'liq asl qiymati;
+D)qoldiq asl qiymati.
+ANSWER: A
+
+Q95: Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
+A)avtomobillar va jihozlar;
+B)savdo belgisi;
+C)foydali qazilmalarni qidirish xarajatlari;
+D)kompyuter dasturi.
+ANSWER: A
+
+Q96: Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
+A)inson kapitali;
+B)Asosiy vositalar;
+C)inventarizatsiya;
+D)ishlab chiqarilmagan moddiy boyliklar;
+ANSWER: A
+
+Q97: Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
+A)asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
+B)asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
+C)kitob qiymati;
+D)yil oxiridagi qiymat.
+ANSWER: A
+
+Q98: Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
+A)kompyuter dasturiy ta'minoti.
+B)tugallanmagan ishlab chiqarish;
+C)tayyor mahsulotlar;
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q99: Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
+A)foydalanish;
+B)kapital zichligi ;
+C)yangilanish omili;
+D)kapital-mehnat nisbati ;
+ANSWER: A
+
+Q100: Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
+A)dinamik qator ko'rsatkichlari.
+B)narx indekslari;
+C)o'rtacha quvvat ko'rsatkichlari;
+D)tizimli o'rtacha ko'rsatkichlar;
+ANSWER: A
+
+Q101: Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
+A)mavsumiylik indeksi
+B)tovar aylanmasining jismoniy hajmi indeksi;
+C)vaqt seriyalari ko'rsatkichlari;
+D)o'rtacha xronologik ko'rsatkichlar
+ANSWER: A
+
+Q102: Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
+A)bozor muvozanatining darajasi;
+B)mahsulot turi
+C)bozor xavfi darajasi;
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q103: Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
+A)2 marta;
+B)8 marta;
+C)0,5 marta.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q104: Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
+A)sotilgan mahsulotlar hajmi;
+B)yalpi qo'shilgan qiymat;
+C)mahsulot (ishlar, xizmatlar) hajmi;
+D)yalpi ishlab chiqarish.
+ANSWER: A
+
+Q105: Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
+A)aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
+B)Foyda
+C)kapital- mehnat nisbati;
+D)Kapital unumdorligi
+ANSWER: A
+
+Q106: O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
+A)ish haqi;
+B)tadbirkorlik faoliyatidan olingan daromadlar;
+====
+mulkdan daromad.
+C)to'g'ri javob yo'q
+ANSWER: A
+
+Q107: Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
+A)uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
+B)uy xo'jaliklari, davlat organlari;
+C)milliy iqtisodiyotning barcha tarmoqlari.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q108: Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
+A)aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
+B)aholi daromadlarining kontsentratsiyasi;
+C)aholi xarajatlari.
+====
+to'g'ri javob yo'q
+ANSWER: A
+
+Q109: Tashqi savdo bojxona statistikasi bo'yicha ma'lumotlarning asosiy manbai quyidagilardan iborat:
+A)yuk bojxona deklaratsiyasi;
+B)bojxona organlarining hisobotlari;
+C)tashqi iqtisodiy faoliyat ishtirokchilarining hisoboti.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q110: Bojxona statistikasi ma'lumotlariga ko'ra tovarlarni import qilish qiymatiga quyidagilar kiradi:
+A)bojxona to'lovlarini to'lamagan holda tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
+B)tovarlarni ishlab chiqarish va eksport qiluvchi davlat chegarasiga yetkazish bilan bog'liq xarajatlar;
+C)tovarlarni ishlab chiqarish va import qiluvchi davlat chegarasiga yetkazish, shu jumladan bojxona to‘lovlarini to‘lash bilan bog‘liq xarajatlar.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q111: Tovarlar eksporti va importini baholash quyidagilar bo'yicha amalga oshiriladi:
+A)statistik qiymat;
+B)bojxona qiymati;
+C)faktura qiymati.
+D)to'g'ri javob yo'q
+ANSWER: A
+
+Q112: Joriy obligatsiya daromadi quyidagicha hisoblanadi:
+A)muayyan davr mobaynida olingan daromadning obligatsiyaning bozor narxiga nisbati sifatida
+B)ma'lum bir vaqtda bozor narxining nisbati sifatida;
+C)obligatsiyaning nominal qiymatining mahsuloti;
+D)chiqarish vaqtida tayinlangan.
+ANSWER: A
+
+Q113: "Statistika" atamasi nimani anglatadi?
+A)holat, narsalarning holati.
+B)uy boshqaruvi
+C)sifat ko'rinishlarining xilma-xilligi
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q44: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
-A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
-B)Har bir fuqaroning shaxsiy boyligini maksimallashtirish.
-C)Korxonalarning raqobatbardoshligini cheklash.
-D)Faqat davlat sektorini rivojlantirish.
+Q114: Statistik ko'rsatkich:
+A)miqdoriy baholash.
+B)daraja
+C)nisbiy ball
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q45: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
-C)Ilgʻor texnologiyalarni joriy etish orqali.
-D)Mehnat unumdorligini oshirish hisobiga.
+Q115: Statistik agregat quyidagicha:
+A)ijtimoiy-iqtisodiy hodisalarning rivojlanish qonuni.
+B)Nazariy fan
+C)o'rganilayotgan hodisaning birliklari
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q46: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir
-B)Iqtisodiyot subyektlarining faqat foyda olishga qaratilgan faoliyati
-C)Davlatning iqtisodiyotga aralashmaslik tamoyili
-D)Faqat milliy valyutaning barqarorligini ta'minlashga qaratilgan harakatlar
+Q116: Statistik ma'lumotlar quyidagilardan iborat:
+A)statistik ma'lumotlar.
+B)kuzatuv
+C)statistik tadqiqot
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q47: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nimadan iborat?
-A)Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash
-B)Faqat firmalarning foydasini maksimumlashtirish
-C)Iste'mol tovarlarining narxini sun'iy ravishda oshirish
-D)Barcha iqtisodiy jarayonlarni to'liq markazlashtirilgan holda boshqarish
+Q117: Statistik kuzatish quyidagi talablarga javob berishi kerak:
+A)ishonchlilik, samaradorlik va ommaviy jozibadorlik
+B)maxfiylik.
+C)Yolg'on
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q48: Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini ko'paytirish orqali
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
-C)Yangi texnologiyalarni qo'llamasdan, faqat eskilarini modernizatsiya qilish
-D)Mehnat unumdorligini pasaytirish va ishchi kuchini ko'paytirish
+Q118: kuzatish sodir bo'ladi:
+A)uzluksiz, uzluksiz, bir martalik oqim, davriy, bir martalik.
+B)bir marta
+C)idoraviy
+D)hammasi noto'g'ri
+++++
+Asosiy massiv usuli quyidagilardan iborat:
+E)o'rganilayotgan belgining qiymati ustun bo'lgan populyatsiya birliklarining qismi ekspertizadan o'tkaziladi.
+F)xarakteristikasi tanlangan aholining bir qismi uchun berilgan
+undefined)ixtiyoriy to'ldirish tamoyiliga asoslangan
+undefined)hammasi noto'g'ri
+ANSWER: E
+
+Q119: Kuzatuvdan maqsad nima?
+A)statistik tadqiqotlar natijasi.
+B)ob'ekt ta'rifi
+C)maqsadlarni shakllantirish
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q120: statistik shakl:
+A)statistik ma'lumotlar
+B)matematik tadqiqotlar
+C)muayyan shakllarning shakllari
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q121: xatolar yuzaga keladi:
+A)kuzatish vaqtida noto'g'ri yozib olinganligi sababli.
+B)hisoblash tufayli
+C)buzilishi tufayli
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q122: Vakillik xatolari quyidagilardan iborat :
+A)vakillikdagi xatolar
+B)hisobotlardagi buzilishlar
+C)tasodifiy xatolar
+D)hammasi noto'g'ri
+ANSWER: A
+
+Q123: Tizimli xatolar mavjud:
+A)qasddan, qasddan .
+B)tasodifiy
+C)maxsus
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q49: Iqtisodiy siyosat doirasida firmaning asosiy maqsadi nima?
-A)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
-B)Shaxsiy iste'molni maksimumlashtirish
-C)Milliy iqtisodiy mustaqillikni ta'minlash
-D)Raqobatni himoya qilish
+Q124: Mantiqiy nazorat quyidagilardan iborat:
+A)javoblarni mantiqiy nuqtai nazardan tekshirish.
+B)arifmetik hisoblash
+C)doimiy ma'lumotlarni namuna olish
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q50: Ishlab chiqarishning mavjud texnikaviy asosi saqlangan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qaysi?
-A)Ekstensiv iqtisodiy oʻsish
-B)Intensiv iqtisodiy oʻsish
-C)Muvozanatli iqtisodiy oʻsish
-D)Innovatsion iqtisodiy oʻsish
+Q125: Monografik tadqiqot nima?
+A)agregat birliklarni batafsil, chuqur o'rganish
+B)aholining bir qismi uchun
+C)ro'yxatga olish o'lchov bilan amalga oshiriladi
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q51: 2022-yilda Oʻzbekistonning real yalpi ichki mahsulot (YIM) oʻsish sur'ati oʻtgan yilga nisbatan necha foizni tashkil etdi?
-A)105.7%
-B)100.9%
-C)112.3%
-D)115.9%
+Q126: Anketa nima?
+A)kuzatish, unda o'rganilayotgan savollarga javoblar suhbatdoshning so'zlaridan yozib olinadi
+B)respondentlarning o'zlari tomonidan to'ldiriladi
+C)kuzatuv olib borayotgan muxbirlar tomonidan taqdim etilgan ma'lumotlar
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q52: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
-A)Milliy pul qadr-qiymatining barqarorligini ta'minlash
-B)Xonadonlarning iste'molini maksimumlashtirish
-C)Firmaning foydasini maksimumlashtirish
-D)Bozor mexanizmini toʻliq cheklash
+Q127: Statistik fan va amaliyot o'rtasida bog'liqlik bormi?
+A)yaqin aloqa va o'zaro bog'liqlik
+B)Yo'q
+C)kamdan-kam hollarda
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q53: Nima sababdan davlat bozor iqtisodiyoti sharoitida ba'zi tovarlarni iste'mol qilishning oqibatlarini obyektiv baholay olmaydigan individual iste'molchilarga nisbatan aralashadi?
-A)Sogʻliqqa salbiy ta'sir ko'rsatuvchi tovarlar iste'molini cheklash uchun
-B)Xususiy korxonalarning foydasini oshirish uchun
-C)Barcha bozor narxlarini tartibga solish uchun
-D)Chet el investitsiyalarini jalb qilish uchun
+Q128: statistik ma'lumotlar:
+A)ijtimoiy hayot hodisalarini miqdoriy tomondan oʻrganuvchi fan
+B)uslubiy asos
+C)ma'lumotlar yig'ish
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q54: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali qanday iqtisodiy oʻsishga erishiladi?
-A)Ekstensiv iqtisodiy oʻsish
-B)Intensiv iqtisodiy oʻsish
-C)Innovatsion iqtisodiy oʻsish
-D)Sifatli iqtisodiy oʻsish
+Q129: Ilgari statistik ma'lumotlarning nomi nima edi?
+A)siyosiy arifmetika
+B)Statistika
+C)Kompyuter fanlari
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q55: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish.
-C)Bozor tizimining samarali amal qilishini ta'minlash.
-D)Xususiy korxonalarning huquqiy mavqeini mustahkamlash.
+Q130: Statistika zamonaviy fanmi yoki ko'p asrlik tarixga egami?
+A)asrlik tarixga ega
+B)ha, zamonaviy
+C)u har doim u erda edi
+D)hammasi noto'g'ri
 ANSWER: A
 
-Q56: Davlat iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish.
-B)Faqat eksportni himoya qilish va mintaqaviy tuzilmalardagi ijobiy siljishlarni qoʻllab-quvvatlash.
-C)Milliy xoʻjaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
-D)Atrof-muhit holatini yaxshilash va iqtisodiy siklni barqarorlashtirish.
+Q131: Bir hil bo'linish sodir bo'lgan guruhlash
+agregatlarni guruhlarga ajratish deyiladi:
+A)tipologik guruhlash
+B)tarkibiy guruhlash
+C)analitik guruh
+D)birlashtirilgan
 ANSWER: A
 
-Q57: Monetar siyosatning asosiy maqsadi nimadan iborat?
-A)Pul muomalasini tartiblash, tovar va pul massasi oʻrtasidagi muvozanatni ta'minlash va pul oqimlarini boshqarish.
-B)Soliq qonunchiligini amalga oshirish va davlat investitsiyalarini tartibga solish.
-C)Daromad va boylikni qayta taqsimlash.
-D)Ishlab chiqarish samaradorligini oshirish.
+Q132: Bajarish texnikasiga ko'ra statistik xulosa quyidagilarga bo'linadi:
+A)oddiy va murakkab uchun.
+B)markazlashmagan
+C)mexanizatsiyalashgan
+D)avtomatlashtirilgan
+++++
+Guruhlashning asosi quyidagilar bo'lishi mumkin:
+E)ham sifat, ham miqdoriy xarakteristikalar;
+F)sifat belgisi
+undefined)miqdoriy xususiyat
+undefined)Atributiv
+ANSWER: E
+
+Q133: Mavzuning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+A)oddiy.
+B)Roʻyxatga kiritilgan
+C)Kombinativ
+D)Xronologik
+++++
+O'zgaruvchi bilan dinamikaning nisbiy ko'rsatkichini olish
+i davr uchun taqqoslash uchun quyidagilar zarur:
+E)joriy ko'rsatkichni asosiy ko'rsatkichga bo'ling.
+F)i-chi va (i - 1) davrlar uchun doimiy taqqoslash bazasi bilan nisbiy dinamika ko'rsatkichlarini ko'paytirish
+undefined)i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i - 1)
+undefined)i-davr uchun doimiy taqqoslash bazasi bilan dinamikaning nisbiy ko'rsatkichini davr uchun o'xshash ko'rsatkichga bo'lish (i + 1)
+ANSWER: E
+
+Q134: Korxona tomonidan ishlab chiqarish rejasini bajarishning nisbiy ko‘rsatkichi 107 foizni tashkil etdi, ishlab chiqarish hajmi esa o‘tgan davrga nisbatan 5 foizga oshdi. Rejaga nima kiritilgan:
+A)ishlab chiqarish hajmining o'sishi.
+B)ishlab chiqarish hajmining pasayishi
+C)javob berish mumkin emas
+D)Ishlab chiqarish hajmining kamayishi yoki ko'payishi nazarda tutilmaganmi?
 ANSWER: A
 
-Q58: Davlatning iqtisodiy siyosati qaysi siyosat turlarini oʻz ichiga oladi?
-A)Tashqi iqtisodiy, tarkibiy-investitsiyaviy, institutsional, agrar, sanoat, ijtimoiy, narx, moliyaviy, soliq-budjet, pul-kredit, hududiy (mintaqaviy) va ilmiy-texnika va innovatsiya siyosatlari
-B)Fiskal, Monetar, Ijtimoiy, Savdo siyosati
-C)Bevosita va bilvosita ta'sir qilish siyosatlari
-D)Mikro, makro va meta iqtisodiy siyosat
+Q135: Og'irlangan va tortilmagan o'rtacha qiymatlar qachon teng bo'ladi?
+o'zingiz:
+A)tarozi yo'qligida.
+B)agar og'irliklar teng bo'lsa
+C)og'irliklarning yo'qligi yoki tengligi
+D)javob berish mumkin emasmi?
 ANSWER: A
 
-Q59: Monetar siyosatning uchta asosiy jihati qaysilar?
-A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati, majburiy zaxira siyosati
-B)Fiskal siyosat, savdo siyosati, sanoat siyosati
-C)Qattiq monetar siyosat, yumshoq monetar siyosat, neytral monetar siyosat
-D)Soliqqa tortish, subsidiyalar, litsenziyalar
+Q136: Garmonik o'rtacha qanday hollarda qo'llaniladi:
+A)nisbatning soni ham, maxraji ham qachon ma'lum bo'ladi?
+B)hisoblagich noma'lum bo'lganda
+C)maxraj noma'lum bo'lganda
+D)javob berish mumkin emas
 ANSWER: A
 
-Q60: Ekstensiv iqtisodiy oʻsishning asosiy xususiyati nimada?
-A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladi
-B)Ishlab chiqarish omillarining sifatini yaxshilash va yangi texnologiyalarni qoʻllash orqali erishiladi
-C)Fundamental fanni rivojlantirish va innovatsiyalarga sarmoya kiritishga e'tibor qaratiladi
-D)Tranzaksiya xarajatlarini kamaytirish va institutsional mexanizmlarni takomillashtirish
+Q137: Barcha chastotalar ga kamaytirilsa, o'rtacha o'zgaradimi
+ba'zi doimiy qiymat:
+A)O'zgartirish
+B)O'zgarmaydi
+C)Kamayadi
+D)oshadimi?
 ANSWER: A
 
-Q61: Davlat iqtisodiy siyosatining asosiy maqsadlariga nimalar kiradi?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va xalq farovonligini oshirish.
-B)Faqat milliy iqtisodiyotning qisqa muddatli oʻsishini ta'minlash.
-C)Asosan xususiy firmalarning foydasini maksimumlashtirish.
-D)Bozor mexanizmining har qanday aralashuvsiz ishlashini kafolatlash.
+Q138: Eng ko'p uchraydigan statistik populyatsiya xarakteristikasining qiymati deyiladi:
+A)arifmetik o'rtacha og'irlik
+B)vaznli geometrik o'rtacha
+C)Moda
+D)Median
 ANSWER: A
 
-Q62: Iqtisodiy oʻsishni oʻlchashning asosiy usullari qaysilar?
-A)Real yalpi ichki mahsulot (YIM) hajmining oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi.
-B)Faqat nominal yalpi ichki mahsulotning oʻsishi.
-C)Ishsizlik darajasi va inflyatsiya koʻrsatkichlari.
-D)Eksport va import hajmining dinamikasi.
+Q139: Statistikada median xarakteristikaning qiymati hisoblanadi
+A)to'plangan chastotalar yig'indisi bo'yicha tartiblangan qatorning o'rtasida
+B)aholining 25 foizini ajratib turadi
+C)eng keng tarqalgan
+D)eng yuqori qadriyatlar bilan
 ANSWER: A
 
-Q63: Monetar siyosatning qanday turlari mavjud va ular qanday holatlarda qoʻllaniladi?
-A)Qattiq siyosat (tanglik va inflyatsiyani susaytirishda) va yumshoq siyosat (iqtisodiyot oʻsish pallada boʻlganda).
-B)Fiskal siyosat (budjet tushumlarini oshirishda) va pul-kredit siyosati (narxlarni barqarorlashtirishda).
-C)Toʻgʻridan-toʻgʻri ta'sir qilish (davlat koʻrsatmalariga asoslangan) va bilvosita ta'sir qilish (bozor sharoitlarini yaratishga qaratilgan).
-D)Institutsional siyosat (davlat institutlarini rivojlantirishda) va sanoat siyosati (ishlab chiqarishni modernizatsiya qilishda).
+Q140: Hisoblash uchun geometrik o'rtacha qiymat qo'llaniladi:
+A)ma'lum bir davr uchun o'rtacha stavkalar
+B)kvadratik funksiyalar ko'rinishidagi o'rtachalar
+C)teskari ko'rsatkichlar ko'rinishidagi o'rtacha qiymatlar
+D)individual qiymatlar bilan ifodalangan aholi o'rtacha ko'rsatkichlari
 ANSWER: A
 
-Q64: Iqtisodiy siyosatning qanday darajalari mavjud?
-A)Mikro, makro, meta
-B)Mikro, mezo, mega
-C)Mahalliy, mintaqaviy, milliy
-D)Davlat, xususiy, aralash
+Q141: Garmonik o'rtacha quyidagi hollarda qo'llaniladi:
+A)individual qiymatlar teskari funktsiya sifatida ifodalanadi
+B)individual qiymatlar teskari ko'rsatkichlar shaklida ifodalanadi
+C)individual qiymatlar turli chastotalarga ega
+D)individual qiymatlar quvvat funktsiyasi bilan ifodalanadi
 ANSWER: A
 
-Q65: Davlat iqtisodiy siyosatining asosiy tamoyillari qaysilar?
-A)Samaradorlik, adolatli taqsimot, barqarorlik
-B)Erkinlik, raqobat, monopoliyaga qarshi kurash
-C)Xususiy mulkni himoya qilish, narxlarni erkinlashtirish, bozor ochiqligi
-D)Fiskal siyosat, pul-kredit siyosati, investitsiya siyosati
+Q142: Nisbiy intensivlik ko'rsatkichi quyidagilarni tavsiflaydi:
+A)o'rganilayotgan jarayonning muhitda tarqalish darajasi
+B)bir xil mutlaq ko'rsatkichlarning nisbati
+C)o'rganilayotgan loyihaning tarkibiy qismlari o'rtasidagi munosabatlar
+D)joriy va asosiy ko'rsatkichlar nisbati
 ANSWER: A
 
-Q66: Iqtisodiy siyosat sohasidagi ilk urinishlar qaysi asrda amalga oshirilgan va qaysi mamlakat bunga misol qilib keltirilgan?
-A)XIX asr oxiri, Germaniya
-B)XVIII asr oxiri, Buyuk Britaniya
-C)XIX asr boshi, Fransiya
-D)XX asr boshi, AQSh
+Q143: Variant - bu ...
+A)vaqt davomida ommaviy hodisalarning o'zgarishi
+B)statistik aholi tarkibining o'zgarishi
+C)xarakterli qiymatlarning o'zgarishi
+D)aholi tarkibining o'zgarishi
 ANSWER: A
 
-Q67: Iqtisodiy siyosat nima?
-A)Bu iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir
-B)Bu faqat davlat byudjetini boshqarish bilan bog'liq faoliyatdir
-C)Bu faqat narxlarni tartibga solishga qaratilgan chora-tadbirlar tizimidir
-D)Bu faqat xalqaro savdoni rivojlantirishga qaratilgan siyosatdir
+Q144: O'zgaruvchanlik koeffitsienti nima bilan tavsiflanadi:
+A)xususiyatning o'zgaruvchanlik diapazoni
+B)xususiyatning o'zgaruvchanlik darajasi
+C)xususiyatlar o'rtasidagi yaqin aloqa
+D)belgining o'zgaruvchanlik chegaralari ?
 ANSWER: A
 
-Q68: Davlatning iqtisodiy siyosatining asosiy maqsadi nimalardan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni oʻzgaruvchan sharoitga moslashtirish
-B)Faqat ichki bozorlarda raqobatni cheklash
-C)Xususiy mulkchilikni butunlay bekor qilish
-D)Faqat qishloq xoʻjaligi sektorini rivojlantirish
+Q145: Agar atributning barcha qiymatlari 16 marta oshirilsa, dispersiya ...
+A)O'zgarmaydi
+B)16 barobar ortadi
+C)256 barobar ortadi
+D)4 barobar ortadi
 ANSWER: A
 
-Q69: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali erishiladigan iqtisodiy o'sish qanday nomlanadi?
-A)Intensiv iqtisodiy o'sish
-B)Ekstensiv iqtisodiy o'sish
-C)Innovatsion iqtisodiy o'sish
-D)Global iqtisodiy o'sish
+Q146: Guruhlararo dispersiya qanday bo'ladi, agar ular orasida farq bo'lmasa
+Guruhlardagi variantlar:
+A)birlik
+B)nol
+C)Noldan birgacha o'zgaradi
+D)umumiy farq?
 ANSWER: A
 
-Q70: Iqtisodiy siyosat nima?
-A)Bu iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Bu faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
-C)Bu faqat bozor mexanizmlarini tartibga solishga qaratilgan chora-tadbirlar.
-D)Bu faqat xususiy firmalarning foydani maksimallashtirish strategiyasi.
+Q147: Ijtimoiy statistika nima qiladi?
+A)Ijtimoiy statistika jamiyatning ijtimoiy va demografik tuzilishining miqdoriy xususiyatlarini, odamlar hayoti va faoliyatini, davlat va huquq bilan munosabatlarini oʻrganadi.
+B)Ijtimoiy statistika materiallarni tadqiq qilish va qayta ishlash uchun maxsus metodologiyani ishlab chiqadi
+C)Ijtimoiy statistika ma'lumotlarni to'plashda amaliy inson faoliyatining alohida turidir
+D)Ijtimoiy statistika - bu korxonalar tomonidan hisobot hujjatlarida taqdim etiladigan aniq ma'lumot
 ANSWER: A
 
-Q71: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
-B)Korporativ foydani maksimallashtirish.
-C)Xususiy mulkni milliylashtirish.
-D)Bozor raqobatini cheklash.
+Q148: Ijtimoiy statistikaning tadqiqot ob'ektlari ...
+A)individual ob'ekt va jamoa ob'ekti (oila, yakka tartibdagi fermer xo'jaliklari)
+B)iqtisodiy hodisalarning miqdoriy xarakteristikalari
+C)maxsus ma'lumot ma'lumotlari
+D)odamlarning xatti-harakati
 ANSWER: A
 
-Q72: Iqtisodiy oʻsish sur'atlari real YIM oʻzgarishini hisoblashda qaysi formula orqali topiladi?
-A)(Yt - Yt-1) / Yt-1 * 100%
-B)(Yt + Yt-1) / Yt-1 * 100%
-C)Yt / Yt-1
-D)(Yt * Yt-1) / Yt * 100%
+Q149: Ijtimoiy statistika bo'limlariga tegishli bo'lgan variantlardan tanlang.
+A)aholi statistikasi, aholi statistikasi va
+demografik statistika
+B)moliyaviy statistika, ta'lim darajasi statistikasi
+C)uy-joy sharoitlari statistikasi
+D)tabiiy resurslar va atrof-muhitni muhofaza qilish statistikasi
 ANSWER: A
 
-Q73: Iqtisodiyotning rivojlanishi va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yigʻindisi qanday ataladi?
-A)Iqtisodiy siyosat
-B)Fiskal siyosat
-C)Monetar siyosat
-D)Ijtimoiy siyosat
+Q150: Bo'sh vaqt statistikasi
+A)statistika sohasi boʻlib, u maʼlum bir davrda (yoki ularning guruhlari) oʻz vaqtini qanday taqsimlashi va oʻtkazishini tavsiflaydi.
+B)ta'minot tomondan dam olish xizmatlarining xususiyatlari
+C)odamlarni o'rganadigan statistika bo'limi
+D)ijtimoiy guruhlarning raqamli ma'lumotlari
 ANSWER: A
 
-Q74: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va oʻzgaruvchan sharoitga moslashtirish
-B)Faqatgina firmaning foydasini maksimumlashtirish
-C)Uy xoʻjaligining iste'molini maksimumlashtirish
-D)Faqatgina pul muomalasini tartibga solish
+Q151: Turmush darajasi bo'yicha statistika nimani o'rganadi?
+A)inson salomatligi holati, umr ko'rish davomiyligi, atrof-muhit sharoitlari, ovqatlanish, kundalik qulaylik, ijtimoiy muhit, madaniy va ma'naviy ehtiyojlarni qondirish, psixologik qulaylik va boshqalar.
+B)insonning iste'mol qilingan moddiy ne'matlarining erishilgan hajmining mosligi.
+C)insonning moddiy ne'matlarining erishilgan hajmining muvofiqligi
+D)turli ijtimoiy guruhlar o'rtasidagi raqamli ma'lumotlar
 ANSWER: A
 
-Q75: Ishlab chiqarish omillarini sifat jihatidan takomillashtirish, yanada progressivroq ishlab chiqarish vositalarini va yangi texnikani qoʻllash orqali erishiladigan iqtisodiy o'sish turi qanday nomlanadi?
-A)Intensiv iqtisodiy oʻsish
-B)Ekstensiv iqtisodiy oʻsish
-C)Inqilobiy iqtisodiy oʻsish
-D)Barqaror iqtisodiy oʻsish
+Q152: Aholining turmush darajasi qanday?
+A)Bu munosib hayot uchun moddiy resurslarga kirish: sog'lom turmush tarzini saqlash. Hududiy va ijtimoiy harakatchanlikni, axborot almashinuvini va jamiyat hayotida ishtirokini ta'minlash.
+B)Bu jamiyatning ijtimoiy hayotidagi munosabatlar tizimini miqdoriy va sifat jihatidan baholashdir
+C)Bu o'rganilayotgan hodisa xossasining miqdoriy xarakteristikasidir.
+D)Bu aholining real ish haqi va o'sha mahsulotlar o'rtasidagi nisbatdir
 ANSWER: A
 
-Q76: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
-B)Iqtisodiyot qonun-qoidalariga amal qilish.
-C)Davlatning iqtisodiy jarayonlarga aralashuvi mexanizmi.
-D)Foydani maksimumlashtirishga qaratilgan faoliyat.
+Q153: Ijtimoiy statistikaning xususiyatlariga nima tegishli ekanligini tanlang.
+A)Miqdoriy va nomiqdoriy ma'lumotlardan foydalanadi.O'rganilayotgan aholining ijtimoiy-iqtisodiy turlarini aniqlang va statistik kuzatish ma'lumotlarini umumlashtiring. Ijtimoiy ma'lumotlarni qayta ishlash va umumlashtirish uchun maxsus texnikani qo'llaydi
+B)Takroriylik, izchillik va o'zgarishlar tartibi.
+C)Maxsus predmet va o'rganish ob'ektlariga ega.
+D)Ma'lumotlar savollarga javoblar shaklida yig'iladi.
 ANSWER: A
 
-Q77: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Milliy iqtisodiyotning barqaror o'sishini va shu asosda xalq farovonligini ta'minlash.
-B)Faqat firmalarning foydasini oshirish.
-C)Uy xo'jaligining iste'molini maksimumlashtirish.
-D)Xalqaro savdo hajmini oshirish.
+Q154: Uzoq va sog‘lom hayot, bilim olish, iqtisodiy ishlab chiqarishda ishtirok etish...
+A)inson rivojlanishi uchun asosiy imkoniyatlar.
+B)integral ko'rsatkichlar
+C)turmush darajasi ko'rsatkichlari
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q78: 2022-yilda O'zbekistonning Yalpi ichki mahsuloti (YIM) real o'sishi 2021-yilga nisbatan necha foizni tashkil etdi?
-A)5.7%
-B)7.4%
-C)4.7%
-D)6.1%
+Q155: Aholining turmush darajasining integral ko'rsatkichlariga quyidagilar kiradi:
+A)aholi daromadlari va xarajatlari nisbati
+B)jon boshiga o'rtacha daromadning yashash minimumiga nisbati
+C)ixtiyoriy daromadning shartli bo'sh qismi miqdori
+D)aholining qashshoqlik darajasi
 ANSWER: A
 
-Q79: Davlatning iqtisodiy siyosatdagi asosiy maqsadi nimadan iborat?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
-B)Foydani maksimumlashtirish
-C)Iste'molni maksimumlashtirish
-D)Kelajakni ta'minlash uchun jamg'arma hosil etish
+Q156: YaIM kontseptsiyasini joriy etishni birinchi marta kim va qachon taklif qilgan?
+A)Saymon Kuznets, amerikalik iqtisodchi, 1934 yil
+B)Vasiliy Leontief, amerikalik iqtisodchi, 1937 yil
+C)Milton Fridman, amerikalik iqtisodchi, 1947 yil
+D)Leonid Vitalievich Kantorovich, rus iqtisodchisi, 1949 yil
 ANSWER: A
 
-Q80: Iqtisodiyotdagi davlatning roli masalasini ilmiy asosda birinchi marta kim koʻrib chiqqan?
-A)Adam Smit
-B)J.M. Keyns
-C)M. Fridmen
-D)J. Byukenen
+Q157: Iqtisodiyot va statistikada YaIM nima?
+A)Yalpi ichki mahsulot
+B)Yalpi tashqi mahsulot
+C)Mahalliy valyuta tovari
+D)Tashqi valyuta ishlab chiqarish
 ANSWER: A
 
-Q81: Ekstensiv iqtisodiy oʻsish qanday yoʻl bilan erishiladi?
-A)Mavjud texnikaviy asos saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
-B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
-C)Yangi texnika va texnologiyalarni qoʻllash orqali
-D)Mehnat unumdorligini oshirish hisobiga
+Q158: Statistik kuzatish ob'ekti hisoblanadi
+A)statistik aholi
+B)kuzatish birligi
+C)aholi birligi
+D)hisobot birligi
+++++
+Statistik kuzatish paytida ma'lumotlar olinadigan sub'ekt deyiladi
+E)hisobot birligi
+F)kuzatish birligi
+undefined)aholi birligi
+undefined)to'g'ri javob yo'q
+ANSWER: E
+
+Q159: Kuzatish jarayonida qayd etilishi kerak bo'lgan belgilar (yoki savollar) ro'yxati deyiladi:
+A)kuzatish dasturi
+B)statistik shakl
+C)kuzatuv vositalari
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q82: Iqtisodiy siyosat nima?
-A)Iqtisodiy subyektlarning oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlatning iqtisodiyotni boshqarish boʻyicha qarorlari.
-C)Bozor mexanizmining mustaqil ishlashi.
-D)Firmalarning foydani maksimumlashtirishga qaratilgan harakatlari.
+Q160: Hisoblangan qiymatlar va o'rganilayotgan miqdorlarning haqiqiy qiymati o'rtasidagi nomuvofiqlik deyiladi:
+A)kuzatish xatosi
+B)ro'yxatga olish xatosi
+C)vakillik xatosi
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q83: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
-B)Faqat milliy iqtisodiyotning mustaqilligini ta'minlash.
-C)Faqat xorijiy investitsiyalarni jalb qilish.
-D)Aholining iste'molini maksimumlashtirish.
+Q161: Mulkchilikning tashkiliy-huquqiy shakllari bo'yicha korxonalarni taqsimlash qaysi guruhlash turini ifodalaydi:
+A)Tipologik
+B)Analitik
+C)Strukturaviy
+D)Ko'p o'lchovli
 ANSWER: A
 
-Q84: Iqtisodiy oʻsishni baholashda qaysi koʻrsatkichlardan foydalanilmaydi?
-A)Hukumatning yillik byudjet taqchilligi miqdori.
-B)Yalpi ichki mahsulotning mutloq hajmi va uning o'sish sur'atlari.
-C)Aholi jon boshiga toʻgʻri keladigan real YIM miqdori.
-D)Iqtisodiy resurs xarajatlari birligi hisobiga YaIM miqdori.
+Q162: Sanoat korxonalarini mulkchilik turlari bo'yicha guruhlash guruhlashga misol bo'la oladi:
+A)Tipologik
+B)Strukturaviy
+C)Analitik
+D)murakkab
 ANSWER: A
 
-Q85: Davlatning iqtisodiy siyosati nima?
-A)Muayyan mamlakatning milliy iqtisodiga taalluqli boʻlgan makroiqtisodiy siyosat yoʻl-yoʻriqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
-B)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-C)Firmaning foydani maksimumlashtirish va iqtisodiy jihatdan barqarorligini ta'minlashga qaratilgan harakatlari.
-D)Uy xoʻjaligining oʻz iste'molini maksimumlashtirish va kelajakni ta'minlash uchun jamg'arma hosil etishdir.
+Q163: Guruhlarning diskret xususiyatlariga quyidagilar kiradi:
+A)oila a'zolari soni
+B)ishchilarning ish haqi
+C)mamlakat aholisi
+D)bank foydasi.
 ANSWER: A
 
-Q86: Davlatning iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning barqaror oʻsishini va shu asosda xalq farovonligini ta'minlash.
-B)Individual korxonalarning maksimal daromad olishini ta'minlash.
-C)Xalqaro savdo hajmini kamaytirish va importga to'liq cheklovlar o'rnatish.
-D)Barcha resurslarni xususiy sektorga to'liq o'tkazish.
+Q164: Guruhlarning atributiv xususiyatlariga quyidagilar kiradi:
+A)odamning jinsi;
+B)korxona foydasi;
+C)ish darajasi;
+D)poyabzal o'lchami.
 ANSWER: A
 
-Q87: Davlatning ijtimoiy samarali iqtisodiy strategiyasi nimani ifodalaydi?
-A)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini, toʻliq samarali ish bilan bandlikka, inflyatsiyani jilovlashga va daromadlarning odilona taqsimlanishiga erishish.
-B)Muayyan guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlarini amalga oshirish.
-C)Tovar va kapitalning erkin harakati uchun ochiq boʻlgan iqtisodiyotni qoʻllash.
-D)Davlatning mavjudligiga tahdid kuchayganida, ishlab chiqarish va tashqi iqtisodiy aloqalarga toʻgʻridan-toʻgʻri aralashuvi.
+Q165: Guruhlashning asosi quyidagilar bo'lishi mumkin:
+A)ham miqdoriy belgi, ham sifat belgisi.
+B)miqdoriy xususiyat;
+C)sifat belgisi;
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q88: Davlat iqtisodiy siyosatining asosiy maqsadi nima?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
-B)Xonadonlarning iste'molini maksimumlashtirish
-C)Firmalar foydasini maksimumlashtirish
-D)Bozordagi raqobatni himoya qilish
+Q166: Oldindan tuzilgan guruhlash asosida yangi guruhlarni shakllantirish operatsiyasi deyiladi:
+A)ikkinchi darajali guruhlash;
+B)kombinatsiyalangan guruhlash;
+C)ko'p o'lchovli guruhlash.
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q89: Iqtisodiyotni davlat tomonidan tartibga solish obyektlariga nimalar kiradi?
-A)Iqtisodiy sikl va pul muomalasi
-B)Ayrim firmaning ichki boshqaruvi
-C)Xonadonlarning kundalik iste'mol tanlovlari
-D)Muayyan mahsulotning reklama strategiyasi
+Q167: Statistik jadvalning predmeti:
+A)o'rganish ob'ektini tavsiflovchi ko'rsatkichlar tizimi
+B)o'rganish ob'ekti;
+C)aholining umumiy sonli xarakteristikalari.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q90: Erkin iqtisodiyotning asosiy tamoyillaridan biri qaysi?
-A)Davlatning iqtisodiyotga aralashuvi cheklanganligi
-B)Narxlar va foiz stavkalarini davlat tomonidan nazorat qilish
-C)Barcha resurslarni markazlashgan holda taqsimlash
-D)Davlat sektorining iqtisodiyotda hukmron kuch boʻlishi
+Q168: Predikatning rivojlanish xususiyatiga ko'ra statistik jadvallar ajratiladi:
+A)oddiy;
+B)murakkab;
+C)ro'yxat;
+D)monogam.
 ANSWER: A
 
-Q91: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlatning iqtisodiyotni boshqarish bo'yicha harakatlari.
-C)Faqat bozor mexanizmlari orqali amalga oshiriladigan tartibga solish.
-D)Xalqaro savdo shartnomalari tizimi.
+Q169: Birgalikda olingan ikkita xususiyatga asoslangan guruhlash uchun qanday jadval turi qo'llaniladi :
+A)oddiy;
+B)guruh;
+C)kombinatsion.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q92: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
-B)Faqatgina korxonalarning foydasini oshirish.
-C)Faqat tashqi savdo hajmini oshirish.
-D)Pul muomalasini to'liq nazorat qilish.
+Q170: “Mahsulot va xizmatlar ishlab chiqarish hajmi” ko‘rsatkichi vaqt omilining qaysi turi hisoblanadi?
+A)interval.
+B)moment;
+C)to'g'ri javob yo'q
+D)Taqqoslash
 ANSWER: A
 
-Q93: Mobilizatsion iqtisodiy strategiya qanday sharoitlarda qo'llaniladi?
-A)Davlatning mavjudligiga tahdid kuchayganida va favqulodda holatlar sharoitida.
-B)Tovar va kapitalning erkin harakati uchun ochiq iqtisodiyotda.
-C)Ma'lum guruh kishilarning boylik orttirishga qaratilgan tor egoistik manfaatlari amalga oshirilganda.
-D)Fuqarolar uchun maqbul tarkibdagi pirovard mahsulotning yuqori oʻsish sur'atining barqarorligini ta'minlash maqsadida.
+Q171: Turli ob'ektlarni tavsiflovchi bir xil mutlaq ko'rsatkichning nisbati nisbiy qiymat deb ataladi:
+A)taqqoslashlar.
+B)karnaylar;
+C)tuzilmalar;
+D)muvofiqlashtirish;
 ANSWER: A
 
-Q94: Iqtisodiy siyosatning ta'rifi qanday?
-A)Makroiqtisodiy siyosat bo'lib, uning muayyan mamlakatning milliy iqtisodiga oid puxta o'ylangan va ishlab chiqilgan yo'l-yo'riqlari va ulardan kelib chiqadigan sa'y-harakatlaridir.
-B)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
-C)Firmalar foydasini maksimumlashtirishga qaratilgan chora-tadbirlar tizimi.
-D)Bozor mexanizmining davlat aralashuvisiz o'z-o'zini tartibga solish jarayoni.
+Q172: "Qo'pol tug'ilish darajasi" nisbiy ko'rsatkichdir:
+A)Intensivliklari
+B)karnaylar;
+C)tuzilmalar;
+D)muvofiqlashtirish;
 ANSWER: A
 
-Q95: Qaysi iqtisodchi davlatning iqtisodiy jarayonlarga har qanday aralashuvi oxir-oqibatda faqat vaziyatni yomonlashtiradi deb hisoblagan?
-A)Adam Smit
-B)J.M. Keyns
-C)M. Fridmen
-D)J. Byukenen
+Q173: "Korxonaning o'z va qarz mablag'lari nisbati" ko'rsatkichi nisbiy qiymat deb ataladi:
+A)koordinatsiya;
+B)karnaylar;
+C)tuzilmalar;
+D)intensivlik;
 ANSWER: A
 
-Q96: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash, mavjud tuzumni mustahkamlash va uni o'zgarib turuvchi sharoitga moslashtirish.
-B)Xususiy korxonalarning foydasini oshirishni ta'minlash.
-C)Faqat iqtisodiy sikllarni barqarorlashtirishga qaratilgan chora-tadbirlar.
-D)Milliy xo'jaliklarning tarmoq va mintaqaviy tuzilishini takomillashtirish.
+Q174: Bir necha yil davomida o'rtacha yo'qotish koeffitsientini hisoblash uchun quyidagi formuladan foydalaniladi:
+A)arifmetik o'rtacha
+B)garmonik o'rtacha
+C)geometrik o'rtacha
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q97: Davlatning iqtisodiy siyosati nima?
-A)Davlatning iqtisodiyotni rivojlantirish va ijtimoiy-iqtisodiy jarayonlarga ta'sir etish maqsadida bozor iqtisodiyotining amal qilishi uchun qulay sharoitlarni yaratishga qaratilgan maqsadli chora-tadbirlar yig'indisi.
-B)Iqtisodiyot subyektlarining faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuasi.
-C)Jamiyatning madaniy rivojlanishiga ta'sir etuvchi choralar tizimi.
-D)Bozor munosabatlarining hech qanday aralashuvsiz o'z-o'zini tartibga solish jarayoni.
+Q175: Agar barcha og'irliklar ikki baravar oshirilsa, o'rtacha o'zgaradimi?
+A)O'zgarmaydi;
+B)2 barobar oshirish;
+C)4 marta o'zgaradi.
+D)2 barobar kamayadi
 ANSWER: A
 
-Q98: Ekstensiv iqtisodiy o'sish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosni saqlagan holda iqtisodiy resurslar miqdorini ko'paytirish orqali.
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
-C)Aholi jon boshiga real YIMning oshishi hisobiga.
-D)Yangi texnologiyalar va innovatsiyalarni joriy etish orqali.
+Q176: Bitta nisbat uchun o'rtachani turli shakllarda hisoblash mumkinmi:
+A)taqiqlangan;
+B)Balki;
+C)qo'shimcha shartlar qo'yilsa mumkin;
+D)muayyan populyatsiyalar uchun mumkin
 ANSWER: A
 
-Q99: Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqib qanday asosiy maqsadlarni ko'zlaydi?
-A)Barqaror iqtisodiy o'sishni, milliy iqtisodiyotning mustaqilligini va iqtisodiy xavfsizlikni ta'minlash.
-B)Faqat xususiy korxonalarning foydasini maksimumlashtirish.
-C)Ishsizlik darajasini doimiy ravishda yuqori ushlab turish.
-D)Barcha resurslarni markazlashtirilgan holda boshqarish.
+Q177: Agar barcha variantlar 2 marta kamaytirilsa va barcha og'irliklar 2 barobar oshirilsa, garmonik o'rtacha qanday o'zgaradi:
+A)2 marta kamayadi
+B)O'zgarmaydi;
+C)2 barobar ortadi;
+D)ortadi.
 ANSWER: A
 
-Q100: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining oʻz faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlat tomonidan iqtisodiyotni boshqarish usullari.
-C)Bozor mexanizmlari orqali narxlarni tartibga solish.
-D)Xalqaro savdo bitimlarini tuzish.
+Q178: Belgining o'rtacha qiymati 20, o'zgaruvchanlik koeffitsienti esa 25%.
+Xarakteristikaning o'zgarishi quyidagilarga teng:
+A)25;
+B)20;
+C)125;
+D)45.
 ANSWER: A
 
-Q101: Iqtisodiy siyosatning qanday darajalari mavjud?
-A)Mikro, makro va meta.
-B)Mahalliy, mintaqaviy va global.
-C)Taktik, strategik va operativ.
-D)Qisqa muddatli, oʻrta muddatli va uzoq muddatli.
+Q179: Agar barcha variantlar 5 birlikka kamaytirilsa, o'rtacha o'zgaradimi:
+A)5 birlikka kamayadi;
+B)variantning og'irligiga qarab ma'lum bir qiymatga kamayadi;
+C)O'zgarmaydi;
+D)5 birlikka oshadi.
 ANSWER: A
 
-Q102: Ekstensiv iqtisodiy oʻsish qanday erishiladi?
-A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
-B)Ishlab chiqarish omillarining sifat jihatidan takomillashtirilishi orqali.
-C)Yangi texnologiyalarni joriy etish orqali.
-D)Mehnat unumdorligini oshirish orqali.
+Q180: Determinatsiya koeffitsienti bu nisbat:
+A)jami #guruhlararo tafovut
+B)qoldiqdagi guruhlar orasidagi farq
+C)umumiy dispersiyadagi nazariy qiymatlarning farqi
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q103: Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuasi qanday nomlanadi?
-A)Iqtisodiy siyosat
-B)Fiskal siyosat
-C)Monetar siyosat
-D)Tarkibiy siyosat
+Q181: Bir qator dinamika xarakterlanadi:
+A)populyatsiya xususiyatlarining vaqt o'tishi bilan o'zgarishi;
+====
+kosmosdagi populyatsiya xususiyatlarining o'zgarishi;
+B)populyatsiyaning qandaydir belgiga ko'ra tuzilishi.
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q104: Davlatning klassik iqtisodiy funksiyalaridan biri qaysi?
-A)Mulk va iste'molchilar huquqlarini himoya qilish
-B)Barcha narxlarni markazlashgan holda belgilash
-C)Xususiy korxonalarni to'g'ridan-to'g'ri boshqarish
-D)Ishlab chiqarish resurslarini to'liq milliylashtirish
+Q182: Agar bir qator dinamikaning qo'shni darajalari taqqoslansa, ko'rsatkichlar deyiladi:
+A)zanjirlangan.
+====
+Asosiy;
+B)to'g'ri javob yo'q
+C)dinamikasi
 ANSWER: A
 
-Q105: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
-A)Ekstensiv iqtisodiy oʻsish
-B)Innovatsion iqtisodiy oʻsish
-C)Intensiv iqtisodiy oʻsish
-D)Barqaror iqtisodiy rivojlanish
+Q183: O'sish sur'ati salbiy bo'lishi mumkinmi?
+A)bo'lishi mumkin emas;
+B)ehtimol, agar indikator pasaysa.
+C)to'g'ri javob yo'q
+D)Balki
 ANSWER: A
 
-Q106: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlatning iqtisodiyotga aralashuvi mexanizmlari yig'indisi.
-C)Faqat bozor mexanizmlarining samarali ishlashi uchun sharoit yaratish.
-D)Davlatning qonun-qoidalariga amal qilish orqali iqtisodiyotni rivojlantirish.
+Q184: Vaqt oralig'i teng bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+A)arifmetik oddiy;
+B)arifmetik vaznli;
+C)harmonik oddiy;
+D)garmonik vaznli.
 ANSWER: A
 
-Q107: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri qaysi?
-A)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash.
-B)Faqat firmalarning foydasini maksimumlashtirish.
-C)Uy xoʻjaligining iste'molini cheklash.
-D)Faoliyat turlarini davlat nazoratisiz qoldirish.
+Q185: Teng bo'lmagan vaqt oraliqlari bo'lgan intervalli dinamika seriyasining o'rtacha darajasi o'rtacha formula yordamida hisoblanadi:
+A)arifmetik vaznli;
+B)arifmetik oddiy;
+C)harmonik oddiy;
+D)garmonik vaznli.
 ANSWER: A
 
-Q108: Pul massasining qisqartirilishi va uning emissiyasi qat'iy chegaralanishi qaysi monetar siyosat turiga xos?
-A)Qattiq monetar siyosat.
-B)Yumshoq monetar siyosat.
-C)Aralash monetar siyosat.
-D)Kengaytirilgan monetar siyosat.
+Q186: Intervalli dinamika seriyasining o'rtacha darajasi quyidagicha aniqlanadi:
+A)arifmetik o'rtacha;
+B)garmonik o'rtacha;
+C)o'rtacha xronologik.
 ANSWER: A
 
-Q109: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash
-B)Faqat milliy valyuta qadrini barqarorlashtirish
-C)Faqat eksport salohiyatini oshirish
-D)Faqat atrof-muhit holatini yaxshilash
+Q187: O'rtacha o'sish sur'ati quyidagi formula bo'yicha aniqlanadi:
+A)arifmetik o'rtacha;
+B)garmonik o'rtacha;
+C)geometrik o'rtacha.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q110: Monetar siyosatning asosiy jihatlari nechta?
-A)Uch
-B)Ikki
-C)To'rt
-D)Besh
+Q188: Hodisa rivojlanishining asosiy tendentsiyasini aniqlash uchun quyidagilar qo'llaniladi:
+A)analitik moslashtirish;
+B)indeks usuli;
+C)harakatlanuvchi o'rtacha usuli;
+D)korrelyatsiya tahlili.
 ANSWER: A
 
-Q111: Iqtisodiy oʻsishni oʻlchashning ikki asosiy usuli qaysilar?
-A)Yalpi ichki mahsulotning real oʻzgarishi va aholi jon boshiga real YIMning oʻzgarishi
-B)Faqat narxlar indeksi va ish haqi oʻsishi
-C)Faqat eksport va import hajmlarining oʻzgarishi
-D)Faqat davlat budjeti defitsiti va inflyatsiya darajasi
+Q189: Asosiy tendentsiya bir qator dinamikaning o'zgarishini anglatadi:
+A)taraqqiyotning qandaydir umumiy yo'nalishini belgilash.
+B)qator ichida ma'lum oraliqlarda teng ravishda takrorlanadi;
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q112: Iqtisodiy siyosatda davlatning asosiy maqsadi nimalardan iborat?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash
-B)Aholi iste'molini maksimumlashtirish va jamg'arma hosil etish
-C)Foydani maksimumlashtirish va iqtisodiy barqarorlikni ta'minlash
-D)Bozor tizimining samarali amal qilishiga imkon tugʻdiruvchi huquqiy asosni ta'minlash
+Q190: Tanlangan kuzatish deganda biz quyidagilarni nazarda tutamiz:
+A)tasodifiy tanlangan populyatsiya birliklarining bir qismini uzluksiz kuzatish
+B)o'rganilayotgan aholining eng katta birliklarini o'rganish
+C)aholining barcha birliklarini uzluksiz kuzatish
+D)aholi birliklarining bir qismini qisman kuzatish
 ANSWER: A
 
-Q113: Davlatning iqtisodiy siyosati milliy manfaatlardan kelib chiqqan holda qanday asosiy maqsadni koʻzlaydi?
-A)Milliy iqtisodiyotning mustaqilligini ta'minlash
-B)Iqtisodiy aylanmaning uzluksizligini ta'minlash
-C)Aholi turmush farovonligini mustaqil oshirish
-D)Milliy pul qadr-qiymatining barqarorligini ta'minlash
+Q191: Kuzatishning namuna olish usuli quyidagilarga asoslanadi:
+A)aholi birliklarini tasodifiy tanlash;
+B)aholining eng muhim birliklarini tekshirish;
+C)aholining alohida birliklarini tekshirish;
+aholining barcha birliklarini o'rganish.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q114: Pul massasini qisqartirish, uning emissiyasi qat'iy chegaralanishi, narxlar o'smasligi va pul birligining xarid qurbi barqarorlashishi bilan tavsiflanuvchi monetar siyosat turi qanday nomlanadi?
-A)Qattiq monetar siyosat
-B)Yumshoq monetar siyosat
-C)Fiskal siyosat
-D)Investitsiya siyosati
+Q192: O'rtacha tanlab olish xatosi quyidagilarga bog'liq:
+A)tanlama populyatsiyasining xarakteristikalari qiymatlarining o'zgarishi;
+B)bayonotning ishonchlilik ehtimoli;
+C)modal interval qiymatlari
+====
+to'g'ri javob yo'q
 ANSWER: A
 
-Q115: Davlat iqtisodiy siyosatining tarkibiy qismlariga quyidagilardan qaysi biri KIRMADI?
-A)Shaxsiy ehtiyojlarni boshqarish siyosati
-B)Moliyaviy, soliq-budjet siyosati
-C)Institutsional siyosat
-D)Agrar siyosat
+Q193: Teng qiymatlar uchun maksimal tanlab olish xatosi quyidagi hollarda kattaroq bo'ladi:
+A)qayta tanlash;
+B)takrorlanmaydigan tanlov.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q116: Iqtisodiyotda firmaning asosiy maqsadi nima?
-A)Foydani maksimumlashtirish
-B)Iste'molini maksimumlashtirish
-C)Milliy iqtisodiyotning barqaror oʻsishini ta'minlash
-D)Kelajakni ta'minlash uchun jamg'arma hosil etish
+Q194: Ketma-ket namuna olish uchun o'rtacha tanlab olish xatosini aniqlashda quyidagilar hisoblanadi:
+A)guruhlararo tafovut;
+B)umumiy dispersiya;
+C)guruh farqlarining o'rtacha qiymati.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q117: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali
-C)Yangi texnika va texnologiyalarni qoʻllash orqali
-D)Ishchi kuchi malakasini oshirish orqali
+Q195: Aholi ro'yxatini o'tkazishda kuzatuv ob'ekti nima?
+A)mamlakatning butun aholisi;
+B)Inson;
+====
+uy xo'jaligi;
+C)doimiy aholi;
 ANSWER: A
 
-Q118: Iqtisodiy siyosat nimani anglatadi?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlat tomonidan qabul qilinadigan qonunlar toʻplami.
-C)Bozor mexanizmlari orqali iqtisodiyotni oʻz-oʻzini tartibga solish.
-D)Xalqaro tashkilotlar tomonidan belgilangan iqtisodiy qoidalar.
+Q196: Aholining o'sish sur'ati birdan kam:
+A)aholi soni kamaymoqda;
+B)aholi soni ortib bormoqda;
+C)aholi bir xil darajada qolmoqda.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q119: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
-B)Faqat foydani maksimumlashtirish.
-C)Iste'molni maksimumlashtirish va jamg'arma hosil etish.
-D)Raqobatchilik muhitini cheklash.
+Q197: Iqtisodiy faol aholi tarkibiga quyidagilar kiradi:
+A)ishsiz;
+B)16 yoshgacha bo'lgan o'smirlar;
+C)ruhoniylar;
+D)kunduzgi universitet talabalari.
+E)to'g'ri javob yo'q
 ANSWER: A
 
-Q120: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
-A)Mavjud texnikaviy asosni saqlab qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
-B)Ishlab chiqarish omillarini sifat jihatidan takomillashtirish orqali.
-C)Mavjud resurslardan yaxshiroq foydalanish yo'li bilan.
-D)Yangi texnologiyalarni qoʻllash va ishchi kuchi malakasini oshirish orqali.
+Q198: "Umumiy nikoh darajasi " quyidagilarni tavsiflovchi ko'rsatkichlarni anglatadi:
+A)tabiiy aholi harakati;
+B)aholining mexanik harakati.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q121: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
-B)Davlatning faqat pul-kredit siyosati.
-C)Faqat bozor mexanizmlari orqali iqtisodiyotni tartibga solish.
-D)Xususiy korxonalarning foydani maksimumlashtirishga qaratilgan harakatlari.
+Q199: Aholining o'rtacha yillik miqdorini hisoblash uchun qanday o'rtacha ko'rsatkich qo'llaniladi (yil boshidagi va oxiridagi raqam ma'lum)?
+A)arifmetik o'rtacha oddiy;
+B)o'rtacha arifmetik og'irlik;
+C)o'rtacha xronologik;
+D)garmonik o'rtacha;
 ANSWER: A
 
-Q122: Davlatning iqtisodiy siyosati koʻzlaydigan asosiy maqsadlardan biri nimadan iborat?
-A)Milliy iqtisodiyotning mustaqilligini ta'minlash.
-B)Faqat eksport hajmini oshirish.
-C)Xususiy korxonalarning monopolistik mavqeini kuchaytirish.
-D)Ishsizlik darajasini mutlaqo nolga tushirish.
+Q200: Agar 1.01, 1.02, 1.03, 1.04 boʻyicha aholi soni maʼlum boʻlsa, chorakda oʻrtacha oylik aholi sonini aniqlash uchun qanday oʻrtacha koʻrsatkich qoʻllaniladi?
+A)o'rta xronologik;
+B)arifmetik o'rtacha;
+C)garmonik o'rtacha;
+====
+geometrik o'rtacha.
 ANSWER: A
 
-Q123: Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali erishiladigan iqtisodiy oʻsish turi qanday nomlanadi?
-A)Ekstensiv iqtisodiy oʻsish.
-B)Intensiv iqtisodiy oʻsish.
-C)Innovatsion iqtisodiy oʻsish.
-D)Barqaror iqtisodiy oʻsish.
+Q201: “Iqtisodiy faol aholi” bu:
+A)ishli va ishsizlar.
+B)mehnat resurslari;
+====
+mehnatga layoqatli aholi;
+C)Band
 ANSWER: A
 
-Q124: Iqtisodiy o'sishga ta'sir ko'rsatuvchi omillar shartli ravishda qaysi uch guruhga ajratiladi?
-A)Talab, taklif va taqsimlash omillari
-B)Tabiiy, ijtimoiy va madaniy omillar
-C)Ichki, tashqi va mintaqaviy omillar
-D)Moliyaviy, institutsional va texnologik omillar
+Q202: Iqtisodiy faol aholi darajasi iqtisodiy faol aholi soniga nisbati sifatida aniqlanadi:
+A)o'rtacha aholi soniga;
+B)band aholiga.
+C)to'g'ri javob yo'q
+D)Javob yo'q
 ANSWER: A
 
-Q125: Olimlarning fikricha, iqtisodiy siyosatning asosiy maqsadlariga nimalar kiradi?
-A)Iqtisodiy o'sish, to'liq bandlik, iqtisodiy samaradorlik va narxlar barqarorligi
-B)Faqat milliy iqtisodiyotning iqtisodiy o'sishi va eksport salohiyatini oshirish
-C)Davlat byudjeti profitsitini ta'minlash va importni cheklash
-D)Faollikni rag'batlantirish va atrof-muhitni muhofaza qilish
+Q203: Ishsizlik darajasi ishsizlar soniga nisbati sifatida aniqlanadi:
+A)iqtisodiy faol aholi soniga;
+B)umumiy aholi soniga;
+C)xodimlar soniga
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q126: Iqtisodiy o'sishni o'lchashning asosiy ikki usuli qaysilar?
-A)Real yalpi ichki mahsulotning o'tgan davrga nisbatan o'zgarishi va aholi jon boshiga real yalpi ichki mahsulotning o'zgarishi
-B)Faqat yalpi ichki mahsulotning mutloq hajmini hisoblash
-C)Faqat aholi jon boshiga to'g'ri keladigan milliy daromadni baholash
-D)Faqat ishlab chiqarish omillari miqdorining o'zgarishini tahlil qilish
+Q204: Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
+A)2 marta;
+B)8 marta;
+C)0,5 marta.
+D)to'g'ri javob yo'q
 ANSWER: A
+
+Q205: Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
+A)kapital zichligi ;
+B)yangilanish omili;
+C)likvidlik koeffitsienti;
+D)kapital aylanmasi ;
+E)Aylanma mablag'lar aylanmasini qaysi ko'rsatkichlar tavsiflashini ko'rsating:
+F)bir inqilobning davomiyligi;
+undefined)material iste'moli;
+undefined)likvidlik koeffitsienti;
+undefined)kapital zichligi ;
+ANSWER: F
 
-Q127: Iqtisodiy siyosatning ta'rifi nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Bozor raqobatini kamaytirishga qaratilgan chora-tadbirlar tizimi.
-C)Resurslarni taqsimlash bo'yicha ilmiy nazariyalar to'plami.
-D)Narxlarni faqat davlat tomonidan nazorat qilish.
+Q206: Asosiy vositalarni takror ishlab chiqarish xarajatlari quyidagilar bilan tavsiflanadi:
+A)to'liq almashtirish narxi;
+B)qoldiq almashtirish qiymati;
+C)to'liq asl qiymati;
+D)qoldiq asl qiymati.
 ANSWER: A
 
-Q128: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash.
-B)Yakka tartibdagi firmalarning foydasini maksimallashtirish.
-C)Xalqaro savdoni minimallashtirish.
-D)Barcha ishlab chiqarish resurslarini markazlashtirish.
+Q207: Quyidagi elementlardan qaysi biri moddiy asosiy vositalarga tegishli ekanligini ko‘rsating:
+A)avtomobillar va jihozlar;
+B)savdo belgisi;
+C)foydali qazilmalarni qidirish xarajatlari;
+D)kompyuter dasturi.
 ANSWER: A
 
-Q129: Pul-kredit siyosatining ikki asosiy turi qaysilar?
-A)Qattiq va yumshoq siyosat.
-B)Fiskal va budjet siyosati.
-C)Bevosita va bilvosita ta'sir.
-D)Mikro va makro siyosat.
+Q208: Quyidagi iqtisodiy aktivlardan qaysi biri milliy boylik tarkibiga kirmaydi:
+A)inson kapitali;
+B)Asosiy vositalar;
+C)inventarizatsiya;
+D)ishlab chiqarilmagan moddiy boyliklar;
 ANSWER: A
 
-Q130: Iqtisodiy siyosatning ta'rifi qanday?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yo'l-yo'riqlari va sa'y-harakatlarining majmuidir.
-B)Moliyaviy sektorni tartibga soluvchi barcha qonunlar yigʻindisi.
-C)Xalqaro savdo munosabatlarini boshqarish tizimi.
-D)Barcha ishlab chiqarish resurslarini markazlashtirish jarayoni.
+Q209: Asosiy vositalarni to'liq tiklash qiymati bo'yicha baholash nimani aks ettiradi:
+A)asosiy vositalarni ma'lum bir vaqtda takror ishlab chiqarish xarajatlari;
+B)asosiy vositalarni ishga tushirish vaqtidagi haqiqiy qiymati;
+C)kitob qiymati;
+D)yil oxiridagi qiymat.
 ANSWER: A
 
-Q131: Davlat iqtisodiy siyosatining asosiy maqsadlaridan biri nima?
-A)Milliy iqtisodiyotning mustaqilligini ta'minlash va chet elga qaram bo'lishiga yo'l qo'ymaslik.
-B)Davlat korxonalarining qisqa muddatli foydasini maksimallashtirish.
-C)Barcha iqtisodiy tarmoqlarda qat'iy markaziy rejalashtirishni amalga oshirish.
-D)Iqtisodiyotdagi barcha xususiy mulk shakllarini yo'q qilish.
+Q210: Asosiy vositalar tarkibiga nimalar kiritilganligini ko'rsating:
+A)kompyuter dasturiy ta'minoti.
+B)tugallanmagan ishlab chiqarish;
+C)tayyor mahsulotlar;
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q132: Qattiq monetar siyosatning asosiy xususiyati nima?
-A)Pul massasi qisqartiriladi va uning emissiyasi narxlarni barqarorlashtirish va inflyatsiyani jilovlash uchun qat'iy chegaralanadi.
-B)Davlat pul massasini qat'iy cheklovlarsiz faol ravishda oshiradi.
-C)Markaziy bank iqtisodiyotga ko'proq pul kiritish uchun davlat obligatsiyalarini sotib oladi.
-D)Kredit olish va investitsiyalarni rag'batlantirish uchun foiz stavkalari pasaytiriladi.
+Q211: Asosiy vositalardan foydalanish samaradorligi quyidagi ko'rsatkichlar bilan tavsiflanadi:
+A)foydalanish;
+B)kapital zichligi ;
+C)yangilanish omili;
+D)kapital-mehnat nisbati ;
 ANSWER: A
 
-Q133: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining o'z faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmuidir.
-B)Faqat davlat tomonidan iqtisodiyotni markazlashgan holda boshqarish tizimi.
-C)Bozor mexanizmlari orqali avtomatik ravishda amalga oshiriladigan jarayon.
-D)Jamiyatda pul muomalasini tartibga solishga qaratilgan chora-tadbirlar.
+Q212: Tovar va xizmatlar bozorining rivojlanish tezligini o'rganish uchun quyidagilardan foydalaning:
+A)dinamik qator ko'rsatkichlari.
+B)narx indekslari;
+C)o'rtacha quvvat ko'rsatkichlari;
+D)tizimli o'rtacha ko'rsatkichlar;
 ANSWER: A
 
-Q134: Davlatning iqtisodiy siyosatining asosiy maqsadi nimadan iborat?
-A)Iqtisodiy va ijtimoiy barqarorlikni ta'minlash hamda mavjud tuzumni mustahkamlash.
-B)Faqat davlat daromadlarini maksimumlashtirish.
-C)Xususiy korxonalar faoliyatiga to'liq aralashmaslik.
-D)Faqat tashqi savdo balansini ijobiy holatda saqlash.
+Q213: Talab va taklifning mavsumiy tebranishlarini o'rganish uchun quyidagilardan foydalaning:
+A)mavsumiylik indeksi
+B)tovar aylanmasining jismoniy hajmi indeksi;
+C)vaqt seriyalari ko'rsatkichlari;
+D)o'rtacha xronologik ko'rsatkichlar
 ANSWER: A
 
-Q135: Ekstensiv iqtisodiy oʻsish qanday amalga oshiriladi?
-A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirish orqali.
-B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali.
-C)Yangi texnika va texnologiyalarni qoʻllash hisobiga.
-D)Ishchi kuchining malakasini oshirish orqali.
+Q214: Tovar va xizmatlar bozori holatini tavsiflovchi ko'rsatkichlarni belgilang:
+A)bozor muvozanatining darajasi;
+B)mahsulot turi
+C)bozor xavfi darajasi;
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q136: Iqtisodiy siyosat nima?
-A)Iqtisodiyot subyektlarining faoliyatiga oid yoʻl-yoʻriqlari va sa'y-harakatlarining majmui.
-B)Davlatning faqat soliq yigʻish faoliyati.
-C)Faqat bozor mexanizmining oʻz-oʻzini tartibga solish jarayoni.
-D)Xalqaro tashkilotlarning iqtisodiyotga aralashuvi.
+Q215: Agar mahsulot ishlab chiqarish 4 marta, ishchilar soni 2 barobar oshsa, mehnat unumdorligi necha marta o'zgaradi?
+A)2 marta;
+B)8 marta;
+C)0,5 marta.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q137: Iqtisodiyotni tanglikdan chiqarish yoki inflyatsiyani keskin susaytirish uchun qanday monetar siyosat qoʻllaniladi?
-A)Qattiq monetar siyosat
-B)Yumshoq monetar siyosat
-C)Arzon pul siyosati
-D)Ekspansion siyosat
+Q216: Korxona aylanma mablag'larining aylanish koeffitsientini hisoblashda foydalaniladigan mahsulot ko'rsatkichi:
+A)sotilgan mahsulotlar hajmi;
+B)yalpi qo'shilgan qiymat;
+C)mahsulot (ishlar, xizmatlar) hajmi;
+D)yalpi ishlab chiqarish.
 ANSWER: A
 
-Q138: Davlatning iqtisodiy siyosatidagi asosiy maqsad nima?
-A)Milliy iqtisodiyotning barqaror oʻsishini va xalq farovonligini ta'minlash.
-B)Faqat foydani maksimumlashtirish.
-C)Iste'molni maksimumlashtirish.
-D)Bozor tizimining amal qilishini cheklash.
+Q217: Aylanma mablag'lardan foydalanish samaradorligi quyidagilar bilan tavsiflanadi:
+A)aylanma koeffitsienti, bir aylanishning o'rtacha davomiyligi;
+B)Foyda
+C)kapital- mehnat nisbati;
+D)Kapital unumdorligi
 ANSWER: A
 
-Q139: Iqtisodiy siyosat qanday uch darajada boʻladi?
-A)Mikro, makro va meta
-B)Milliy, hududiy va mahalliy
-C)Toʻgʻridan-toʻgʻri, bilvosita va aralash
-D)Fiskal, monetar va ma'muriy
+Q218: O‘zbekiston Respublikasi aholisi daromadlari tarkibida eng katta ulush quyidagilarga to‘g‘ri keladi:
+A)ish haqi;
+B)tadbirkorlik faoliyatidan olingan daromadlar;
+====
+mulkdan daromad.
+C)to'g'ri javob yo'q
 ANSWER: A
 
-Q140: Monetar siyosatning uchta asosiy jihati nimalardan iborat?
-A)Qayta moliyalashtirish yoki hisob siyosati, ochiq bozorda operatsiyalar oʻtkazish siyosati va majburiy zaxira siyosati
-B)Soliq siyosati, investitsiya siyosati va sanoat siyosati
-C)Pul-kredit siyosati, fiskal siyosat va ijtimoiy siyosat
-D)Daromadlarni taqsimlash, resurslarni taqsimlash va iqtisodiyotni barqarorlashtirish
+Q219: Iqtisodiyotning quyidagi tarmoqlari haqiqiy yakuniy iste'molga ega:
+A)uy xo'jaliklari, davlat idoralari, uy xo'jaliklariga xizmat ko'rsatuvchi notijorat tashkilotlari;
+B)uy xo'jaliklari, davlat organlari;
+C)milliy iqtisodiyotning barcha tarmoqlari.
+D)to'g'ri javob yo'q
 ANSWER: A
 
-Q141: Ekstensiv iqtisodiy oʻsish qanday erishiladi?
-A)Ishlab chiqarishning mavjud texnikaviy asosi saqlanib qolgan holda iqtisodiy resurslar miqdorini koʻpaytirib borish orqali
-B)Ishlab chiqarish omillarini sifat jihatidan yaxshilash orqali
-C)Fan-texnika taraqqiyoti yutuqlaridan foydalanish orqali
-D)Ishchi kuchining malakasini oshirish va tejamkor mehnat predmetlarini qoʻllash orqali
+Q220: Inson taraqqiyoti indeksi quyidagi ko'rsatkichlarga tegishli:
+A)aholi turmush darajasining umumlashtiruvchi ko'rsatkichlari;
+B)aholi daromadlarining kontsentratsiyasi;
+C)aholi xarajatlari.
+====
+to'g'ri javob yo'q
 ANSWER: A
